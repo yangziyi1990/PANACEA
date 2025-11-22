@@ -1,0 +1,2 @@
+fdrA sucD 0.588
+sucC sucD 0.999

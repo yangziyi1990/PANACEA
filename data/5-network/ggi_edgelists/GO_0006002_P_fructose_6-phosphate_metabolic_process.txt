@@ -1,0 +1,3 @@
+PFK1 PFK2
+fbp pfkA
+frlB glmS

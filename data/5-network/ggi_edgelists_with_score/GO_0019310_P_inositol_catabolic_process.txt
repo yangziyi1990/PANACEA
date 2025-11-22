@@ -1,0 +1,13 @@
+iolA iolC 0.945
+iolA iolE 0.913
+iolB iolC 0.999
+iolB iolD 0.999
+iolB iolE 0.999
+iolB iolG 0.999
+iolC iolD 0.999
+iolC iolE 0.986
+iolC iolE 0.999
+iolC iolG 0.992
+iolD iolE 0.999
+iolD iolG 0.999
+iolE iolG 0.999

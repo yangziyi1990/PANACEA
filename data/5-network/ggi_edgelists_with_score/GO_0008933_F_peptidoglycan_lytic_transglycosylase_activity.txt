@@ -1,0 +1,11 @@
+mltA mltB 0.64
+mltA mltB 0.917
+mltA mltC 0.685
+mltA mltC 0.904
+mltA mltF 0.692
+mltA mltF 0.903
+mltB mltC 0.904
+mltB mltF 0.597
+mltB mltF 0.908
+mltC mltF 0.732
+mltC mltF 0.912

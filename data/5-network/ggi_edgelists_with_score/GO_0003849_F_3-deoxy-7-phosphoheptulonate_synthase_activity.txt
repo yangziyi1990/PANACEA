@@ -1,0 +1,5 @@
+ARO3 ARO4 0.956
+aroF aroG 0.908
+aroF aroH 0.905
+aroF aroH 0.912
+aroG aroH 0.906

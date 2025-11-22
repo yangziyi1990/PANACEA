@@ -1,0 +1,7 @@
+CDC37 HSP78 0.439
+CDC37 HSP90 0.991
+HSP78 HSP90 0.835
+ibpA ibpB 0.939
+ibpA ibpB 0.994
+skp surA 0.758
+skp surA 0.986

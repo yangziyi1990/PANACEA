@@ -1,0 +1,13 @@
+AGM1 GFA1 0.946
+AGM1 GNA1 0.994
+AGM1 UAP1 0.996
+GFA1 GNA1 0.993
+GFA1 UAP1 0.89
+GNA1 UAP1 0.936
+glmM glmU 0.799
+glmM glmU 0.988
+glmM glmU 0.99
+glmM glmU 0.994
+glmM glmU 0.997
+glmM glmU 0.998
+glmM glmU 0.999

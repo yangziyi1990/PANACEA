@@ -1,0 +1,10 @@
+pqqA pqqB
+pqqA pqqC
+pqqA pqqD
+pqqA pqqE
+pqqB pqqC
+pqqB pqqD
+pqqB pqqE
+pqqC pqqD
+pqqC pqqE
+pqqD pqqE

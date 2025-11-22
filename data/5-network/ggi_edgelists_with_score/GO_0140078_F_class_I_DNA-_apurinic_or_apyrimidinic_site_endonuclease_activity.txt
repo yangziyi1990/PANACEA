@@ -1,0 +1,6 @@
+FPG1 NTG1 0.835
+NTG1 OGG1 0.953
+mutM nei 0.485
+mutM nth 0.944
+mutM nth 0.98
+nei nth 0.882

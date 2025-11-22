@@ -1,0 +1,14 @@
+CBP1 SPE1
+CBP1 SPE3
+PAN6 SPE1
+SPE1 SPE3
+panB panC
+panB panD
+panB panE
+panB panM
+panC panD
+panC panE
+panC panM
+panD panE
+panD panM
+panE panM

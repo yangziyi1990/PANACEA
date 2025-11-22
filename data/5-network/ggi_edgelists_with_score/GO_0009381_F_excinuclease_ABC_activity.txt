@@ -1,0 +1,14 @@
+uvrA uvrB 0.998
+uvrA uvrB 0.999
+uvrA uvrC 0.938
+uvrA uvrC 0.941
+uvrA uvrC 0.971
+uvrA uvrC 0.977
+uvrA uvrC 0.996
+uvrA uvrC 0.998
+uvrA uvrC 0.999
+uvrB uvrC 0.986
+uvrB uvrC 0.993
+uvrB uvrC 0.994
+uvrB uvrC 0.996
+uvrB uvrC 0.999

@@ -1,0 +1,13 @@
+hutG hutH 0.829
+hutG hutH 0.927
+hutG hutH 0.96
+hutG hutI 0.99
+hutG hutI 0.995
+hutG hutU 0.675
+hutG hutU 0.95
+hutH hutI 0.978
+hutH hutI 0.985
+hutH hutI 0.999
+hutH hutU 0.999
+hutI hutU 0.998
+hutI hutU 0.999

@@ -1,0 +1,6 @@
+katA katE 0.941
+katA katX 0.906
+katE katG 0.937
+katE katG 0.964
+katE katG 0.994
+katE katX 0.961

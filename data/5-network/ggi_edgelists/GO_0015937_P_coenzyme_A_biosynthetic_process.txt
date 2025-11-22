@@ -1,0 +1,15 @@
+coaA coaBC
+coaA coaC
+coaA coaD
+coaA coaE
+coaA coaX
+coaBC coaD
+coaBC coaE
+coaBC coaW
+coaBC coaX
+coaC coaD
+coaD coaE
+coaD coaW
+coaD coaX
+coaE coaW
+coaE coaX

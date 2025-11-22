@@ -1,0 +1,8 @@
+ftsW mrdB 0.686
+ftsW murJ 0.717
+ftsW murJ 0.809
+ftsW murJ 0.972
+ftsW rodA 0.42
+ftsW rodA 0.652
+mrdB murJ 0.789
+mrdB murJ 0.97

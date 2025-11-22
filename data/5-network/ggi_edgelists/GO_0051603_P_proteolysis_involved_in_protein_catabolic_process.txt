@@ -1,0 +1,11 @@
+CYM1 STE23
+bepA degP
+bepA degQ
+clpQ clpX
+clpX degP
+clpX hslU
+clpX hslV
+degP degQ
+degP hslU
+degP hslV
+hslU hslV

@@ -1,0 +1,4 @@
+SLN1 YPD1 0.999
+arcB evgS 0.964
+arcB rcsD 0.913
+evgS rcsD 0.916

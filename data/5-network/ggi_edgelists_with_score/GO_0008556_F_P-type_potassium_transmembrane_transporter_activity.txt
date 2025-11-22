@@ -1,0 +1,14 @@
+kdpA kdpB 0.995
+kdpA kdpB 0.999
+kdpA kdpC 0.999
+kdpA kdpF 0.938
+kdpA kdpF 0.977
+kdpA kdpF 0.999
+kdpB kdpC 0.995
+kdpB kdpC 0.999
+kdpB kdpF 0.427
+kdpB kdpF 0.974
+kdpB kdpF 0.999
+kdpC kdpF 0.941
+kdpC kdpF 0.974
+kdpC kdpF 0.999

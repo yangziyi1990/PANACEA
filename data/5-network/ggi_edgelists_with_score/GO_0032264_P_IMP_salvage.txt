@@ -1,0 +1,2 @@
+gpt gsk 0.929
+gpt hpt 0.985

@@ -1,0 +1,5 @@
+FPG1 NTG1
+NTG1 OGG1
+mutM nei
+mutM nth
+nei nth

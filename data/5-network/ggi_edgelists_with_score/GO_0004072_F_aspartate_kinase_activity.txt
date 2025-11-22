@@ -1,0 +1,2 @@
+lysC metL 0.562
+lysC thrA 0.966

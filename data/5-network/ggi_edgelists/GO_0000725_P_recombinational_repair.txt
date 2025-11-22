@@ -1,0 +1,11 @@
+HMI1 MGM101
+HMI1 RAD50
+addA recR
+helD pcrA
+helD yjcD
+pcrA radA
+pcrA yjcD
+radA recR
+radA rep
+radA uvrD
+radA yjcD

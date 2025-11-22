@@ -1,0 +1,4 @@
+cysA cysT 0.999
+cysA cysW 0.999
+cysT cysW 0.997
+cysT cysW 0.998

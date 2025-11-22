@@ -1,0 +1,14 @@
+RNR1 RNR3
+nrdA nrdB
+nrdA nrdD
+nrdA nrdE
+nrdA nrdG
+nrdB nrdD
+nrdB nrdE
+nrdB nrdG
+nrdD nrdE
+nrdD nrdF
+nrdD nrdG
+nrdE nrdF
+nrdE nrdG
+nrdF nrdG

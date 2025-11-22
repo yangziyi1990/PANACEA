@@ -1,0 +1,15 @@
+bacA srfAC 0.498
+dhbF pksJ 0.999
+dhbF pksM 0.999
+dhbF srfAA 0.999
+dhbF srfAC 0.999
+pksB pksJ 0.978
+pksB pksM 0.959
+pksB srfAA 0.574
+pksB srfAC 0.426
+pksJ pksM 0.999
+pksJ srfAA 0.999
+pksJ srfAC 0.999
+pksM srfAA 0.997
+pksM srfAC 0.999
+srfAA srfAC 0.999

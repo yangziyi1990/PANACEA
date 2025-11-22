@@ -1,0 +1,5 @@
+actP pitB 0.515
+gltP tcyP 0.415
+gltT tcyP 0.427
+melB xylE 0.652
+tdcC tyrP 0.573

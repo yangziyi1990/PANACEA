@@ -1,0 +1,4 @@
+dcd dut 0.919
+dcd dut 0.929
+dcd dut 0.941
+dcd dut 0.983

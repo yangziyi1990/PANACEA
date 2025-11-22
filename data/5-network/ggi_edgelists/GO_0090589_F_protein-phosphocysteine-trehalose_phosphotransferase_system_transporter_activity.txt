@@ -1,0 +1,5 @@
+ascF bglF
+ascF treB
+bglF treB
+bglP sacX
+bglP treP

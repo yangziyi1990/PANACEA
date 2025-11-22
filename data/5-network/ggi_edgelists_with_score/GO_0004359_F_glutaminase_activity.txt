@@ -1,0 +1,4 @@
+HIS7 SNO1 0.691
+glsA glsB 0.914
+glsA glsB 0.927
+glsA purQ 0.9

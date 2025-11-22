@@ -1,0 +1,3 @@
+ARO1 DQD1 0.99
+aroD aroQ 0.914
+aroD aroQ 0.975

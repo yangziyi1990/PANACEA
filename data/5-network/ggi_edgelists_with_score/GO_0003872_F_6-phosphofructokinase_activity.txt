@@ -1,0 +1,2 @@
+PFK1 PFK2 0.999
+pfkA pfkB 0.99

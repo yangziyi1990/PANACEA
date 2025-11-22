@@ -1,0 +1,15 @@
+PHO84 PHO87 0.81
+PHO84 PHO91 0.904
+PHO87 SYG1 0.712
+PHO91 SYG1 0.643
+pitB pstA 0.841
+pitB pstB 0.841
+pitB pstC 0.688
+pstA pstB 0.999
+pstA pstC 0.997
+pstA pstC 0.998
+pstA pstC 0.999
+pstA yjkB 0.877
+pstB pstC 0.99
+pstB pstC 0.999
+pstC yjkB 0.881

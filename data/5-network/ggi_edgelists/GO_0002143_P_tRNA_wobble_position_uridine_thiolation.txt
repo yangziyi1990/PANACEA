@@ -1,0 +1,11 @@
+NCS2 UBA4
+mnmA tusA
+mnmA tusB
+mnmA tusD
+mnmA tusE
+tusA tusB
+tusA tusD
+tusA tusE
+tusB tusD
+tusB tusE
+tusD tusE

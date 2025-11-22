@@ -1,0 +1,5 @@
+fbp glpX 0.912
+fbp glpX 0.967
+fbp glpX 0.976
+fbp yggF 0.95
+glpX yggF 0.905

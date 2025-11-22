@@ -1,0 +1,3 @@
+rluA rluE 0.818
+truA truB 0.719
+truA truB 0.93

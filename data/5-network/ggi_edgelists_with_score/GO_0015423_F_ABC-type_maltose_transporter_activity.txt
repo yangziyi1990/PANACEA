@@ -1,0 +1,6 @@
+ganP ganQ 0.999
+malF malG 0.999
+malF malK 0.997
+malF malK 0.999
+malG malK 0.997
+malG malK 0.999

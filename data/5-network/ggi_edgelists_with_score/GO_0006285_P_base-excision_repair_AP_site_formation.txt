@@ -1,0 +1,5 @@
+FPG1 NTG1 0.835
+NTG1 OGG1 0.953
+alkA mug 0.546
+alkA nth 0.82
+mug nth 0.78

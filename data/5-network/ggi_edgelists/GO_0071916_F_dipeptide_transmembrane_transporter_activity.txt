@@ -1,0 +1,15 @@
+dppB dppC
+dppB dppF
+dppB gsiD
+dppB nikC
+dppB sapB
+dppC dppF
+dppC nikC
+dppC sapB
+dppF gsiD
+dppF nikC
+dppF sapB
+dtpA dtpD
+dtpB dtpD
+gsiD sapB
+nikC sapB

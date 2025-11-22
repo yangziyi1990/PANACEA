@@ -1,0 +1,3 @@
+ada alkA 0.965
+ada ogt 0.469
+alkA ogt 0.926

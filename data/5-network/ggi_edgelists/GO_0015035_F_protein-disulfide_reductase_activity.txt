@@ -1,0 +1,7 @@
+ERO1 MIA40
+ERO1 TRX1
+dsbB dsbC
+dsbB trxA
+trxA ydbP
+trxA yusE
+ydbP yusE

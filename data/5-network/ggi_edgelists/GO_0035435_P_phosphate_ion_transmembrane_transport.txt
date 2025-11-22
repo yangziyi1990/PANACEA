@@ -1,0 +1,12 @@
+glpT pitB
+glpT uhpT
+pitB pstA
+pitB pstB
+pitB pstS
+pitB uhpC
+pitB uhpT
+pstA pstB
+pstA pstS
+pstA yjkB
+pstB pstS
+uhpC uhpT

@@ -1,0 +1,4 @@
+PEL1 PTH1 0.558
+cls clsB 0.407
+cls clsB 0.927
+clsB pssA 0.789

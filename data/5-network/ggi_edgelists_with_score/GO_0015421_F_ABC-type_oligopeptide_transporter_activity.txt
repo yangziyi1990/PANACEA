@@ -1,0 +1,3 @@
+cydC msbA 0.782
+efrA efrB 0.996
+yknU yknV 0.839

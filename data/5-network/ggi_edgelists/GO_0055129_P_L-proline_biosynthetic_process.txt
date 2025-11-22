@@ -1,0 +1,17 @@
+CAR2 PRO2
+CAR2 PRO3
+PRO2 PRO3
+comER proA
+comER proB
+comER proG
+proA proB
+proA proC
+proA proG
+proA rocD
+proB proC
+proB proG
+proB proI
+proB rocD
+proC rocD
+proG rocD
+proI rocD

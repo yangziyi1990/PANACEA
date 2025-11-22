@@ -1,0 +1,15 @@
+entB entC
+entB entD
+entB entE
+entB entF
+entB entH
+entC entD
+entC entE
+entC entF
+entC entH
+entD entE
+entD entF
+entD entH
+entE entF
+entE entH
+entF entH

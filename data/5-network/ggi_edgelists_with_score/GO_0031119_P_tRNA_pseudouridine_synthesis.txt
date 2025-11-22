@@ -1,0 +1,12 @@
+truA truB 0.7
+truA truB 0.711
+truA truB 0.719
+truA truB 0.728
+truA truB 0.913
+truA truB 0.93
+truA truB 0.952
+truA truB 0.962
+truA truD 0.5
+truA truD 0.954
+truB truD 0.426
+truB truD 0.943

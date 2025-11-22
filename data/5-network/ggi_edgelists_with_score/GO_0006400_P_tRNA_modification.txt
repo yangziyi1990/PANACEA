@@ -1,0 +1,17 @@
+miaA queG 0.463
+miaA queG 0.639
+miaA queG 0.661
+miaA rimO 0.509
+miaA tilS 0.467
+miaA tilS 0.493
+miaA tilS 0.495
+miaA tilS 0.625
+queF queG 0.481
+queF queG 0.508
+queF queG 0.587
+queF queG 0.909
+queF queG 0.935
+queG tilS 0.517
+queG truB 0.436
+tilS truB 0.699
+tilS ylbM 0.517

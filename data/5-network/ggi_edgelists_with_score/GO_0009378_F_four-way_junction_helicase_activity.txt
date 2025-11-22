@@ -1,0 +1,14 @@
+CDC47 CDC54 0.999
+CDC47 MCM6 0.999
+CDC54 MCM6 0.999
+MPH1 SGS1 0.896
+rarA recQ 0.873
+rarA ruvA 0.593
+rarA ruvB 0.488
+recQ ruvA 0.634
+recQ ruvA 0.876
+recQ ruvA 0.961
+recQ ruvB 0.61
+recQ ruvB 0.875
+recQ ruvB 0.954
+ruvA ruvB 0.999

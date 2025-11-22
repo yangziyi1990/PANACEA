@@ -1,0 +1,9 @@
+SPO11 TOP2 0.634
+gyrB parC 0.979
+gyrB parC 0.994
+gyrB parC 0.997
+gyrB parC 0.999
+gyrB parE 0.703
+parC parE 0.984
+parC parE 0.998
+parC parE 0.999

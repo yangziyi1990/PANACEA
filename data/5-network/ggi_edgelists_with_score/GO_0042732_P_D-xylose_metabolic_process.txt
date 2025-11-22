@@ -1,0 +1,6 @@
+xylA xylB 0.993
+xylA xylB 0.996
+xylA xylB 0.998
+xylA xylB 0.999
+xylA xylR 0.977
+xylB xylR 0.923

@@ -1,0 +1,13 @@
+chpB mazF 0.737
+chpB yafQ 0.972
+ghoS mazF 0.556
+ghoS yafQ 0.476
+mazF yafQ 0.971
+ndoA rnjA 0.411
+rnjA rnjB 0.99
+rnjA rny 0.671
+rnjA rny 0.998
+rnjA ybeY 0.442
+rnjB rny 0.991
+rny ybeY 0.531
+rny ybeY 0.649

@@ -1,0 +1,14 @@
+INO1 OPI1 0.714
+SCT1 SCT2 0.935
+aas plsX 0.878
+aas plsY 0.874
+dagK gpsA 0.897
+dagK plsY 0.446
+gpsA plsX 0.609
+gpsA plsY 0.981
+plsX plsY 0.984
+plsX plsY 0.991
+plsX plsY 0.995
+plsX plsY 0.996
+plsX plsY 0.998
+plsX plsY 0.999

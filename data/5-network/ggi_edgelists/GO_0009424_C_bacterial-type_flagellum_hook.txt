@@ -1,0 +1,9 @@
+flgE flgK
+flgE flgL
+flgE fliD
+flgK flgL
+flgK fliD
+flgK fliK
+flgL fliD
+flgL fliK
+fliD fliK

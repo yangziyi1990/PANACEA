@@ -1,0 +1,4 @@
+catA catC 0.984
+catA pcaD 0.697
+catA pcaH 0.423
+catC pcaH 0.555

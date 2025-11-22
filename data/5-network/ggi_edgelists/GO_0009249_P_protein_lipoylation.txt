@@ -1,0 +1,15 @@
+birA gcvH
+birA lipA
+birA lipM
+birA lplJ
+gcvH lipA
+gcvH lipB
+gcvH lipM
+gcvH lplA
+gcvH lplJ
+lipA lipB
+lipA lipM
+lipA lplA
+lipA lplJ
+lipB lplA
+lipM lplJ

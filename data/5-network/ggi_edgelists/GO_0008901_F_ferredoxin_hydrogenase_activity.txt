@@ -1,0 +1,11 @@
+hyaA hyaB
+hyaA hybC
+hyaA hybO
+hyaA hycG
+hyaB hybC
+hyaB hybO
+hyaB hycG
+hybC hybO
+hybC hycG
+hybO hycG
+hycG hydN

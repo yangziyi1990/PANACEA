@@ -1,0 +1,17 @@
+COX5 FESUR1
+COX5 NDH51
+COX5 SDH2
+FESUR1 NDH51
+FESUR1 SDH2
+NDH51 SDH2
+cyoB nuoH
+cyoB nuoI
+hycF hyfH
+hycF nuoB
+hycF nuoH
+hycF nuoI
+hyfH nuoH
+hyfH nuoI
+nuoB nuoH
+nuoB nuoI
+nuoH nuoI

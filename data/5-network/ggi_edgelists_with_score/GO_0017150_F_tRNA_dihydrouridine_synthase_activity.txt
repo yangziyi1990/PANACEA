@@ -1,0 +1,2 @@
+dusB dusC 0.422
+dusB dusC 0.548

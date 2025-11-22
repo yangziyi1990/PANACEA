@@ -1,0 +1,8 @@
+CRG1 TRM9 0.692
+rlmM trmL 0.455
+trmL yrrM 0.762
+ycgJ yodH 0.942
+ycgJ yrrM 0.788
+yodH yrhH 0.937
+yodH yrrM 0.938
+yrhH yrrM 0.774

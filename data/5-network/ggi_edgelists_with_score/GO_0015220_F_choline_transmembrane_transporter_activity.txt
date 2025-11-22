@@ -1,0 +1,3 @@
+emrE mdtJ 0.781
+mdtI mdtJ 0.997
+mdtI mdtJ 0.999

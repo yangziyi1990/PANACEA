@@ -1,0 +1,4 @@
+LSC1 LSC2
+fdrA sucC
+fdrA sucD
+sucC sucD

@@ -1,0 +1,7 @@
+phnJ phnK
+phnJ phnM
+phnJ phnP
+phnK phnM
+phnK phnP
+phnM phnP
+phnW phnX

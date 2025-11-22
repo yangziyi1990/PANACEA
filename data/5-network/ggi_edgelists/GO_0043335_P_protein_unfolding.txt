@@ -1,0 +1,5 @@
+HSP104 HSP78
+PEX1 PEX6
+clpA hslU
+clpA tig
+hslU tig

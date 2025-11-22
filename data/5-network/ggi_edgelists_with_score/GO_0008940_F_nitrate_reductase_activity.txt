@@ -1,0 +1,5 @@
+napA narH 0.929
+napA narI 0.903
+narG narH 0.999
+narG narI 0.999
+narH narI 0.999

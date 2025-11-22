@@ -1,0 +1,8 @@
+ADH1 ADH2 0.561
+ADH1 FDH3 0.815
+ADH2 FDH3 0.828
+adhE adhP 0.989
+adhE fucO 0.426
+adhE yiaY 0.938
+adhP fucO 0.823
+adhP yiaY 0.985

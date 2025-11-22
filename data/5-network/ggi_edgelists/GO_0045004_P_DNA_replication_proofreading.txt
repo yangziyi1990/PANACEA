@@ -1,0 +1,5 @@
+POL2 POL3
+dnaQ exoX
+dnaQ polB
+dnaQ rnt
+exoX rnt

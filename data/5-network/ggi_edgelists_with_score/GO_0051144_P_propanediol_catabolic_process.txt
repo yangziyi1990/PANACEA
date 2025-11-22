@@ -1,0 +1,16 @@
+eutL eutM 0.897
+eutL eutS 0.965
+eutL pduA 0.589
+eutL pduE 0.425
+eutL pduJ 0.69
+eutL pduU 0.9
+eutM eutS 0.957
+eutM pduU 0.697
+eutS pduA 0.807
+eutS pduJ 0.805
+pduA pduE 0.705
+pduA pduJ 0.599
+pduA pduU 0.921
+pduE pduJ 0.818
+pduE pduU 0.774
+pduJ pduU 0.96

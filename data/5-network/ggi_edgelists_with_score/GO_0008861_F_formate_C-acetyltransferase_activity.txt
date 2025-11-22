@@ -1,0 +1,2 @@
+grcA pflB 0.622
+pflB tdcE 0.901

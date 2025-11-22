@@ -1,0 +1,6 @@
+pksB pksJ 0.978
+pksB pksM 0.959
+pksB pksN 0.964
+pksJ pksM 0.999
+pksJ pksN 0.999
+pksM pksN 0.999

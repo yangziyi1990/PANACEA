@@ -1,0 +1,7 @@
+tatA tatB
+tatA tatC
+tatA tatE
+tatAD tatAY
+tatB tatC
+tatB tatE
+tatC tatE

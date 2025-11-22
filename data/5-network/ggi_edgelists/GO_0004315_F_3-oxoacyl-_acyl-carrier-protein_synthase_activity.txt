@@ -1,0 +1,11 @@
+CEM1 FAS2
+fabB fabF
+fabF fabH
+fabF fabHB
+fabF grdC
+fabF pksJ
+fabHB pksF
+fabHB pksJ
+pksB pksF
+pksB pksJ
+pksF pksJ

@@ -1,0 +1,2 @@
+pyrE pyrG 0.601
+pyrE pyrG 0.672

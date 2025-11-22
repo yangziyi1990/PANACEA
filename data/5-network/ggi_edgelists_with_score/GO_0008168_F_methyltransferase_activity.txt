@@ -1,0 +1,5 @@
+gcvT glyA 0.996
+gcvT glyA 0.997
+glyA metE 0.459
+glyA samT 0.953
+yqxC ytqB 0.599

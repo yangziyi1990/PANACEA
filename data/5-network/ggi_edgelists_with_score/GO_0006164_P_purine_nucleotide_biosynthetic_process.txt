@@ -1,0 +1,17 @@
+ADE4 ADE6 0.997
+ADE4 MIS11 0.889
+ADE4 PRS1 0.938
+ADE4 PRS5 0.928
+ADE6 MIS11 0.842
+PRS1 PRS5 0.952
+folD prs 0.584
+folD purD 0.758
+folD purF 0.729
+folD purL 0.701
+folD purM 0.817
+purD purF 0.999
+purD purL 0.991
+purD purM 0.999
+purF purL 0.999
+purF purM 0.999
+purL purM 0.999

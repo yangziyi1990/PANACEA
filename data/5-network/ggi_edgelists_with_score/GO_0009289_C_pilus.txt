@@ -1,0 +1,12 @@
+csgA csgB 0.987
+csgB fimA 0.581
+csgB fimH 0.529
+ecpA fimH 0.802
+fimA fimH 0.864
+fimA fimI 0.678
+fimF fimG 0.999
+fimF fimH 0.999
+fimG fimH 0.999
+fimH fimI 0.636
+fimH sfmF 0.997
+yadC yadL 0.894

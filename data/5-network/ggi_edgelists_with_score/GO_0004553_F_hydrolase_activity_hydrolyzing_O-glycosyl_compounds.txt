@@ -1,0 +1,9 @@
+CRH11 UTR2 0.429
+GCA2 SGA1 0.941
+GLC3 SGA1 0.971
+abnB bglS 0.727
+bglS licH 0.636
+bglS xynB 0.44
+glgB pulA 0.989
+lplD melA 0.44
+lplD xynB 0.813

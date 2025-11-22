@@ -1,0 +1,11 @@
+accA accC 0.987
+accA accC 0.99
+accA accC 0.993
+accA accC 0.995
+accA accD 0.999
+accC accD 0.989
+accC accD 0.99
+accC accD 0.992
+accC accD 0.993
+accC accD 0.998
+accC accD 0.999

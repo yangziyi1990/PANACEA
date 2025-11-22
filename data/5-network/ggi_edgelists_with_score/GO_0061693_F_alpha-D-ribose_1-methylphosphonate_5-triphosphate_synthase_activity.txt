@@ -1,0 +1,3 @@
+phnG phnH 0.999
+phnG phnI 0.999
+phnH phnI 0.999

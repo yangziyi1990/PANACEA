@@ -1,0 +1,12 @@
+MSU1 RRP6
+MSU1 SSD1
+REX2 RRP6
+RRP6 SSD1
+kapD pnp
+kapD rph
+kapD yhaM
+orn pnp
+orn rph
+pnp rph
+pnp yhaM
+rph yhaM

@@ -1,0 +1,14 @@
+GAT1 URE2 0.58
+GLN3 NPR1 0.428
+GLN3 URE2 0.859
+NPR1 RSP5 0.615
+glnB glnD 0.987
+glnB glnD 0.999
+glnB glnG 0.905
+glnB glnK 0.669
+glnB glnK 0.965
+glnD glnG 0.918
+glnD glnK 0.884
+glnD glnK 0.993
+glnG glnK 0.577
+glnG glnK 0.968

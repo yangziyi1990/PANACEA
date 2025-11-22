@@ -1,0 +1,3 @@
+cheY cheZ 0.999
+cheY motB 0.77
+cheZ motB 0.942

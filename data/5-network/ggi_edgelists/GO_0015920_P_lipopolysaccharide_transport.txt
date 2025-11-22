@@ -1,0 +1,10 @@
+lptA lptD
+lptA lptE
+lptA lptF
+lptA lptG
+lptD lptE
+lptD lptF
+lptD lptG
+lptE lptF
+lptE lptG
+lptF lptG

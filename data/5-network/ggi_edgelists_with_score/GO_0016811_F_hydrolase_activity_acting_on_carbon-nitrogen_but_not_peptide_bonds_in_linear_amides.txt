@@ -1,0 +1,2 @@
+bshB1 bshB2 0.862
+rutB rutD 0.999

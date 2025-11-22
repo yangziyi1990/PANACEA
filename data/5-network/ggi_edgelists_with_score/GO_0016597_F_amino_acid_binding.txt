@@ -1,0 +1,6 @@
+ARG3 URA2 0.889
+argF pyrB 0.866
+argF pyrB 0.869
+argF pyrB 0.875
+argF pyrB 0.88
+argF pyrB 0.897

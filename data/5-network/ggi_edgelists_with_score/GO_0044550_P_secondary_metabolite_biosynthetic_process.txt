@@ -1,0 +1,7 @@
+bacA srfAC 0.498
+dhbF fabHB 0.537
+dhbF srfAA 0.999
+dhbF srfAC 0.999
+fabHB srfAC 0.502
+fabHB srfAC 0.54
+srfAA srfAC 0.999

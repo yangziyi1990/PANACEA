@@ -1,0 +1,3 @@
+lgt lnt 0.494
+lgt lnt 0.517
+lgt lnt 0.939

@@ -1,0 +1,7 @@
+dps hupA
+dps hupB
+hupA hupB
+mukB mukE
+mukB mukF
+mukE mukF
+racA smc

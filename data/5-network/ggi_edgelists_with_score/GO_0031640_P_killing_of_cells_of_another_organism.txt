@@ -1,0 +1,4 @@
+cidA lrgB 0.941
+lrgA lrgB 0.998
+lrgA lrgB 0.999
+lrgA thiS 0.59

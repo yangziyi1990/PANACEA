@@ -1,0 +1,4 @@
+arsB arsC 0.726
+arsB arsC 0.888
+arsB arsC 0.979
+arsB arsC 0.997

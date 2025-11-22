@@ -1,0 +1,12 @@
+KAR2 LHS1
+KAR2 SSA2
+KAR2 SSB1
+KAR2 SSC1
+KAR2 SSZ1
+SSA2 SSB1
+SSC1 SSZ1
+dnaK hslO
+dnaK tig
+groES hslO
+groES tig
+hslO tig

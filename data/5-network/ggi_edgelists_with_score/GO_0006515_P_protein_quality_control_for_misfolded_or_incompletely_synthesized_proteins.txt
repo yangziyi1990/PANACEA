@@ -1,0 +1,9 @@
+MDJ1 PIM1 0.489
+PIM1 YME1 0.63
+clpP degS 0.406
+clpP degS 0.452
+clpP lon 0.62
+clpP lon 0.679
+clpP lon 0.842
+clpP lon 0.987
+degS lon 0.723

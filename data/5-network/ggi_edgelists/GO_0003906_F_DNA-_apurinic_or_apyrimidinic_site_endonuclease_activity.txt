@@ -1,0 +1,10 @@
+APN1 APN2
+APN1 FPG1
+APN1 NTG1
+APN2 FPG1
+APN2 NTG1
+FPG1 NTG1
+mutM nfo
+mutM nth
+nfo nth
+nth xth

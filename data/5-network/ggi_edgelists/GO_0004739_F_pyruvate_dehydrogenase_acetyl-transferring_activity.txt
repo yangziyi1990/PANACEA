@@ -1,0 +1,3 @@
+PDA1 PDB1
+acoA pdhB
+pdhA pdhB

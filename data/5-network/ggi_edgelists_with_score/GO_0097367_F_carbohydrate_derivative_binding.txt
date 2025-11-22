@@ -1,0 +1,13 @@
+GFA1 PGI1 0.956
+alsR murQ 0.647
+alsR murR 0.478
+diaA kdsD 0.444
+diaA kdsD 0.463
+frlB glmS 0.655
+glmS gutQ 0.408
+glmS pgi 0.915
+glmS pgi 0.924
+glmS pgi 0.964
+hxlB pgi 0.928
+kdsD pgi 0.525
+murQ murR 0.984

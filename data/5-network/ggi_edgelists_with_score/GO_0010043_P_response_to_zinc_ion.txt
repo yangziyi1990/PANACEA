@@ -1,0 +1,6 @@
+mntC mntD 0.997
+mntC znuB 0.63
+mntD znuB 0.844
+sitC znuB 0.501
+sitC znuC 0.949
+znuB znuC 0.999

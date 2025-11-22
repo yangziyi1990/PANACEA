@@ -1,0 +1,12 @@
+comEC comGC 0.976
+comEC comGD 0.965
+comEC comGE 0.903
+comEC comK 0.916
+comGC comGD 0.999
+comGC comGE 0.999
+comGC comK 0.74
+comGD comGE 0.999
+comGD comK 0.723
+comGE comK 0.783
+comK mecA 0.993
+xlyA xlyB 0.784

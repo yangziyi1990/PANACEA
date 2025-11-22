@@ -1,0 +1,5 @@
+kefB kefC 0.505
+kefB kefC 0.775
+kefB kefF 0.978
+kefC kefF 0.999
+mrpA mrpB 0.999

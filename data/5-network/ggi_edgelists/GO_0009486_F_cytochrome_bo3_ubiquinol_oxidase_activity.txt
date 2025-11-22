@@ -1,0 +1,7 @@
+cyoA cyoB
+cyoA cyoC
+cyoA cyoD
+cyoB cyoC
+cyoB cyoD
+cyoC cyoD
+qoxA qoxD

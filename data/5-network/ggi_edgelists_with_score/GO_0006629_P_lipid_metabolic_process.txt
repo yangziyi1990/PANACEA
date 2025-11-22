@@ -1,0 +1,11 @@
+FGR22 PLC2 0.995
+gdh ycdF 0.905
+glpQ pldB 0.914
+glpQ pldB 0.918
+glpQ ugpQ 0.922
+glpQ ugpQ 0.985
+glpQA mprF 0.407
+glpQA yhdW 0.912
+pldB tesA 0.808
+pldB ugpQ 0.91
+pldB ugpQ 0.918

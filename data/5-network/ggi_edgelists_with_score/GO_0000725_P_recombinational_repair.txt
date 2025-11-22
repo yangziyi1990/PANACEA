@@ -1,0 +1,15 @@
+HMI1 MGM101 0.555
+HMI1 RAD50 0.438
+addA recR 0.402
+helD pcrA 0.993
+helD yjcD 0.917
+pcrA radA 0.658
+pcrA radA 0.706
+pcrA radA 0.798
+pcrA yjcD 0.924
+radA recR 0.469
+radA rep 0.578
+radA rep 0.715
+radA uvrD 0.715
+radA uvrD 0.888
+radA yjcD 0.612

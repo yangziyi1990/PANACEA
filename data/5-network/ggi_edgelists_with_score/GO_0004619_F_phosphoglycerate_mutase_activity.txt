@@ -1,0 +1,4 @@
+GPM1 GPM2 0.909
+gpmA gpmI 0.952
+gpmA gpmM 0.942
+gpmA gpmM 0.994

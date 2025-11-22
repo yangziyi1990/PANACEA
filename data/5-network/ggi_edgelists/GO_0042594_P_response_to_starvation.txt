@@ -1,0 +1,4 @@
+MNL1 MSN4
+gppA relA
+gppA spoT
+relA spoT

@@ -1,0 +1,14 @@
+tsaB tsaC 0.724
+tsaB tsaC 0.986
+tsaB tsaD 0.989
+tsaB tsaD 0.999
+tsaB tsaE 0.969
+tsaB tsaE 0.999
+tsaC tsaD 0.768
+tsaC tsaD 0.98
+tsaC tsaE 0.655
+tsaC tsaE 0.959
+tsaD tsaE 0.869
+tsaD tsaE 0.871
+tsaD tsaE 0.998
+tsaD tsaE 0.999

@@ -1,0 +1,3 @@
+garD garL 0.993
+garD garR 0.94
+garL garR 0.999

@@ -1,0 +1,16 @@
+dltA dltB 0.998
+dltA dltB 0.999
+dltA dltC 0.999
+dltA dltD 0.995
+dltA dltD 0.996
+dltA dltD 0.998
+dltA dltD 0.999
+dltA ugtP 0.481
+dltB dltC 0.998
+dltB dltC 0.999
+dltB dltD 0.999
+dltC dltD 0.996
+dltC dltD 0.997
+dltC dltD 0.998
+dltC dltD 0.999
+dltD ugtP 0.421

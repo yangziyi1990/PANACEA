@@ -1,0 +1,2 @@
+bclA1 bclA2 0.574
+bclA2 bclA3 0.649

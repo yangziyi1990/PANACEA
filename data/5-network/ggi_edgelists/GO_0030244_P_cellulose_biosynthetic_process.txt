@@ -1,0 +1,4 @@
+bcsA bcsB
+bcsA bcsC
+bcsA yedQ
+bcsB bcsC

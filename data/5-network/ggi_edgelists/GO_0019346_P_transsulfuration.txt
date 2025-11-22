@@ -1,0 +1,11 @@
+CYS3 CYS4
+CYS3 MET15
+CYS3 STR2
+CYS4 MET15
+CYS4 STR2
+MET15 STR2
+mccB metC
+mccB metI
+megL metC
+metB metC
+metC metI

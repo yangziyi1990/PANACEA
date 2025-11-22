@@ -1,0 +1,13 @@
+NCS2 UBA4 0.704
+mnmA tusA 0.963
+mnmA tusB 0.915
+mnmA tusD 0.951
+mnmA tusE 0.938
+mnmA tusE 0.995
+tusA tusB 0.971
+tusA tusD 0.972
+tusA tusE 0.976
+tusB tusD 0.999
+tusB tusE 0.85
+tusB tusE 0.997
+tusD tusE 0.985

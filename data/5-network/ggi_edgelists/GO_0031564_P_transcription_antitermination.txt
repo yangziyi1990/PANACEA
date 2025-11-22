@@ -1,0 +1,6 @@
+nusA nusB
+nusA nusG
+nusA suhB
+nusB nusG
+nusB suhB
+nusG suhB

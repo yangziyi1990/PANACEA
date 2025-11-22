@@ -1,0 +1,6 @@
+rhaA rhaB
+rhaA rhaD
+rhaA rhaM
+rhaB rhaD
+rhaB rhaM
+rhaD rhaM

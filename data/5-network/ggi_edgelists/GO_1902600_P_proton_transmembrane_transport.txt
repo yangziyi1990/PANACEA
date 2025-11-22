@@ -1,0 +1,4 @@
+kefB kefC
+kefB kefF
+kefC kefF
+mrpA mrpB

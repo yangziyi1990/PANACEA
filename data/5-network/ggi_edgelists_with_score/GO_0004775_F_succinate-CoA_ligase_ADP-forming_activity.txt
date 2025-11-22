@@ -1,0 +1,5 @@
+LSC1 LSC2 0.999
+fdrA sucC 0.962
+fdrA sucC 0.97
+fdrA sucD 0.588
+sucC sucD 0.999

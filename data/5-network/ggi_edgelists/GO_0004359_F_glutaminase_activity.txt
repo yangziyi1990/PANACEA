@@ -1,0 +1,3 @@
+HIS7 SNO1
+glsA glsB
+glsA purQ

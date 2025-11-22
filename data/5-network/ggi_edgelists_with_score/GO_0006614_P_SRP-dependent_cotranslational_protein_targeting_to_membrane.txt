@@ -1,0 +1,7 @@
+ffh flhF 0.635
+ffh ftsY 0.958
+ffh ftsY 0.994
+ffh ftsY 0.995
+ffh ftsY 0.996
+ffh ftsY 0.998
+ffh ftsY 0.999

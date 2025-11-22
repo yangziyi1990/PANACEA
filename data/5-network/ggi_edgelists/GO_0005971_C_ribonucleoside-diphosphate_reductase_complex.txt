@@ -1,0 +1,3 @@
+RNR1 RNR3
+nrdA nrdE
+nrdE nrdF

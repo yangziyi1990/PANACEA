@@ -1,0 +1,6 @@
+fecA fhuA 0.68
+fecA fhuE 0.812
+fecA tonB 0.996
+fhuA fhuE 0.784
+fhuA tonB 0.999
+fhuE tonB 0.987

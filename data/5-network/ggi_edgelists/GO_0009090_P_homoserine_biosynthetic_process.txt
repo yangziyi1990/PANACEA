@@ -1,0 +1,5 @@
+HOM2 HOM3
+HOM2 HOM6
+HOM3 HOM6
+lysC metL
+lysC thrA

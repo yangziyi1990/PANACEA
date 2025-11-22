@@ -1,0 +1,2 @@
+SCT1 SCT2 0.935
+plsB plsY 0.992

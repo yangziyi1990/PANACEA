@@ -1,0 +1,10 @@
+addB recJ 0.502
+addB recJ 0.642
+addB recJ 0.841
+polA recJ 0.665
+polA recJ 0.701
+polA recJ 0.743
+polA recJ 0.76
+polA recJ 0.79
+polA recJ 0.895
+polA xni 0.573

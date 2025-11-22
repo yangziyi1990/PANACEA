@@ -1,0 +1,4 @@
+acnB prpB
+prpB prpE
+prpB prpR
+prpE prpR

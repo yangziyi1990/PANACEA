@@ -1,0 +1,8 @@
+RNH1 RNH35 0.65
+dnaQ rnhB 0.779
+rnhA rnhB 0.746
+rnhA rnhB 0.769
+rnhA rnhB 0.971
+rnhB rnhC 0.992
+rnhB ypeP 0.844
+rnhC ypeP 0.806

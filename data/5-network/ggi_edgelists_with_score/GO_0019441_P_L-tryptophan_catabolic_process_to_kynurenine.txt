@@ -1,0 +1,5 @@
+kynA kynB 0.991
+kynA kynB 0.999
+kynA kynU 0.999
+kynB kynU 0.997
+kynB kynU 0.999

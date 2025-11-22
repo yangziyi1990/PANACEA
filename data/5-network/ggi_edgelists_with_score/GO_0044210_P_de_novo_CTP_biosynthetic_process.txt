@@ -1,0 +1,3 @@
+pyrG pyrH 0.64
+pyrG pyrH 0.892
+pyrG pyrH 0.913

@@ -1,0 +1,9 @@
+garD kduI
+garD uxaB
+garD uxaC
+kduI uxaA
+kduI uxaB
+kduI uxaC
+uxaA uxaB
+uxaA uxaC
+uxaB uxaC

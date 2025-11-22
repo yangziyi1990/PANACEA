@@ -1,0 +1,6 @@
+ilvA ltaE 0.914
+ilvA ltaE 0.949
+ilvA tdcB 0.912
+ilvA thrC 0.967
+ilvA thrC 0.978
+tdcB thrC 0.962

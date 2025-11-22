@@ -1,0 +1,2 @@
+ALS3 HWP1 0.971
+pgaB pgaC 0.988

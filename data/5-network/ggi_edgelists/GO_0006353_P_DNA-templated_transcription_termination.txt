@@ -1,0 +1,7 @@
+mtrB rho
+nusA nusB
+nusA nusG
+nusA rho
+nusB nusG
+nusB rho
+nusG rho

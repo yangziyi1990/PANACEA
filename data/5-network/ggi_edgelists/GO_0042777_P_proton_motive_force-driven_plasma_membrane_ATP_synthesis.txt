@@ -1,0 +1,3 @@
+atpA atpB
+atpA atpG
+atpB atpG

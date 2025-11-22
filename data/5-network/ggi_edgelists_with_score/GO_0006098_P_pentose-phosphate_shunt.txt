@@ -1,0 +1,8 @@
+gnd rpe 0.963
+gndA rpe 0.944
+gndA tkt 0.89
+pgl tal 0.561
+rpe tal 0.507
+rpe tal 0.513
+rpe tkt 0.855
+rpe tkt 0.998

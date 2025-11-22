@@ -1,0 +1,13 @@
+eutA eutB
+eutA eutC
+eutA eutK
+eutA eutL
+eutA eutM
+eutA eutS
+eutB eutC
+eutK eutL
+eutK eutM
+eutK eutS
+eutL eutM
+eutL eutS
+eutM eutS

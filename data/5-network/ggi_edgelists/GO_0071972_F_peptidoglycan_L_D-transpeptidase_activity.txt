@@ -1,0 +1,3 @@
+ldtA ldtE
+ldtB mrdA
+pbpC pbpH

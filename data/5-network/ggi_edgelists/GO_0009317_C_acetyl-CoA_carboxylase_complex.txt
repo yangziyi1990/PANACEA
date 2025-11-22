@@ -1,0 +1,6 @@
+accA accB
+accA accD
+accA yqjD
+accB accD
+accB yqjD
+accD yqjD

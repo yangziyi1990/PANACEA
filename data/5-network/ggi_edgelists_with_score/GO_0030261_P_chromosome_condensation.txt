@@ -1,0 +1,10 @@
+dps hupA 0.573
+dps hupB 0.573
+hupA hupB 0.999
+mukB mukE 0.995
+mukB mukE 0.999
+mukB mukF 0.995
+mukB mukF 0.999
+mukE mukF 0.997
+mukE mukF 0.999
+racA smc 0.687

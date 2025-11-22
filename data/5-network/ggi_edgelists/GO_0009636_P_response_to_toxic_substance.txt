@@ -1,0 +1,6 @@
+HOG1 YHB1
+KAR2 SSA2
+acrD acrF
+acrD mdtE
+acrF mdtE
+ecnA ecnB

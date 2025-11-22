@@ -1,0 +1,9 @@
+CNH1 NHX1
+chaA mdfA
+chaA mdtM
+chaA nhaA
+chaA nhaB
+mdfA nhaA
+mdtM nhaA
+mdtM nhaB
+nhaA nhaB

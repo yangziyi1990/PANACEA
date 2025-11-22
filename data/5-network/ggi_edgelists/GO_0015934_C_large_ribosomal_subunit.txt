@@ -1,0 +1,6 @@
+rplA rplB
+rplA rplJ
+rplA rpmF
+rplB rplJ
+rplB rpmF
+rplJ rpmF

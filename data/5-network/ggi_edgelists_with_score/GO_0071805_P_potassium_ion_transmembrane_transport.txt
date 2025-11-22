@@ -1,0 +1,3 @@
+kdpA kdpB 0.999
+kdpA kdpC 0.999
+kdpB kdpC 0.999

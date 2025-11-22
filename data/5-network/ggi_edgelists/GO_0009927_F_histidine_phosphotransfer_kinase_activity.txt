@@ -1,0 +1,4 @@
+SLN1 YPD1
+arcB evgS
+arcB rcsD
+evgS rcsD

@@ -1,0 +1,6 @@
+napA napD
+napA narH
+napA narI
+narG narH
+narG narI
+narH narI

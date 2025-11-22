@@ -1,0 +1,7 @@
+GDB1 GPH1 0.997
+glgP glgX 0.994
+glgP glgX 0.999
+glgP malP 0.905
+glgP malP 0.912
+glgX malP 0.982
+glgX malP 0.991

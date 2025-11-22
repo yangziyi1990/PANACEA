@@ -1,0 +1,2 @@
+KEM1 RAT1 0.98
+rnjA rnjB 0.99

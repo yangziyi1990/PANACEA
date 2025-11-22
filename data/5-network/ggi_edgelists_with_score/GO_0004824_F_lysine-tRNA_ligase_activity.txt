@@ -1,0 +1,2 @@
+KRS1 MSK1 0.909
+epmA lysS 0.433

@@ -1,0 +1,17 @@
+ESA1 SET2 0.491
+greA greB 0.646
+greA nusG 0.577
+greA nusG 0.593
+greA nusG 0.632
+greA nusG 0.64
+greA nusG 0.65
+greA nusG 0.864
+greA nusG 0.95
+greA rfaH 0.526
+greA rnk 0.636
+greB nusG 0.509
+greB nusG 0.512
+greB nusG 0.921
+greB rfaH 0.755
+greB rnk 0.401
+nusG rfaH 0.95

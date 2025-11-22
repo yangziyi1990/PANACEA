@@ -1,0 +1,5 @@
+AOX1 GOA1
+CAT2 CTN1
+dmsB hybA
+dmsB napA
+hybA napA

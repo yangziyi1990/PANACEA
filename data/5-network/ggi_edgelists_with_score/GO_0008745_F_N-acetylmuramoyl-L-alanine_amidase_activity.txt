@@ -1,0 +1,8 @@
+amiA amiB 0.925
+amiA amiC 0.909
+amiB ampD 0.487
+cwlC cwlD 0.647
+cwlC cwlH 0.911
+cwlC yqiI 0.462
+cwlC yrvJ 0.609
+xlyA xlyB 0.784

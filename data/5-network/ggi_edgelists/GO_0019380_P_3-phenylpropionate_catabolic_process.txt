@@ -1,0 +1,10 @@
+hcaE mhpB
+hcaE mhpC
+hcaE mhpD
+hcaE mhpF
+mhpB mhpC
+mhpB mhpD
+mhpB mhpF
+mhpC mhpD
+mhpC mhpF
+mhpD mhpF

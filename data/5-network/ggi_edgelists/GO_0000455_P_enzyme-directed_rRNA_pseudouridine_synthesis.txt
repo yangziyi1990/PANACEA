@@ -1,0 +1,17 @@
+rluA rluB
+rluA rluF
+rluA rsuA
+rluB rluC
+rluB rluD
+rluB rluF
+rluB rsuA
+rluB truC
+rluB yhcT
+rluC rluD
+rluC rluF
+rluC rsuA
+rluD rluF
+rluD rsuA
+rluF rsuA
+rluF truC
+rsuA truC

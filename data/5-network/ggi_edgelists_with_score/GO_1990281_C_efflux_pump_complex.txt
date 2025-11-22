@@ -1,0 +1,3 @@
+macA mdtA 0.674
+macA tolC 0.999
+mdtA tolC 0.987

@@ -1,0 +1,3 @@
+PDA1 PDB1 0.999
+acoA pdhB 0.996
+pdhA pdhB 0.999

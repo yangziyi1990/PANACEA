@@ -1,0 +1,16 @@
+GDH3 GLT1 0.996
+GDH3 PUT2 0.942
+GLT1 PUT2 0.933
+gdhA glsA 0.91
+gdhA glsA 0.917
+gdhA glsB 0.91
+gdhA gltB 0.998
+gdhA gltB 0.999
+glsA glsB 0.914
+glsA glsB 0.927
+glsA gltB 0.907
+glsA gltB 0.934
+glsA gltB 0.943
+glsB gltB 0.932
+glsB gltB 0.934
+gltB yerD 0.995

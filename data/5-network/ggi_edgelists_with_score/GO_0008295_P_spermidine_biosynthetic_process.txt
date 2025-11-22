@@ -1,0 +1,17 @@
+AFP99 SPE3 0.945
+SPE2 SPE3 0.98
+speA speB 0.966
+speA speB 0.971
+speA speB 0.981
+speA speD 0.74
+speA speE 0.694
+speA speF 0.558
+speB speD 0.859
+speB speD 0.876
+speB speE 0.991
+speB speE 0.996
+speB speE 0.998
+speB speF 0.982
+speD speE 0.999
+speD speF 0.823
+speE speF 0.982

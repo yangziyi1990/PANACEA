@@ -1,0 +1,4 @@
+lacA lacB 0.996
+lacA lacB 0.999
+lacA lacG 0.832
+lacB lacG 0.839

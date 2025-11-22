@@ -1,0 +1,6 @@
+APE2 LAP4
+map pepA
+map pepB
+map pepP
+pepA pepB
+pepA pepP

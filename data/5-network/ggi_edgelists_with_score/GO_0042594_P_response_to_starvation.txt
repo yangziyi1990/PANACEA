@@ -1,0 +1,4 @@
+MNL1 MSN4 0.409
+gppA relA 0.935
+gppA spoT 0.923
+relA spoT 0.917

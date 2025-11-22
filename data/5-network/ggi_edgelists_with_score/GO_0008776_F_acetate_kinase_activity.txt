@@ -1,0 +1,3 @@
+ackA buk 0.511
+ackA buk 0.616
+ackA tdcD 0.913

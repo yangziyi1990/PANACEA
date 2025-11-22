@@ -1,0 +1,13 @@
+fecB fepB
+fecB fhuD
+fepB fhuD
+feuA fhuD
+feuA yclQ
+feuA yfmC
+feuA yhfQ
+fhuD yclQ
+fhuD yfmC
+fhuD yhfQ
+yclQ yfmC
+yclQ yhfQ
+yfmC yhfQ

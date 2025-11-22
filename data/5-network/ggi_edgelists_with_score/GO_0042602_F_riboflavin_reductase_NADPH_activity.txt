@@ -1,0 +1,2 @@
+fre rutG 0.42
+rutF rutG 0.979

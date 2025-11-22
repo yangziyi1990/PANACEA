@@ -1,0 +1,12 @@
+OPT1 PTR22
+dppA gsiB
+dppA nikA
+dppA oppA
+dppA sapA
+dppE oppA
+gsiB nikA
+gsiB oppA
+gsiB sapA
+nikA oppA
+nikA sapA
+oppA sapA

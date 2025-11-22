@@ -1,0 +1,14 @@
+ebgA galM 0.927
+ebgA uidA 0.455
+ebgA yicI 0.468
+lsrB lsrR 0.995
+lsrB mglB 0.629
+lsrB rbsB 0.785
+lsrB ytfQ 0.786
+lsrR rbsB 0.529
+mglB rbsB 0.763
+mglB ytfQ 0.81
+mngB uidA 0.584
+rbsB ytfQ 0.649
+uidA yicI 0.407
+yicI yihQ 0.527

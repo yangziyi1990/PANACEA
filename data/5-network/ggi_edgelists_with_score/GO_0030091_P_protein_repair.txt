@@ -1,0 +1,3 @@
+msrA msrB 0.784
+msrP msrQ 0.987
+msrP msrQ 0.992

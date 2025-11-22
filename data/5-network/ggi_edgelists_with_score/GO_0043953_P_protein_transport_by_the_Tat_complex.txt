@@ -1,0 +1,14 @@
+tatA tatB 0.998
+tatA tatB 0.999
+tatA tatC 0.995
+tatA tatC 0.998
+tatA tatC 0.999
+tatA tatE 0.517
+tatA tatE 0.888
+tatAD tatAY 0.917
+tatB tatC 0.998
+tatB tatC 0.999
+tatB tatE 0.983
+tatB tatE 0.999
+tatC tatE 0.978
+tatC tatE 0.998

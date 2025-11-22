@@ -1,0 +1,3 @@
+truA truB
+truA truD
+truB truD

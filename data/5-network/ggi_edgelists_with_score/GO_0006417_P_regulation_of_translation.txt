@@ -1,0 +1,4 @@
+arfB rplA 0.837
+ihfA ihfB 0.993
+ihfA ihfB 0.999
+ihfB rmf 0.414

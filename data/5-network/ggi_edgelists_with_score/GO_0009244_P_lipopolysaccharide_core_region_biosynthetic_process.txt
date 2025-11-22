@@ -1,0 +1,11 @@
+eptA eptB 0.952
+eptB waaA 0.485
+hldE lpxK 0.54
+hldE lpxK 0.649
+hldE rfaC 0.828
+hldE waaA 0.798
+lpxK rfaC 0.559
+lpxK waaA 0.999
+lpxK waaC 0.472
+lpxK waaF 0.607
+waaC waaF 0.994

@@ -1,0 +1,3 @@
+gatA gatB
+gatA gatC
+gatB gatC

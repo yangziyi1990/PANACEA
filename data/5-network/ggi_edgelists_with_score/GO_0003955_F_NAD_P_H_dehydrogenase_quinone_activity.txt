@@ -1,0 +1,6 @@
+PST2 YCP4 0.729
+PST3 YCP4 0.932
+ndh yumB 0.92
+ndh yutJ 0.929
+qorB wrbA 0.9
+yumB yutJ 0.926

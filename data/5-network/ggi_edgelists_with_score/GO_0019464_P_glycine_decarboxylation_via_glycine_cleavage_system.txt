@@ -1,0 +1,9 @@
+GCV2 GCV3 0.999
+gcvH gcvP 0.999
+gcvH gcvPA 0.998
+gcvH gcvPB 0.999
+gcvH gcvT 0.999
+gcvP gcvT 0.999
+gcvPA gcvPB 0.999
+gcvPA gcvT 0.999
+gcvPB gcvT 0.999

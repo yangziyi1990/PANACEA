@@ -1,0 +1,8 @@
+AFG3 PIM1
+PIM1 YME1
+clpP ftsH
+clpP lon
+clpP lonB
+ftsH lon
+ftsH lonB
+lon lonB

@@ -1,0 +1,7 @@
+emtA mltD 0.917
+emtA rlpA 0.586
+emtA yceG 0.823
+mltD rlpA 0.797
+mltD rlpA 0.9
+mltD yceG 0.943
+rlpA yceG 0.881

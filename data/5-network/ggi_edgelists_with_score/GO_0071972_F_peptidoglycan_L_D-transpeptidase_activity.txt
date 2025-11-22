@@ -1,0 +1,4 @@
+ldtA ldtE 0.467
+ldtB mrdA 0.404
+ldtB mrdA 0.508
+pbpC pbpH 0.55

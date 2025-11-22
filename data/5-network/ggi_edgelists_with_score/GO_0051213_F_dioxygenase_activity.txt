@@ -1,0 +1,6 @@
+antC benB 0.862
+catE mhqA 0.882
+catE ydfO 0.879
+catE yodE 0.83
+mhqA ydfO 0.462
+mhqA yodE 0.412

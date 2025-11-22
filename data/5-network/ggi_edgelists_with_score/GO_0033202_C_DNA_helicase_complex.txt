@@ -1,0 +1,3 @@
+addA pcrA 0.742
+addA yjcD 0.65
+pcrA yjcD 0.924

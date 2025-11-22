@@ -1,0 +1,3 @@
+hutH hutI 0.999
+hutH hutU 0.999
+hutI hutU 0.999

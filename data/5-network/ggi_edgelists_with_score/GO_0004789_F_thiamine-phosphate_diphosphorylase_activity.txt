@@ -1,0 +1,4 @@
+tenI thiE 0.936
+tenI thiE 0.938
+tenI thiE 0.95
+thiE thiF 0.999

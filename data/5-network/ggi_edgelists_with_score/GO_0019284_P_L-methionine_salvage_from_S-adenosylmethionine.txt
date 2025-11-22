@@ -1,0 +1,2 @@
+luxS mtnN 0.985
+mtnD mtnN 0.874

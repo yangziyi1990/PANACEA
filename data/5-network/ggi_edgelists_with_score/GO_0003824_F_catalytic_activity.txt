@@ -1,0 +1,4 @@
+pksH pksI 0.999
+srfAA srfAC 0.999
+srfAB srfAC 0.999
+ycbX yiiM 0.961

@@ -1,0 +1,6 @@
+CPA1 CPA2 0.999
+CPA1 URA2 0.929
+CPA2 URA2 0.914
+carA carB 0.999
+carA pyrAA 0.905
+carB pyrAA 0.999

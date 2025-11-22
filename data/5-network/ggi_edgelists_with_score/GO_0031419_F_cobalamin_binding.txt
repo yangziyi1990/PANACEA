@@ -1,0 +1,8 @@
+btuF metH 0.461
+btuF metH 0.581
+eutB eutC 0.999
+metH queG 0.456
+metH queG 0.595
+metH queG 0.837
+metH scpA 0.937
+pduC pduE 0.985

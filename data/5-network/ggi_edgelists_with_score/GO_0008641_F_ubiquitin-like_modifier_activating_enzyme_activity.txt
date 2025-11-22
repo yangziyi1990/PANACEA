@@ -1,0 +1,4 @@
+moeB tcdA 0.484
+moeB tcdA 0.543
+moeB thiF 0.606
+tcdA thiF 0.504

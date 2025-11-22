@@ -1,0 +1,4 @@
+nrfA nrfB 0.998
+nrfA nrfD 0.973
+nrfA nrfD 0.995
+nrfB nrfD 0.993

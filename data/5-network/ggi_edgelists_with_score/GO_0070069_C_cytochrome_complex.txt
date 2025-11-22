@@ -1,0 +1,5 @@
+appC cydA 0.468
+appC cydB 0.956
+cydA cydB 0.999
+cydA ythA 0.92
+cydB ythA 0.992

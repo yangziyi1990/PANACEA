@@ -1,0 +1,6 @@
+pksB pksJ
+pksB pksM
+pksB pksN
+pksJ pksM
+pksJ pksN
+pksM pksN

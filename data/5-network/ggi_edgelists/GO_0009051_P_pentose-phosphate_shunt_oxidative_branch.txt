@@ -1,0 +1,4 @@
+GND1 SOL3
+GND1 ZWF1
+SOL3 ZWF1
+pgl zwf

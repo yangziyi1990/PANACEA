@@ -1,0 +1,6 @@
+gatA gatB
+gatA gatD
+gatA gatZ
+gatB gatD
+gatB gatZ
+gatD gatZ

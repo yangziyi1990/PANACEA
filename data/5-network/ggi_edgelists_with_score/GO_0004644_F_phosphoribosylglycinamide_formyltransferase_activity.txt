@@ -1,0 +1,5 @@
+purN purT 0.959
+purN purT 0.975
+purN purT 0.98
+purN purT 0.994
+purN purT 0.998

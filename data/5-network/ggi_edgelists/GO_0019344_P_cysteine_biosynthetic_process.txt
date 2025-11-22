@@ -1,0 +1,8 @@
+MET14 MET16
+MET14 MET3
+MET16 MET3
+cysB cysI
+cysB cysJ
+cysH cysI
+cysH cysJ
+cysI cysJ

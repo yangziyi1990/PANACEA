@@ -1,0 +1,6 @@
+gatY gatZ 0.999
+gatY kbaY 0.905
+gatY kbaZ 0.952
+gatZ kbaY 0.926
+gatZ kbaZ 0.907
+kbaY kbaZ 0.978

@@ -1,0 +1,10 @@
+astA astB
+astA astC
+astA astD
+astA astE
+astB astC
+astB astD
+astB astE
+astC astD
+astC astE
+astD astE

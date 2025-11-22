@@ -1,0 +1,10 @@
+dacB mepA 0.647
+dacB mltD 0.472
+emtA mltD 0.917
+emtA rlpA 0.586
+mltC mltD 0.698
+mltC mltD 0.922
+mltC rlpA 0.581
+mltC rlpA 0.811
+mltD rlpA 0.797
+mltD rlpA 0.9

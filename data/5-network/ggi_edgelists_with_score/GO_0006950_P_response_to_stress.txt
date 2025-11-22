@@ -1,0 +1,17 @@
+mazG pykF 0.9
+ohrR ykoM 0.513
+pyk scoC 0.597
+sigM sigV 0.976
+sigM sigX 0.423
+sigM sigX 0.528
+sigV sigX 0.484
+ydgG yhbI 0.404
+ydgG ywaE 0.752
+yfiV ypoP 0.54
+yfiV ywaE 0.826
+yhbI ywaE 0.75
+ykoM ypoP 0.518
+ykoM ywaE 0.453
+ykoM ywhA 0.632
+ypoP ywaE 0.76
+ypoP ywhA 0.583

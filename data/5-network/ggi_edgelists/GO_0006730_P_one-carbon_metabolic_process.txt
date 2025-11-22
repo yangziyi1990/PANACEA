@@ -1,0 +1,12 @@
+DFR1 GCV2
+DFR1 SAM2
+GCV2 SAH1
+SAH1 SAM2
+ahcY metK
+dfrA purU
+folA folE
+folA folM
+folA purU
+folE folM
+folE purU
+folM purU

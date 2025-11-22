@@ -1,0 +1,4 @@
+ganP ganQ
+malE malF
+malE malG
+malF malG

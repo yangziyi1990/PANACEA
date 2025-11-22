@@ -1,0 +1,6 @@
+dnaN dnaX
+dnaN holA
+dnaN holB
+dnaX holA
+dnaX holB
+holA holB

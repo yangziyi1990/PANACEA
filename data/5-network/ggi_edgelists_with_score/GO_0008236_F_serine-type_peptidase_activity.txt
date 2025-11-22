@@ -1,0 +1,3 @@
+APE2 STE13 0.403
+ctpA ldcA 0.405
+ctpB spoIVB 0.945

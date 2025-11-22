@@ -1,0 +1,6 @@
+mntC mntD
+mntC znuB
+mntD znuB
+sitC znuB
+sitC znuC
+znuB znuC

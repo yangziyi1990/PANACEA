@@ -1,0 +1,6 @@
+gatY gatZ
+gatY kbaY
+gatY kbaZ
+gatZ kbaY
+gatZ kbaZ
+kbaY kbaZ

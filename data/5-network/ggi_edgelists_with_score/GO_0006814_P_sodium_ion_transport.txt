@@ -1,0 +1,3 @@
+mrpA mrpB 0.999
+mrpA mrpD 0.999
+mrpB mrpD 0.999

@@ -1,0 +1,12 @@
+CEM1 FAS2 0.93
+fabB fabF 0.933
+fabF fabH 0.998
+fabF fabHB 0.994
+fabF fabHB 0.998
+fabF grdC 0.819
+fabF pksJ 0.938
+fabHB pksF 0.884
+fabHB pksJ 0.788
+pksB pksF 0.96
+pksB pksJ 0.978
+pksF pksJ 0.993

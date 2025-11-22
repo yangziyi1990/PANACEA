@@ -1,0 +1,5 @@
+CDC37 HSP78
+CDC37 HSP90
+HSP78 HSP90
+ibpA ibpB
+skp surA

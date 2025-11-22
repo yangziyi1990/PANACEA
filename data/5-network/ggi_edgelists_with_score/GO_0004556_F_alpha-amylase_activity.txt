@@ -1,0 +1,5 @@
+amyA malS 0.955
+amyA malS 0.96
+amyE ycdG 0.914
+amyE yugT 0.919
+ycdG yugT 0.905

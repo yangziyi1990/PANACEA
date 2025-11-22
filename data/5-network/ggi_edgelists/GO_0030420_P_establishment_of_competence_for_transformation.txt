@@ -1,0 +1,12 @@
+comEC comGC
+comEC comGD
+comEC comGE
+comEC comK
+comGC comGD
+comGC comGE
+comGC comK
+comGD comGE
+comGD comK
+comGE comK
+comK mecA
+xlyA xlyB

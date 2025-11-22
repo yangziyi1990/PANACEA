@@ -1,0 +1,17 @@
+ADE4 ADE6
+ADE4 MIS11
+ADE4 PRS1
+ADE4 PRS5
+ADE6 MIS11
+PRS1 PRS5
+folD prs
+folD purD
+folD purF
+folD purL
+folD purM
+purD purF
+purD purL
+purD purM
+purF purL
+purF purM
+purL purM

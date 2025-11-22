@@ -1,0 +1,6 @@
+bamA bamD 0.97
+bamA bamD 0.999
+bamA bamE 0.938
+bamA bamE 0.999
+bamD bamE 0.985
+bamD bamE 0.999

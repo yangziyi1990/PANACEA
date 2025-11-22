@@ -1,0 +1,10 @@
+fusA infB 0.989
+fusA typA 0.457
+fusA typA 0.693
+infB typA 0.51
+infB typA 0.511
+lepA typA 0.411
+lepA typA 0.477
+lepA typA 0.639
+prfC typA 0.575
+prfC typA 0.674

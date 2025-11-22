@@ -1,0 +1,15 @@
+garD kduI 0.461
+garD kduI 0.651
+garD uxaB 0.874
+garD uxaC 0.457
+garD uxaC 0.623
+garD uxaC 0.873
+kduI uxaA 0.779
+kduI uxaB 0.862
+kduI uxaC 0.786
+kduI uxaC 0.864
+kduI uxaC 0.91
+kduI uxaC 0.939
+uxaA uxaB 0.999
+uxaA uxaC 0.993
+uxaB uxaC 0.999

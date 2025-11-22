@@ -1,0 +1,16 @@
+entB entC 0.999
+entB entD 0.999
+entB entE 0.999
+entB entF 0.999
+entB entH 0.999
+entC entD 0.978
+entC entE 0.999
+entC entF 0.997
+entC entH 0.986
+entD entE 0.999
+entD entF 0.999
+entD entH 0.898
+entE entF 0.999
+entE entH 0.99
+entF entH 0.85
+entF entH 0.935

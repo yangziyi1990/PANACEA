@@ -1,0 +1,9 @@
+glpA glpB 0.999
+glpA glpC 0.999
+glpA glpD 0.957
+glpA glpD 0.983
+glpB glpC 0.999
+glpB glpD 0.966
+glpB glpD 0.97
+glpC glpD 0.941
+glpC glpD 0.959

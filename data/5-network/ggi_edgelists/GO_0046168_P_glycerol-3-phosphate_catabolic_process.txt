@@ -1,0 +1,7 @@
+GPD1 GPD2
+glpA glpB
+glpA glpD
+glpA gpsA
+glpB glpD
+glpB gpsA
+glpD gpsA

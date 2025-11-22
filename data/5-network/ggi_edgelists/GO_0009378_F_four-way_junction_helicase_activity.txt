@@ -1,0 +1,10 @@
+CDC47 CDC54
+CDC47 MCM6
+CDC54 MCM6
+MPH1 SGS1
+rarA recQ
+rarA ruvA
+rarA ruvB
+recQ ruvA
+recQ ruvB
+ruvA ruvB

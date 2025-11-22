@@ -1,0 +1,5 @@
+NAR1 NBP35 0.901
+hadB hadI 0.997
+iscSA sufU 0.991
+iscSA yutI 0.54
+sufU yutI 0.837

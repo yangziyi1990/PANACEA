@@ -1,0 +1,8 @@
+ADH1 ADH2
+ADH1 FDH3
+ADH2 FDH3
+adhE adhP
+adhE fucO
+adhE yiaY
+adhP fucO
+adhP yiaY

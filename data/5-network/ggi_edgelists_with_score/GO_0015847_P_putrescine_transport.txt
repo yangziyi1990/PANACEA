@@ -1,0 +1,2 @@
+potA potG 0.418
+potA potG 0.913

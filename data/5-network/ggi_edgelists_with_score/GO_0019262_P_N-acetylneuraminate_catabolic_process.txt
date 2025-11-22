@@ -1,0 +1,4 @@
+nagB nanA 0.653
+nagB nanA 0.826
+nagB nanK 0.696
+nanA nanK 0.989

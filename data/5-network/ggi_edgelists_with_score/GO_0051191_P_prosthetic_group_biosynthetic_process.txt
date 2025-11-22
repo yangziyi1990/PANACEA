@@ -1,0 +1,3 @@
+citG citX 0.996
+citG citX 0.998
+citG citX 0.999

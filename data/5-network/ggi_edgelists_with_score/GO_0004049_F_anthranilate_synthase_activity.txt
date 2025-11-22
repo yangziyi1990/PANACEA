@@ -1,0 +1,2 @@
+TRP2 TRP3 0.999
+pabA trpE 0.999

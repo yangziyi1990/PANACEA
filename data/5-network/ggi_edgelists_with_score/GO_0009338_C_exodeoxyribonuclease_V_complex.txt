@@ -1,0 +1,4 @@
+recB recC 0.995
+recB recD 0.998
+recB recD 0.999
+recC recD 0.996

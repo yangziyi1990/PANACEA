@@ -1,0 +1,4 @@
+CHA1 ILV1
+ilvA tdcB
+ilvA thrC
+tdcB thrC

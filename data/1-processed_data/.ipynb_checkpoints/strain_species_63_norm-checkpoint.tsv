@@ -1,0 +1,149 @@
+Subject	Predicate	Object	Species	NormalizedSubject	has_genelist
+Sarcina ventriculi ATCC29068	sensitive to	Penicillin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Amoxicillin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Amoxicillin-clavulanic acid	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Piperacillin-tazobactam	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Imipenem	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Clindamycin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Levofloxacin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Rifampicin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Vancomycin	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Sarcina ventriculi ATCC29068	sensitive to	Linezolid	Sarcina ventriculi	Sarcina ventriculi ATCC 29068	True
+Acinetobacter baumannii NRZ00687	has gene	blaNDM-2	Acinetobacter baumannii	Acinetobacter baumannii NRZ00687	True
+Acinetobacter baumannii NRZ00687	resistant to	Monocyclic β-hairpin 6	Acinetobacter baumannii	Acinetobacter baumannii NRZ00687	True
+Acinetobacter baumannii NRZ00687	resistant to	Polymyxin E nonapeptide (PMEN)	Acinetobacter baumannii	Acinetobacter baumannii NRZ00687	True
+Aspergillus niger MTCC1881	sensitive to	Fluconazole	Aspergillus niger	Aspergillus niger MTCC1881	True
+Enterobacter cloacae NCTC11936	sensitive to	L-1-aminoethyltetrazole	Enterobacter cloacae	Enterobacter cloacae NCTC11936	True
+Escherichia coli NCTC10418	sensitive to	L-1-aminoethyltetrazole	Escherichia coli	Escherichia coli NCTC10418	True
+Providencia rettgeri NCTC7475	resistant to	L-1-aminoethyltetrazole	Providencia rettgeri	Providencia rettgeri NCTC7475	True
+Salmonella typhimurium NCTC74	resistant to	L-1-aminoethyltetrazole	Salmonella typhimurium	Salmonella typhimurium NCTC74	True
+Yersinia enterocolitica NCTC11176	sensitive to	L-1-aminoethyltetrazole	Yersinia enterocolitica	Yersinia enterocolitica NCTC11176	True
+Escherichia coli NCTC12241	sensitive to	L-1-aminoethyltetrazole	Escherichia coli	Escherichia coli NCTC12241	True
+Salmonella enteritidis NCTC6676	resistant to	L-1-aminoethyltetrazole	Salmonella enteritidis	Salmonella enteritidis NCTC6676	True
+Enterococcus faecalis NCTC775	resistant to	L-1-aminoethyltetrazole	Enterococcus faecalis	Enterococcus faecalis NCTC775	True
+Enterococcus faecium NCTC7171	resistant to	L-1-aminoethyltetrazole	Enterococcus faecium	Enterococcus faecium NCTC7171	True
+Listeria monocytogenes NCTC11994	resistant to	L-1-aminoethyltetrazole	Listeria monocytogenes	Listeria monocytogenes NCTC11994	True
+Staphylococcus epidermidis NCTC11047	resistant to	L-1-aminoethyltetrazole	Staphylococcus epidermidis	Staphylococcus epidermidis NCTC11047	True
+Staphylococcus aureus NCTC6571	resistant to	L-1-aminoethyltetrazole	Staphylococcus aureus	Staphylococcus aureus NCTC6571	True
+Staphylococcus aureus NCTC11939	resistant to	L-1-aminoethyltetrazole	Staphylococcus aureus	Staphylococcus aureus NCTC11939	True
+Enterobacter cloacae NCTC11936	sensitive to	L-alanyl-L-1-aminoethyltetrazole	Enterobacter cloacae	Enterobacter cloacae NCTC11936	True
+Escherichia coli NCTC10418	sensitive to	L-alanyl-L-1-aminoethyltetrazole	Escherichia coli	Escherichia coli NCTC10418	True
+Providencia rettgeri NCTC7475	resistant to	L-alanyl-L-1-aminoethyltetrazole	Providencia rettgeri	Providencia rettgeri NCTC7475	True
+Salmonella typhimurium NCTC74	resistant to	L-alanyl-L-1-aminoethyltetrazole	Salmonella typhimurium	Salmonella typhimurium NCTC74	True
+Yersinia enterocolitica NCTC11176	sensitive to	L-alanyl-L-1-aminoethyltetrazole	Yersinia enterocolitica	Yersinia enterocolitica NCTC11176	True
+Escherichia coli NCTC12241	sensitive to	L-alanyl-L-1-aminoethyltetrazole	Escherichia coli	Escherichia coli NCTC12241	True
+Salmonella enteritidis NCTC6676	resistant to	L-alanyl-L-1-aminoethyltetrazole	Salmonella enteritidis	Salmonella enteritidis NCTC6676	True
+Enterococcus faecalis NCTC775	resistant to	L-alanyl-L-1-aminoethyltetrazole	Enterococcus faecalis	Enterococcus faecalis NCTC775	True
+Enterococcus faecium NCTC7171	resistant to	L-alanyl-L-1-aminoethyltetrazole	Enterococcus faecium	Enterococcus faecium NCTC7171	True
+Listeria monocytogenes NCTC11994	resistant to	L-alanyl-L-1-aminoethyltetrazole	Listeria monocytogenes	Listeria monocytogenes NCTC11994	True
+Staphylococcus epidermidis NCTC11047	resistant to	L-alanyl-L-1-aminoethyltetrazole	Staphylococcus epidermidis	Staphylococcus epidermidis NCTC11047	True
+Staphylococcus aureus NCTC6571	resistant to	L-alanyl-L-1-aminoethyltetrazole	Staphylococcus aureus	Staphylococcus aureus NCTC6571	True
+Staphylococcus aureus NCTC11939	resistant to	L-alanyl-L-1-aminoethyltetrazole	Staphylococcus aureus	Staphylococcus aureus NCTC11939	True
+Salmonella typhimurium BV4012	resistant to	Cannabidiol	Salmonella typhimurium	Salmonella typhimurium BV4012	True
+Salmonella newington BV7004	resistant to	Cannabidiol	Salmonella newington	Salmonella newington BV7004	True
+Salmonella typhimurium BV4012	sensitive to	Epsilon 34 phage tailspike protein	Salmonella typhimurium	Salmonella typhimurium BV4012	True
+Salmonella newington BV7004	sensitive to	Epsilon 34 phage tailspike protein	Salmonella newington	Salmonella newington BV7004	True
+Staphylococcus aureus USA300 -NAE	resistant to	Fluoroquinolones	Staphylococcus aureus	Staphylococcus aureus USA300 -NAE	True
+Staphylococcus aureus USA300 -NAE	sensitive to	Fluoroquinolones	Staphylococcus aureus	Staphylococcus aureus USA300 -NAE	True
+Staphylococcus aureus USA300 -NAE	resistant to	Ciprofloxacin	Staphylococcus aureus	Staphylococcus aureus USA300 -NAE	True
+Escherichia coli CCM3988	sensitive to	Ampicillin	Escherichia coli	Escherichia coli CCM3988	True
+Bacillus cereus PTCC1247	sensitive to	Gentamicin	Bacillus cereus	Bacillus cereus PTCC1247	True
+Bacillus subtilis MTCC736	sensitive to	Penicillin	Bacillus subtilis	Bacillus subtilis MTCC736	True
+Escherichia coli MTCC739	sensitive to	Penicillin	Escherichia coli	Escherichia coli MTCC739	True
+Klebsiella pneumoniae MTCC661	sensitive to	Penicillin	Klebsiella pneumoniae	Klebsiella pneumoniae MTCC661	True
+Candida auris CBS12766	resistant to	Fluconazole	Candida auris	Candida auris CBS12766	True
+Helicobacter pylori NCTC11638	resistant to	Clarithromycin	Helicobacter pylori	Helicobacter pylori NCTC11638	True
+Helicobacter pylori NCTC11637	resistant to	Clarithromycin	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Helicobacter pylori NCTC11638	resistant to	Metronidazole	Helicobacter pylori	Helicobacter pylori NCTC11638	True
+Helicobacter pylori NCTC11637	resistant to	Metronidazole	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Helicobacter pylori NCTC11638	sensitive to	Amoxicillin	Helicobacter pylori	Helicobacter pylori NCTC11638	True
+Helicobacter pylori NCTC11637	sensitive to	Amoxicillin	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Helicobacter pylori NCTC11638	resistant to	Levofloxacin	Helicobacter pylori	Helicobacter pylori NCTC11638	True
+Helicobacter pylori NCTC11637	resistant to	Levofloxacin	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Candida albicans WDCM00054	sensitive to	AV-PVP-Thymol-I2	Candida albicans	Candida albicans WDCM00054	True
+Klebsiella pneumoniae WDCM00097	sensitive to	AV-PVP-Thymol-I2	Klebsiella pneumoniae	Klebsiella pneumoniae WDCM00097	True
+Escherichia coli WDCM00013	sensitive to	AV-PVP-Thymol-I2	Escherichia coli	Escherichia coli WDCM00013	True
+Helicobacter pylori NCTC11637	sensitive to	Metronidazole	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Helicobacter pylori NCTC11637	resistant to	Amoxicillin	Helicobacter pylori	Helicobacter pylori NCTC11637	True
+Staphylococcus aureus NCTC4163	resistant to	4-(4-fluorophenyl)-1-(thiophen-2-yl)carbonylthiosemicarbazide (1g)	Staphylococcus aureus	Staphylococcus aureus NCTC4163	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Rifampin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Isoniazid	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Levofloxacin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Moxifloxacin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Kanamycin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Amikacin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Mycobacterium tuberculosis ATCC27294	sensitive to	Capreomycin	Mycobacterium tuberculosis	Mycobacterium tuberculosis ATCC 27294	True
+Salmonella enterica serovar infantis 125-15	has gene	aadA1	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 125-15	has gene	blaCTX-M-65	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 125-15	has gene	dfrA14	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 125-15	has gene	sul1	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 125-15	has gene	tetA	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 125-15	resistant to	Cefotaxime	Salmonella enterica	Salmonella enterica serovar infantis 125-15	True
+Salmonella enterica serovar infantis 115-10	has gene	aadA1	Salmonella enterica	Salmonella enterica serovar infantis 115-10	True
+Salmonella enterica serovar infantis 115-10	has gene	blaTEM-116	Salmonella enterica	Salmonella enterica serovar infantis 115-10	True
+Salmonella enterica serovar infantis 115-10	has gene	sul1	Salmonella enterica	Salmonella enterica serovar infantis 115-10	True
+Salmonella enterica serovar infantis 115-10	has gene	tetA	Salmonella enterica	Salmonella enterica serovar infantis 115-10	True
+Salmonella enterica serovar infantis 115-10	resistant to	Ampicillin	Salmonella enterica	Salmonella enterica serovar infantis 115-10	True
+Candida albicans WDCM00054	sensitive to	AV-PVP-Thyme-I2	Candida albicans	Candida albicans WDCM00054	True
+Klebsiella pneumoniae WDCM00097	sensitive to	AV-PVP-Thyme-I2	Klebsiella pneumoniae	Klebsiella pneumoniae WDCM00097	True
+Escherichia coli WDCM00013	sensitive to	AV-PVP-Thyme-I2	Escherichia coli	Escherichia coli WDCM00013	True
+Bacillus subtilis WDCM00003	sensitive to	Streptomycin	Bacillus subtilis	Bacillus subtilis WDCM00003	True
+Escherichia coli WDCM00013	sensitive to	Amikacin	Escherichia coli	Escherichia coli WDCM00013	True
+Klebsiella pneumoniae WDCM00097	sensitive to	Cefotaxime	Klebsiella pneumoniae	Klebsiella pneumoniae WDCM00097	True
+Candida albicans WDCM00054	sensitive to	Nystatin	Candida albicans	Candida albicans WDCM00054	True
+Klebsiella pneumoniae CIP53153	resistant to	Sulfanilamide	Klebsiella pneumoniae	Klebsiella pneumoniae CIP53153	True
+Proteus vulgaris CIP104989	resistant to	Sulfanilamide	Proteus vulgaris	Proteus vulgaris CIP104989	True
+Citrobacter freundii CIP5732	resistant to	Sulfanilamide	Citrobacter freundii	Citrobacter freundii CIP5732	True
+Enterobacter cloacae CIP103475	resistant to	Sulfanilamide	Enterobacter cloacae	Enterobacter cloacae CIP103475	True
+Escherichia coli TW99	sensitive to	Colistin	Escherichia coli	Escherichia coli TW99	True
+Escherichia coli TW100	sensitive to	Colistin	Escherichia coli	Escherichia coli TW100	True
+Escherichia coli TW236	sensitive to	Colistin	Escherichia coli	Escherichia coli TW236	True
+Escherichia coli TW176	sensitive to	Colistin	Escherichia coli	Escherichia coli TW176	True
+Escherichia coli TW140	sensitive to	Colistin	Escherichia coli	Escherichia coli TW140	True
+Bacillus cereus PTCC1247	resistant to	Ampicillin	Bacillus cereus	Bacillus cereus PTCC1247	True
+Bacillus cereus PTCC1247	sensitive to	Compound 18	Bacillus cereus	Bacillus cereus PTCC1247	True
+Bacillus cereus PTCC1247	sensitive to	Compound 28	Bacillus cereus	Bacillus cereus PTCC1247	True
+Mycobacterium tuberculosis MD52	sensitive to	TAM16	Mycobacterium tuberculosis	Mycobacterium tuberculosis MD52	True
+Mycobacterium tuberculosis MD55	sensitive to	TAM16	Mycobacterium tuberculosis	Mycobacterium tuberculosis MD55	True
+Salmonella typhimurium BV4012	has gene	blaTEM	Salmonella typhimurium	Salmonella typhimurium BV4012	True
+Salmonella typhimurium BV4012	sensitive to	Cannabidiol	Salmonella typhimurium	Salmonella typhimurium BV4012	True
+Klebsiella pneumoniae KPC	has gene	blaKPC	Klebsiella pneumoniae	Klebsiella pneumoniae KPC	True
+Klebsiella pneumoniae KPC	resistant to	Carbapenems	Klebsiella pneumoniae	Klebsiella pneumoniae KPC	True
+Escherichia coli PCM2857	resistant to	Zn(II) chlorogenate	Escherichia coli	Escherichia coli PCM2857	True
+Candida albicans PCM2566	resistant to	Zn(II) chlorogenate	Candida albicans	Candida albicans PCM2566	True
+Bacillus subtilis PCM2850	resistant to	Zn(II) chlorogenate	Bacillus subtilis	Bacillus subtilis PCM2850	True
+Salmonella enteritidis NCTC4776	resistant to	Zn(II) chlorogenate	Salmonella enteritidis	Salmonella enteritidis NCTC4776	True
+Escherichia coli PCM2857	resistant to	Chlorogenic acid	Escherichia coli	Escherichia coli PCM2857	True
+Candida albicans PCM2566	resistant to	Chlorogenic acid	Candida albicans	Candida albicans PCM2566	True
+Bacillus subtilis PCM2850	resistant to	Chlorogenic acid	Bacillus subtilis	Bacillus subtilis PCM2850	True
+Salmonella enteritidis NCTC4776	resistant to	Chlorogenic acid	Salmonella enteritidis	Salmonella enteritidis NCTC4776	True
+Staphylococcus aureus NCTC6571	sensitive to	Ciprofloxacin	Staphylococcus aureus	Staphylococcus aureus NCTC6571	True
+Candida albicans MTCC227	sensitive to	Fluconazole	Candida albicans	Candida albicans MTCC227	True
+Acinetobacter baumannii LMG01041	resistant to	NDI-10	Acinetobacter baumannii	Acinetobacter baumannii LMG01041	True
+Klebsiella aerogenes LMG02094	resistant to	NDI-10	Klebsiella aerogenes	Klebsiella aerogenes LMG02094	True
+Enterobacter cloacae LMG02783	resistant to	NDI-10	Enterobacter cloacae	Enterobacter cloacae LMG02783	True
+Escherichia coli LMG8223	resistant to	NDI-10	Escherichia coli	Escherichia coli LMG8223	True
+Klebsiella pneumoniae LMG20218	resistant to	NDI-10	Klebsiella pneumoniae	Klebsiella pneumoniae LMG20218	True
+Salmonella enterica LMG07233	resistant to	NDI-10	Salmonella enterica	Salmonella enterica LMG07233	True
+Enterococcus faecalis LMG08222	resistant to	NDI-10	Enterococcus faecalis	Enterococcus faecalis LMG08222	True
+Enterococcus faecalis LMG16216	resistant to	NDI-10	Enterococcus faecalis	Enterococcus faecalis LMG16216	True
+Enterococcus faecium LMG11423	resistant to	NDI-10	Enterococcus faecium	Enterococcus faecium LMG11423	True
+Enterococcus faecium LMG16003	resistant to	NDI-10	Enterococcus faecium	Enterococcus faecium LMG16003	True
+Acinetobacter baumannii LMG01041	resistant to	NDI-6	Acinetobacter baumannii	Acinetobacter baumannii LMG01041	True
+Klebsiella aerogenes LMG02094	resistant to	NDI-6	Klebsiella aerogenes	Klebsiella aerogenes LMG02094	True
+Enterobacter cloacae LMG02783	resistant to	NDI-6	Enterobacter cloacae	Enterobacter cloacae LMG02783	True
+Escherichia coli LMG8223	resistant to	NDI-6	Escherichia coli	Escherichia coli LMG8223	True
+Klebsiella pneumoniae LMG20218	resistant to	NDI-6	Klebsiella pneumoniae	Klebsiella pneumoniae LMG20218	True
+Salmonella enterica LMG07233	resistant to	NDI-6	Salmonella enterica	Salmonella enterica LMG07233	True
+Enterococcus faecalis LMG08222	resistant to	NDI-6	Enterococcus faecalis	Enterococcus faecalis LMG08222	True
+Enterococcus faecalis LMG16216	resistant to	NDI-6	Enterococcus faecalis	Enterococcus faecalis LMG16216	True
+Enterococcus faecium LMG11423	resistant to	NDI-6	Enterococcus faecium	Enterococcus faecium LMG11423	True
+Enterococcus faecium LMG16003	resistant to	NDI-6	Enterococcus faecium	Enterococcus faecium LMG16003	True
+Escherichia coli CIP1	has gene	aph(3'')-Ib	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	has gene	aph(6)-Id	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	has gene	catA1	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	has gene	floR	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	has gene	sul2	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	resistant to	Ciprofloxacin	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	resistant to	Levofloxacin	Escherichia coli	Escherichia coli CIP1	True
+Escherichia coli CIP1	resistant to	Tetracycline	Escherichia coli	Escherichia coli CIP1	True

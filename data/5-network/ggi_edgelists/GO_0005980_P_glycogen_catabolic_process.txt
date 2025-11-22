@@ -1,0 +1,4 @@
+GDB1 GPH1
+glgP glgX
+glgP malP
+glgX malP

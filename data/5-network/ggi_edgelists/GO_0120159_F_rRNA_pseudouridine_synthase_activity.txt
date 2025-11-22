@@ -1,0 +1,9 @@
+rluB rluC
+rluB rluD
+rluB yhcT
+rluC rluD
+rluC rluF
+rluC rsuA
+rluD rluF
+rluD rsuA
+rluF rsuA

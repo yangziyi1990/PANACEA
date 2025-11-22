@@ -1,0 +1,3 @@
+topA topB 0.59
+topA topB 0.659
+topA topB 0.698

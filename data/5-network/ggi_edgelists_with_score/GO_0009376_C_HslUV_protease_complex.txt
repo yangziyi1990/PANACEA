@@ -1,0 +1,11 @@
+clpQ clpX 0.98
+clpX hslU 0.468
+clpX hslU 0.542
+clpX hslU 0.768
+clpX hslU 0.937
+clpX hslV 0.45
+clpX hslV 0.499
+clpX hslV 0.664
+clpX hslV 0.844
+clpX hslV 0.996
+hslU hslV 0.999

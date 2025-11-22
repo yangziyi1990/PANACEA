@@ -1,0 +1,16 @@
+AFG3 PIM1 0.558
+PIM1 YME1 0.63
+clpP ftsH 0.623
+clpP ftsH 0.938
+clpP ftsH 0.948
+clpP lon 0.62
+clpP lon 0.679
+clpP lon 0.842
+clpP lon 0.987
+clpP lonB 0.559
+ftsH lon 0.607
+ftsH lon 0.629
+ftsH lon 0.769
+ftsH lon 0.954
+ftsH lonB 0.623
+lon lonB 0.654

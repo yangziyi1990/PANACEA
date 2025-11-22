@@ -1,0 +1,5 @@
+bacA bacC 0.986
+bacA srfAC 0.498
+bacC srfAA 0.565
+bacC srfAC 0.543
+srfAA srfAC 0.999

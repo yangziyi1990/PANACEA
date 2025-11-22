@@ -1,0 +1,13 @@
+PDC1 PDC2
+PDC11 PDC12
+alsS ilvB
+alsS iolD
+dxs menD
+gcl ilvB
+gcl ilvI
+gcl oxc
+ilvB ilvI
+ilvB iolD
+ilvB poxB
+ilvI poxB
+menD oxc

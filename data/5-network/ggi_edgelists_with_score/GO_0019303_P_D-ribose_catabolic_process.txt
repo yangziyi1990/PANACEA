@@ -1,0 +1,5 @@
+rbsD rbsK 0.955
+rbsD rbsK 0.992
+rbsD rbsK 0.993
+rbsD rbsK 0.998
+rbsD rbsK 0.999

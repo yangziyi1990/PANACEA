@@ -1,0 +1,3 @@
+emtA mltF 0.895
+mltC mltF 0.732
+mltC mltF 0.912

@@ -1,0 +1,2 @@
+lptA lptC 0.996
+lptA lptC 0.999

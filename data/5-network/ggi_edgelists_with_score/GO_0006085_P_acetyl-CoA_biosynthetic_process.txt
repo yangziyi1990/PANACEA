@@ -1,0 +1,4 @@
+ACS1 ACS2 0.904
+ackA acsA 0.966
+ackA acsA 0.99
+ackA pta 0.999

@@ -1,0 +1,3 @@
+greA greB 0.646
+greA rnk 0.636
+greB rnk 0.401

@@ -1,0 +1,9 @@
+ILV2 ILV6 0.999
+alsS ilvB 0.932
+alsS ilvB 0.935
+alsS ilvB 0.938
+alsS iolD 0.598
+gcl ilvB 0.629
+gcl ilvI 0.642
+ilvB ilvI 0.946
+ilvB iolD 0.612

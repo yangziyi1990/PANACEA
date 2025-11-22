@@ -1,0 +1,3 @@
+CDC28 CDC7
+PBP2 SLR1
+cspA cspD

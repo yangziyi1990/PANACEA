@@ -1,0 +1,2 @@
+ACO1 ACO2 0.743
+acnA acnB 0.996

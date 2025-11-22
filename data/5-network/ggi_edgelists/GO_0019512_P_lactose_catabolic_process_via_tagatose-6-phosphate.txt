@@ -1,0 +1,3 @@
+lacA lacB
+lacA lacG
+lacB lacG

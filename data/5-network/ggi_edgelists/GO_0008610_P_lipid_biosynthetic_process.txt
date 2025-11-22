@@ -1,0 +1,10 @@
+dhbF srfAA
+dhbF srfAB
+dhbF srfAC
+dhbF srfAD
+srfAA srfAB
+srfAA srfAC
+srfAA srfAD
+srfAB srfAC
+srfAB srfAD
+srfAC srfAD

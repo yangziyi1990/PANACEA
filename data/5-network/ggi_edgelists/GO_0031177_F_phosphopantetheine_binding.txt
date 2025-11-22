@@ -1,0 +1,15 @@
+bacA srfAC
+dhbF pksJ
+dhbF pksM
+dhbF srfAA
+dhbF srfAC
+pksB pksJ
+pksB pksM
+pksB srfAA
+pksB srfAC
+pksJ pksM
+pksJ srfAA
+pksJ srfAC
+pksM srfAA
+pksM srfAC
+srfAA srfAC

@@ -1,0 +1,3 @@
+chiP nanC 0.573
+chiP ompL 0.54
+nanC ompL 0.546

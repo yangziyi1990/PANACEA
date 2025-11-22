@@ -1,0 +1,4 @@
+bcsA bcsB 0.999
+bcsA bcsC 0.977
+bcsA yedQ 0.76
+bcsB bcsC 0.987

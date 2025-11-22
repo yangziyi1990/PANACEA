@@ -1,0 +1,2 @@
+pfkA pgi 0.993
+pfkA pgi 0.998

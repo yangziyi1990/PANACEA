@@ -1,0 +1,12 @@
+PHO84 PHO87
+PHO84 PHO91
+PHO87 SYG1
+PHO91 SYG1
+pitB pstA
+pitB pstB
+pitB pstC
+pstA pstB
+pstA pstC
+pstA yjkB
+pstB pstC
+pstC yjkB

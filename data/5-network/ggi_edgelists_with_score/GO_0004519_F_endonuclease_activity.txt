@@ -1,0 +1,11 @@
+ltrA tnpB 0.528
+mutH mutL 0.999
+mutH sbcC 0.723
+mutH sbcD 0.488
+mutH sbcD 0.733
+mutL sbcC 0.815
+mutL sbcD 0.849
+mutL xthA 0.602
+mutSB sbcD 0.473
+sbcC sbcD 0.999
+sbcD xthA 0.487

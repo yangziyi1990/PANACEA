@@ -1,0 +1,2 @@
+ghrA ghrB 0.918
+ghrA ghrB 0.951

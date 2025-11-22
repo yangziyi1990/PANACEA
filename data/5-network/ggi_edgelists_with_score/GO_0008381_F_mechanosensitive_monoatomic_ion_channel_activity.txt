@@ -1,0 +1,11 @@
+mscK mscL 0.941
+mscK mscM 0.611
+mscK ybiO 0.456
+mscK ynaI 0.412
+mscL mscM 0.903
+mscL mscS 0.791
+mscL ybiO 0.909
+mscL ynaI 0.909
+mscM ybiO 0.916
+mscM ynaI 0.43
+ybiO ynaI 0.964

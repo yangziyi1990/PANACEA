@@ -1,0 +1,3 @@
+ureA ureB 0.999
+ureA ureC 0.999
+ureB ureC 0.999

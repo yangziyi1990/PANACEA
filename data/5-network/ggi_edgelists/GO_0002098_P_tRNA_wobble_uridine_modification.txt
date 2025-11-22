@@ -1,0 +1,17 @@
+HRR25 KTI12
+HRR25 SIT4
+HRR25 TRM9
+NCS2 TRM9
+cmoA cmoB
+cmoA mnmC
+cmoA mnmH
+cmoB mnmC
+cmoB mnmE
+cmoB mnmG
+cmoB mnmH
+mnmC mnmE
+mnmC mnmG
+mnmC mnmH
+mnmE mnmG
+mnmE mnmH
+mnmE trmFO

@@ -1,0 +1,15 @@
+dmsA fdnG 0.602
+dmsA fdnG 0.638
+dmsA modE 0.655
+dmsA napA 0.422
+dmsA napD 0.683
+dmsA ycbX 0.53
+dmsA yiiM 0.627
+fdnG modE 0.437
+fdnG napD 0.633
+fdnG torA 0.759
+modE yiiM 0.458
+napA napD 0.999
+napD torA 0.542
+napD ydeP 0.618
+ycbX yiiM 0.961

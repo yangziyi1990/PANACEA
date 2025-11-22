@@ -1,0 +1,11 @@
+btuB chiP 0.54
+btuB lamB 0.868
+btuB nanC 0.59
+btuB ompA 0.73
+btuB ompL 0.54
+chiP lamB 0.564
+chiP nanC 0.573
+chiP ompL 0.54
+lamB nanC 0.706
+lamB ompL 0.556
+nanC ompL 0.546

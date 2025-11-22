@@ -1,0 +1,10 @@
+lolA lolB
+lolA lolC
+lolA lolD
+lolA lolE
+lolB lolC
+lolB lolD
+lolB lolE
+lolC lolD
+lolC lolE
+lolD lolE

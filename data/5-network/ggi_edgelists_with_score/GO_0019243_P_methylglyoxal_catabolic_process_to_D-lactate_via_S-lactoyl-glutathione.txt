@@ -1,0 +1,6 @@
+GLO1 GLX3 0.955
+gloA gloB 0.852
+gloA gloB 0.963
+gloA gloB 0.997
+gloA hchA 0.974
+gloB hchA 0.981

@@ -1,0 +1,9 @@
+GUT1 RHR2 0.917
+glpD glpE 0.511
+glpD glpE 0.612
+glpD glpP 0.96
+glpD glpQ 0.786
+glpD glpQ 0.948
+glpD glpX 0.593
+glpD glpX 0.694
+glpX yggF 0.905

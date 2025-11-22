@@ -1,0 +1,6 @@
+fecA fepA
+fecA fhuA
+fecA fhuE
+fepA fhuA
+fepA fhuE
+fhuA fhuE

@@ -1,0 +1,11 @@
+ruvA ruvB 0.999
+ruvA ruvC 0.963
+ruvA ruvC 0.995
+ruvA ruvC 0.996
+ruvA ruvC 0.998
+ruvA ruvC 0.999
+ruvB ruvC 0.898
+ruvB ruvC 0.973
+ruvB ruvC 0.981
+ruvB ruvC 0.987
+ruvB ruvC 0.999

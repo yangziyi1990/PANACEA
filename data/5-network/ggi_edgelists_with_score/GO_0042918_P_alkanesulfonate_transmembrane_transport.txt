@@ -1,0 +1,14 @@
+ssuB ssuC 0.999
+ssuB tauA 0.821
+ssuB tauA 0.95
+ssuB tauC 0.967
+ssuB tauC 0.983
+ssuB tauD 0.713
+ssuC tauA 0.901
+ssuC tauA 0.994
+ssuC tauC 0.454
+ssuC tauC 0.78
+ssuC tauD 0.754
+tauA tauC 0.999
+tauA tauD 0.999
+tauC tauD 0.996

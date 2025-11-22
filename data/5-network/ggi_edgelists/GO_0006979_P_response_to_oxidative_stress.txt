@@ -1,0 +1,15 @@
+OXR1 SVF1
+ahpC katE
+ahpC msrA
+ahpC msrB
+ahpC nifJ
+ahpC osmC
+ahpC soxR
+katE msrB
+katE ohrA
+katE ohrB
+katE osmC
+katE soxR
+lpdA nifJ
+msrA msrB
+nifJ soxR

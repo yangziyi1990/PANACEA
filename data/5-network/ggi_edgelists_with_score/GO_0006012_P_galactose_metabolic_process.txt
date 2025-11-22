@@ -1,0 +1,9 @@
+galE galK 0.917
+galE galK 0.995
+galE galK 0.999
+galE galR 0.813
+galE galT 0.997
+galK galR 0.767
+galK galT 0.999
+galK ganA 0.556
+galT ganA 0.503

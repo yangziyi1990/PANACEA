@@ -1,0 +1,2 @@
+phoR psiE 0.511
+phoR walK 0.463

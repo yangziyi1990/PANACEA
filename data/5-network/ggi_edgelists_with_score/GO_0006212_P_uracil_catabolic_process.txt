@@ -1,0 +1,15 @@
+rutA rutB 0.999
+rutA rutC 0.991
+rutA rutD 0.985
+rutA rutF 0.999
+rutA rutG 0.937
+rutB rutC 0.999
+rutB rutD 0.999
+rutB rutF 0.999
+rutB rutG 0.983
+rutC rutD 0.999
+rutC rutF 0.985
+rutC rutG 0.978
+rutD rutF 0.992
+rutD rutG 0.968
+rutF rutG 0.979

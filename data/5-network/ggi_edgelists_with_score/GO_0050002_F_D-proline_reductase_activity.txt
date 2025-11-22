@@ -1,0 +1,3 @@
+prdA prdB 0.998
+prdA prdD 0.641
+prdB prdD 0.986

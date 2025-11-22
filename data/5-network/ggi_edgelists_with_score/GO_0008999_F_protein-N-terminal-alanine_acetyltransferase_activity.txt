@@ -1,0 +1,3 @@
+rimI rimJ 0.917
+rimI rimL 0.917
+rimJ rimL 0.934

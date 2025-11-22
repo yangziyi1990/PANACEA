@@ -1,0 +1,5 @@
+MLT1 YCF1 0.406
+fieF mntH 0.677
+fieF zntA 0.482
+fieF zntA 0.937
+mntH zntA 0.507

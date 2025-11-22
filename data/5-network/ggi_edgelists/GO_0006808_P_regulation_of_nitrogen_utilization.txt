@@ -1,0 +1,10 @@
+GAT1 URE2
+GLN3 NPR1
+GLN3 URE2
+NPR1 RSP5
+glnB glnD
+glnB glnG
+glnB glnK
+glnD glnG
+glnD glnK
+glnG glnK

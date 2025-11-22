@@ -1,0 +1,2 @@
+PHO13 PHO8 0.689
+phoA phoB 0.964

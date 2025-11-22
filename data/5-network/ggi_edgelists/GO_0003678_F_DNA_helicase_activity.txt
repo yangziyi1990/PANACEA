@@ -1,0 +1,6 @@
+dinG mfd
+dinG recG
+dnaB recG
+dnaG recG
+mfd recG
+recC recG

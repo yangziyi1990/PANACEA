@@ -1,0 +1,3 @@
+osmE slp 0.552
+osmE yeaY 0.453
+slp yeaY 0.462

@@ -1,0 +1,12 @@
+OPT1 PTR22 0.711
+dppA gsiB 0.651
+dppA nikA 0.711
+dppA oppA 0.875
+dppA sapA 0.61
+dppE oppA 0.445
+gsiB nikA 0.652
+gsiB oppA 0.645
+gsiB sapA 0.657
+nikA oppA 0.679
+nikA sapA 0.696
+oppA sapA 0.652

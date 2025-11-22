@@ -1,0 +1,10 @@
+dmsA fdnG 0.602
+dmsA fdnG 0.638
+dmsA napA 0.422
+dmsA nuoG 0.579
+fdhF fdnG 0.744
+fdhF nuoG 0.673
+fdnG torA 0.759
+narG nasC 0.932
+nasC yyaE 0.471
+nuoG torA 0.527

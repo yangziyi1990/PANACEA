@@ -1,0 +1,13 @@
+amiA amiB
+amiA amiC
+amiB ampD
+ampD mltB
+ampD mpaA
+cwlC cwlD
+cwlC cwlH
+cwlC yqiI
+cwlC yrvJ
+mltA mltB
+mltA mltF
+mltB mltF
+xlyA xlyB

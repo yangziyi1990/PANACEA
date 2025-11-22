@@ -1,0 +1,7 @@
+CDC39 DHH1 0.99
+rplM rsfS 0.873
+rplM rsfS 0.88
+rplM rsfS 0.883
+rplM rsfS 0.897
+rplM rsfS 0.912
+rplM rsfS 0.957

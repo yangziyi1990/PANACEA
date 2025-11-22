@@ -1,0 +1,4 @@
+DCW1 DFG5 0.963
+bglA gmuD 0.429
+bglB pfkB 0.415
+bglH gmuD 0.4

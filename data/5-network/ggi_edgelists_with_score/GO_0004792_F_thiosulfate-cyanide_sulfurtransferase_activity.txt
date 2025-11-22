@@ -1,0 +1,6 @@
+glpE pspE 0.864
+glpE sseA 0.926
+glpE sseA 0.976
+glpE ygaP 0.539
+moeB sseA 0.82
+pspE sseA 0.653

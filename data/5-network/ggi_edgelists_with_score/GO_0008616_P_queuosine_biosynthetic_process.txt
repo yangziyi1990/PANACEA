@@ -1,0 +1,15 @@
+queA queC 0.424
+queA queF 0.489
+queA queG 0.746
+queA queG 0.784
+queA tgt 0.979
+queA tgt 0.998
+queC queE 0.999
+queC queF 0.998
+queC queG 0.502
+queC tgt 0.448
+queE queF 0.995
+queF queG 0.508
+queF tgt 0.707
+queG tgt 0.407
+queG tgt 0.512

@@ -1,0 +1,7 @@
+HOG1 YHB1 0.414
+KAR2 SSA2 0.669
+acrD acrF 0.562
+acrD mdtE 0.967
+acrF mdtE 0.954
+ecnA ecnB 0.812
+ecnA ecnB 0.903

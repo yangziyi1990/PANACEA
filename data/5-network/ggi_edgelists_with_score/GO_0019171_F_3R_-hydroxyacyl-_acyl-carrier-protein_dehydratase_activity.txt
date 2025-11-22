@@ -1,0 +1,2 @@
+fabA fabZ 0.945
+fabA fabZ 0.995

@@ -1,0 +1,14 @@
+clcA emrE 0.476
+dinF mdtK 0.837
+dinF yoeA 0.404
+emrE mdtJ 0.781
+mdtI mdtJ 0.997
+mdtI mdtJ 0.999
+mdtI mdtK 0.431
+mdtJ mdtK 0.54
+mdtK yeeO 0.484
+mrpA mrpB 0.999
+mrpA mrpE 0.999
+mrpA nhaC 0.451
+mrpB mrpE 0.999
+yisQ yoeA 0.473

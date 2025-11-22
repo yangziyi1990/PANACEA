@@ -1,0 +1,3 @@
+ATC1 NTH1 0.902
+treC treF 0.915
+treC treF 0.953

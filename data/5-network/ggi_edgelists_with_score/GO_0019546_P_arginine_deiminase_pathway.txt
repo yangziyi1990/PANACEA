@@ -1,0 +1,3 @@
+arcA arcC 0.991
+arcA arcC 0.992
+arcA arcC 0.999

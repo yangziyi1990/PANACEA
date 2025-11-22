@@ -1,0 +1,7 @@
+aat clpS 0.78
+aat clpS 0.825
+aat clpS 0.833
+aat clpS 0.948
+clpS ftsH 0.553
+ftsH lon 0.629
+ftsH lonB 0.623

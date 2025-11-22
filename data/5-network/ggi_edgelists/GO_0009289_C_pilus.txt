@@ -1,0 +1,12 @@
+csgA csgB
+csgB fimA
+csgB fimH
+ecpA fimH
+fimA fimH
+fimA fimI
+fimF fimG
+fimF fimH
+fimG fimH
+fimH fimI
+fimH sfmF
+yadC yadL

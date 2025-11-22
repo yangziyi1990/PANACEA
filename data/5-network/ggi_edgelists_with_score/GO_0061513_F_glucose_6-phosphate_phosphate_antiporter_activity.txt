@@ -1,0 +1,3 @@
+glpT uhpT 0.624
+uhpC uhpT 0.603
+uhpC uhpT 0.725

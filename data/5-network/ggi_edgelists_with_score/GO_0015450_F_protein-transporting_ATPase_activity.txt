@@ -1,0 +1,11 @@
+KAR2 SEC61 0.951
+secD secF 0.999
+secD secG 0.82
+secD secG 0.868
+secD secG 0.921
+secD secG 0.999
+secDF secG 0.998
+secDF secG 0.999
+secF secG 0.738
+secF secG 0.747
+secF secG 0.999

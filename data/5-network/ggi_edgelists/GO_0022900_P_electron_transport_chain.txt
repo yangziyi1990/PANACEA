@@ -1,0 +1,16 @@
+frdA nifJ
+frdA sdhA
+nifJ rsxA
+nifJ rsxB
+nifJ rsxG
+nifJ sdhA
+rsxA rsxB
+rsxA rsxC
+rsxA rsxD
+rsxA rsxG
+rsxB rsxC
+rsxB rsxD
+rsxB rsxG
+rsxC rsxD
+rsxC rsxG
+rsxD rsxG

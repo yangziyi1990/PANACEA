@@ -1,0 +1,13 @@
+fecB fepB 0.736
+fecB fhuD 0.932
+fepB fhuD 0.973
+feuA fhuD 0.865
+feuA yclQ 0.645
+feuA yfmC 0.539
+feuA yhfQ 0.537
+fhuD yclQ 0.796
+fhuD yfmC 0.763
+fhuD yhfQ 0.815
+yclQ yfmC 0.633
+yclQ yhfQ 0.767
+yfmC yhfQ 0.679

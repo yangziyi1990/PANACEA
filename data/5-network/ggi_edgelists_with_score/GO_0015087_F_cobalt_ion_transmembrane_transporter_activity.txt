@@ -1,0 +1,3 @@
+ecfA ecfAB 0.996
+ecfA thiW 0.704
+ecfAB thiW 0.703

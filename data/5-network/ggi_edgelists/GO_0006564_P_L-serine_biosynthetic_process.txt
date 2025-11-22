@@ -1,0 +1,9 @@
+SER1 SER2
+SER1 SER33
+SER2 SER33
+serA serC
+serA ysaA
+serB serC
+serB thrH
+serC thrH
+serC ysaA

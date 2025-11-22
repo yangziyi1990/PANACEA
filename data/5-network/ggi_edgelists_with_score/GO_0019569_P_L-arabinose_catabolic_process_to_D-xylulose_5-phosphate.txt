@@ -1,0 +1,5 @@
+araA araB 0.999
+araA araD 0.975
+araA araD 0.999
+araB araD 0.976
+araB araD 0.999

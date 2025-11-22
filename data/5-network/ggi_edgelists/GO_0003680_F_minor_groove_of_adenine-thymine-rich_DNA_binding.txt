@@ -1,0 +1,2 @@
+SMC1 SMC2
+hns stpA

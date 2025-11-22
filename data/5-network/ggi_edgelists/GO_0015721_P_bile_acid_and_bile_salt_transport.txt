@@ -1,0 +1,15 @@
+acrA emrA
+acrA emrB
+acrA emrK
+acrA emrY
+acrA mdtE
+emrA emrB
+emrA emrK
+emrA emrY
+emrA mdtE
+emrB emrK
+emrB emrY
+emrB mdtE
+emrK emrY
+emrK mdtE
+emrY mdtE

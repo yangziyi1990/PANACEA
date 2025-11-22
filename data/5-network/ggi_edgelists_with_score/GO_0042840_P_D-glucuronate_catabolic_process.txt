@@ -1,0 +1,13 @@
+kduI uxaC 0.786
+kduI uxaC 0.864
+kduI uxaC 0.91
+kduI uxaC 0.939
+kduI uxuA 0.579
+kduI uxuA 0.615
+kduI uxuA 0.909
+kduI uxuA 0.952
+uxaC uxuA 0.966
+uxaC uxuA 0.974
+uxaC uxuA 0.981
+uxaC uxuA 0.993
+uxaC uxuA 0.998

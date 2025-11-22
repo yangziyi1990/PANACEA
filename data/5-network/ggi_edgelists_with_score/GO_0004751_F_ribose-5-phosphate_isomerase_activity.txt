@@ -1,0 +1,3 @@
+lacA lacB 0.996
+lacA lacB 0.999
+rpiA rpiB 0.991

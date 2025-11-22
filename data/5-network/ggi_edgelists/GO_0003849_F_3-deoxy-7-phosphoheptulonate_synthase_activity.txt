@@ -1,0 +1,4 @@
+ARO3 ARO4
+aroF aroG
+aroF aroH
+aroG aroH

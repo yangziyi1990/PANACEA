@@ -1,0 +1,14 @@
+glpT pitB 0.814
+glpT uhpT 0.624
+pitB pstA 0.841
+pitB pstB 0.841
+pitB pstS 0.899
+pitB uhpC 0.74
+pitB uhpT 0.9
+pstA pstB 0.999
+pstA pstS 0.999
+pstA yjkB 0.877
+pstB pstS 0.998
+pstB pstS 0.999
+uhpC uhpT 0.603
+uhpC uhpT 0.725

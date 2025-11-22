@@ -1,0 +1,5 @@
+bacA bacC
+bacA srfAC
+bacC srfAA
+bacC srfAC
+srfAA srfAC

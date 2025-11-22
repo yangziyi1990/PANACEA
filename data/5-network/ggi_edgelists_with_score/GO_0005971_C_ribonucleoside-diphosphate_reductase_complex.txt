@@ -1,0 +1,3 @@
+RNR1 RNR3 0.904
+nrdA nrdE 0.931
+nrdE nrdF 0.999

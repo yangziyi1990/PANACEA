@@ -1,0 +1,14 @@
+phnJ phnK 0.998
+phnJ phnK 0.999
+phnJ phnM 0.995
+phnJ phnM 0.999
+phnJ phnP 0.974
+phnJ phnP 0.998
+phnK phnM 0.975
+phnK phnM 0.999
+phnK phnP 0.783
+phnK phnP 0.99
+phnM phnP 0.938
+phnM phnP 0.997
+phnW phnX 0.998
+phnW phnX 0.999

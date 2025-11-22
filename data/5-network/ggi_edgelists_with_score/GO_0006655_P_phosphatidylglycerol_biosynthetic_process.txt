@@ -1,0 +1,2 @@
+pgpA pgsA 0.944
+pgpA pgsA 0.986

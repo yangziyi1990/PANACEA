@@ -1,0 +1,6 @@
+HEM15 HEM2 0.833
+HEM15 HEM3 0.904
+HEM2 HEM3 0.998
+hemC hemE 0.993
+hemH hemY 0.998
+hemH hemY 0.999

@@ -1,0 +1,5 @@
+cwlO cwlS 0.648
+cwlO lytE 0.824
+cwlO lytF 0.757
+cwlO pgdS 0.586
+lytF pgdS 0.775

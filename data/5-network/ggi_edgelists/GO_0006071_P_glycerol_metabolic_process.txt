@@ -1,0 +1,6 @@
+GUT1 RHR2
+glpD glpE
+glpD glpP
+glpD glpQ
+glpD glpX
+glpX yggF

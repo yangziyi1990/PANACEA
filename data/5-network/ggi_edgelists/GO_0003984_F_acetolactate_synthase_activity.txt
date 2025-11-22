@@ -1,0 +1,10 @@
+ILV2 ILV6
+alsS ilvB
+alsS ilvN
+alsS iolD
+ilvB ilvI
+ilvB ilvM
+ilvB ilvN
+ilvB iolD
+ilvI ilvN
+ilvM ilvN

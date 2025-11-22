@@ -1,0 +1,8 @@
+dltA dltB
+dltA dltC
+dltA dltD
+dltA ugtP
+dltB dltC
+dltB dltD
+dltC dltD
+dltD ugtP

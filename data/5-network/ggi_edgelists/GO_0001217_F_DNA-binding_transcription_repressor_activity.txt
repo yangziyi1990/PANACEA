@@ -1,0 +1,4 @@
+HAP43 TUP1
+NRG1 TUP1
+RFX1 TUP1
+hns stpA

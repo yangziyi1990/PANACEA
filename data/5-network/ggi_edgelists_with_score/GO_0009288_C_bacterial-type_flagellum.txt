@@ -1,0 +1,12 @@
+cheZ fliH 0.849
+cheZ fliH 0.864
+cheZ fliH 0.869
+cheZ fliJ 0.868
+cheZ fliJ 0.881
+cheZ fliJ 0.945
+flhO fliJ 0.928
+flhO hag 0.973
+fliH fliJ 0.991
+fliH fliJ 0.996
+fliH fliJ 0.999
+fliJ hag 0.88

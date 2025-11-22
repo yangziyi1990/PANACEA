@@ -1,0 +1,4 @@
+RPN1 RPN2
+RPN1 RPN3
+RPN2 RPN3
+glnB glnK

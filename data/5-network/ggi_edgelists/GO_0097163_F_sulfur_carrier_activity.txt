@@ -1,0 +1,3 @@
+tusA tusD
+tusA tusE
+tusD tusE

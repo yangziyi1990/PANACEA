@@ -1,0 +1,5 @@
+greA greB
+greA nusG
+greA rnk
+greB nusG
+greB rnk

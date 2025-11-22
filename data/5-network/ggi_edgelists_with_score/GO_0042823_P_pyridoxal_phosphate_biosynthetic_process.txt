@@ -1,0 +1,4 @@
+SNO1 SNZ1 0.999
+epd gapA 0.517
+epd pdxA 0.51
+pdxS pdxT 0.999

@@ -1,0 +1,6 @@
+fecA fepA 0.94
+fecA fhuA 0.68
+fecA fhuE 0.812
+fepA fhuA 0.848
+fepA fhuE 0.979
+fhuA fhuE 0.784

@@ -1,0 +1,6 @@
+APE2 ECM14 0.452
+APE2 PRB1 0.412
+bclA1 bclA2 0.574
+bclA1 cspBA 0.581
+bclA2 bclA3 0.649
+bclA3 cspBA 0.475

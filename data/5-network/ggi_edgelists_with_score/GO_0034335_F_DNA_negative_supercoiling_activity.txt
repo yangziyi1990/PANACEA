@@ -1,0 +1,13 @@
+gyrA gyrB 0.998
+gyrA gyrB 0.999
+gyrA parC 0.727
+gyrA parE 0.985
+gyrA parE 0.993
+gyrA parE 0.996
+gyrA parE 0.999
+gyrB parC 0.984
+gyrB parC 0.991
+gyrB parC 0.994
+gyrB parC 0.999
+parC parE 0.996
+parC parE 0.999

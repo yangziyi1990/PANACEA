@@ -1,0 +1,7 @@
+AAH1 HAM1 0.497
+AAH1 ISN1 0.917
+HAM1 ISN1 0.9
+rdgB yceF 0.457
+rdgB yhdE 0.499
+rdgB yjjX 0.836
+yhdE yjjX 0.805

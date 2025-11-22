@@ -1,0 +1,4 @@
+cydC cydD 0.999
+cydD msbA 0.78
+cydD yojI 0.545
+msbA yojI 0.552

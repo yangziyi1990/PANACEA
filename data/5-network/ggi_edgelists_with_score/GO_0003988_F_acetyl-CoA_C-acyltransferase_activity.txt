@@ -1,0 +1,8 @@
+FOX3 POT1 0.992
+FOX3 POT1-2 0.905
+POT1 POT1-2 0.913
+fadA fadI 0.95
+fadA fadI 0.972
+fadA mmgA 0.914
+fadA yhfS 0.915
+mmgA yhfS 0.917

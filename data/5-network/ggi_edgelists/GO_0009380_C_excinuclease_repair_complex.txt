@@ -1,0 +1,9 @@
+cho uvrA
+cho uvrB
+cho uvrC
+uvrA uvrB
+uvrA uvrC
+uvrA yurQ
+uvrB uvrC
+uvrB yurQ
+uvrC yurQ

@@ -1,0 +1,4 @@
+zntA znuA 0.788
+zntA znuB 0.59
+znuA znuB 0.998
+znuA znuB 0.999

@@ -1,0 +1,6 @@
+RNH1 RNH35
+dnaQ rnhB
+rnhA rnhB
+rnhB rnhC
+rnhB ypeP
+rnhC ypeP

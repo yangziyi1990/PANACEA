@@ -1,0 +1,2 @@
+GUA1 IMH3 0.999
+guaA guaB 0.999

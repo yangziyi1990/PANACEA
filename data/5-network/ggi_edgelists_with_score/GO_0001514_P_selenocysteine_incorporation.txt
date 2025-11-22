@@ -1,0 +1,2 @@
+selA selB 0.983
+selA selB 0.999

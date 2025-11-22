@@ -1,0 +1,16 @@
+MEP1 MEP2
+rutA rutB
+rutA rutC
+rutA rutD
+rutA rutF
+rutA rutG
+rutB rutC
+rutB rutD
+rutB rutF
+rutB rutG
+rutC rutD
+rutC rutF
+rutC rutG
+rutD rutF
+rutD rutG
+rutF rutG

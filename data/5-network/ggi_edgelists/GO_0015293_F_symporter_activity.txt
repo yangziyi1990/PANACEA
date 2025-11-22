@@ -1,0 +1,5 @@
+actP pitB
+gltP tcyP
+gltT tcyP
+melB xylE
+tdcC tyrP

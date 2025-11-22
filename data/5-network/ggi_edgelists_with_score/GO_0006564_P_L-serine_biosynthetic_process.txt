@@ -1,0 +1,13 @@
+SER1 SER2 0.993
+SER1 SER33 0.999
+SER2 SER33 0.799
+serA serC 0.987
+serA serC 0.988
+serA serC 0.995
+serA ysaA 0.488
+serB serC 0.954
+serB serC 0.977
+serB serC 0.994
+serB thrH 0.946
+serC thrH 0.93
+serC ysaA 0.689

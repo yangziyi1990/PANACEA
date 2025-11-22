@@ -1,0 +1,4 @@
+pdaA pdaC 0.492
+pdaA yheN 0.481
+pdaC yheN 0.486
+pdaC yxkH 0.788

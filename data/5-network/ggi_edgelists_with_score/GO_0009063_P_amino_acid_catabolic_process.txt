@@ -1,0 +1,6 @@
+dgoD rhmD 0.525
+dgoD ycjG 0.559
+sdaA sdaB 0.904
+sdaA tdcG 0.901
+sdaA tdcG 0.902
+sdaB tdcG 0.902

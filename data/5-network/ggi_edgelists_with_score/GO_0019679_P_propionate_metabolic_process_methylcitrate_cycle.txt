@@ -1,0 +1,2 @@
+acnA prpD 0.679
+prpC prpD 0.999

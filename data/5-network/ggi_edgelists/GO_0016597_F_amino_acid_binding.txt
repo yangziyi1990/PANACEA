@@ -1,0 +1,2 @@
+ARG3 URA2
+argF pyrB

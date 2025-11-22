@@ -1,0 +1,13 @@
+asd dapA
+asd dapB
+asd dapD
+asd dapE
+asd dapG
+dapA dapB
+dapA dapD
+dapA dapE
+dapA dapG
+dapB dapD
+dapB dapE
+dapB dapG
+dapD dapE

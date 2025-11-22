@@ -1,0 +1,16 @@
+MSU1 RRP6 0.92
+MSU1 SSD1 0.587
+REX2 RRP6 0.646
+RRP6 SSD1 0.936
+kapD pnp 0.619
+kapD rph 0.527
+kapD rph 0.712
+kapD yhaM 0.528
+kapD yhaM 0.63
+orn pnp 0.856
+orn rph 0.416
+orn rph 0.489
+pnp rph 0.711
+pnp yhaM 0.723
+rph yhaM 0.686
+rph yhaM 0.921

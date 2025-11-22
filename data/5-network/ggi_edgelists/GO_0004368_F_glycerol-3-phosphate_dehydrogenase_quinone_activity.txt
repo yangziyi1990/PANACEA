@@ -1,0 +1,6 @@
+glpA glpB
+glpA glpC
+glpA glpD
+glpB glpC
+glpB glpD
+glpC glpD

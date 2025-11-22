@@ -1,0 +1,10 @@
+hyaA hyaB
+hyaA hyaC
+hyaA hybC
+hyaA hybO
+hyaB hyaC
+hyaB hybC
+hyaB hybO
+hyaC hybC
+hyaC hybO
+hybC hybO

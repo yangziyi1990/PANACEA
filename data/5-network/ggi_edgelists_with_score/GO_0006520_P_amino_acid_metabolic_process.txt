@@ -1,0 +1,4 @@
+ansA aspB 0.937
+ansA pyrB 0.9
+aspB pyrB 0.903
+eutB eutC 0.999

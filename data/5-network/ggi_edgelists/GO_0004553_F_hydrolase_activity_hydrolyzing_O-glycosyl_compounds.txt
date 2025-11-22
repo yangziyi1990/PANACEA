@@ -1,0 +1,9 @@
+CRH11 UTR2
+GCA2 SGA1
+GLC3 SGA1
+abnB bglS
+bglS licH
+bglS xynB
+glgB pulA
+lplD melA
+lplD xynB

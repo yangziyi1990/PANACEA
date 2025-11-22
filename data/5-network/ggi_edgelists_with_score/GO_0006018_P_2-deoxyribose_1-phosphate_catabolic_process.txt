@@ -1,0 +1,5 @@
+deoB deoC 0.98
+deoB deoC 0.989
+deoB deoC 0.994
+deoB deoC 0.997
+deoB deoC 0.999

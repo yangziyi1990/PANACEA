@@ -1,0 +1,5 @@
+KAR2 SEC61
+secD secF
+secD secG
+secDF secG
+secF secG

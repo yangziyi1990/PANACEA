@@ -1,0 +1,6 @@
+cirA fepA 0.954
+cirA fhuA 0.782
+cirA fhuE 0.979
+fepA fhuA 0.848
+fepA fhuE 0.979
+fhuA fhuE 0.784

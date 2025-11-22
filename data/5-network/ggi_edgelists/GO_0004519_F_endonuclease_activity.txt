@@ -1,0 +1,10 @@
+ltrA tnpB
+mutH mutL
+mutH sbcC
+mutH sbcD
+mutL sbcC
+mutL sbcD
+mutL xthA
+mutSB sbcD
+sbcC sbcD
+sbcD xthA

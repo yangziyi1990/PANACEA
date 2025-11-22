@@ -1,0 +1,4 @@
+dnaJ dnaK 0.999
+dnaJ groES 0.814
+dnaJ groL 0.962
+dnaK groL 0.999

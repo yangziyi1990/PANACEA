@@ -1,0 +1,2 @@
+gyrA parC 0.727
+gyrA parC 0.885

@@ -1,0 +1,6 @@
+fdhF fdnG 0.744
+fdhF fdnI 0.906
+fdhF fdoI 0.92
+fdnG fdnI 0.999
+fdnG fdoI 0.997
+fdnI fdoI 0.94

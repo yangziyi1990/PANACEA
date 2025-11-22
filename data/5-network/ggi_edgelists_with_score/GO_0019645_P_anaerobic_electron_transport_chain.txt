@@ -1,0 +1,5 @@
+narH narI 0.999
+narH nrfA 0.9
+narH nrfA 0.931
+narI nrfA 0.901
+narI nrfA 0.932

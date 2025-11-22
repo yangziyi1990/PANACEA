@@ -1,0 +1,4 @@
+ALK6 DIT2
+ALK8 DIT2
+DIT2 ERG5
+bioI cypC

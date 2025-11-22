@@ -1,0 +1,4 @@
+lptA lptE 0.445
+lptA lptE 0.603
+lptA lptE 0.604
+lptA lptE 0.995

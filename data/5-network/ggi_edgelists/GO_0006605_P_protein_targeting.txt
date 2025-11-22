@@ -1,0 +1,15 @@
+ftsY secA
+ftsY secE
+secA secD
+secA secDF
+secA secE
+secA secF
+secA secY
+secD secE
+secD secF
+secD secY
+secDF secE
+secDF secY
+secE secF
+secE secY
+secF secY

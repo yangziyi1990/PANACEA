@@ -1,0 +1,4 @@
+ndhC nuoK 0.998
+nuoA nuoC 0.999
+nuoA nuoK 0.999
+nuoC nuoK 0.999

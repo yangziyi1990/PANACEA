@@ -1,0 +1,9 @@
+CNH1 NHX1 0.65
+chaA mdfA 0.526
+chaA mdtM 0.644
+chaA nhaA 0.905
+chaA nhaB 0.898
+mdfA nhaA 0.544
+mdtM nhaA 0.629
+mdtM nhaB 0.622
+nhaA nhaB 0.974

@@ -1,0 +1,2 @@
+arnE arnF 0.961
+arnE arnF 0.999

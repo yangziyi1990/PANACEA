@@ -1,0 +1,4 @@
+ansA aspB
+ansA pyrB
+aspB pyrB
+eutB eutC

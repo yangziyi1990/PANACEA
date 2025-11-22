@@ -1,0 +1,7 @@
+dacB mepA
+dacB mltD
+emtA mltD
+emtA rlpA
+mltC mltD
+mltC rlpA
+mltD rlpA

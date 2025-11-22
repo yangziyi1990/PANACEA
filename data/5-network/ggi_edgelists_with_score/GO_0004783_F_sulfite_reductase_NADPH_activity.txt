@@ -1,0 +1,3 @@
+ECM17 MET10 0.999
+cysI cysJ 0.999
+cysI mioC 0.715

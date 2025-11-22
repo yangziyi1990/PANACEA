@@ -1,0 +1,5 @@
+ampH ldtD 0.751
+ampH pbpC 0.761
+dacD mrcB 0.533
+ldtD pbpC 0.529
+pbpB pbpD 0.903

@@ -1,0 +1,6 @@
+AIP2 CYB2 0.977
+dld lldD 0.99
+dld lldD 0.994
+lutA lutB 0.999
+lutA lutC 0.999
+lutB lutC 0.999

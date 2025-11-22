@@ -1,0 +1,11 @@
+btuB chiP
+btuB lamB
+btuB nanC
+btuB ompA
+btuB ompL
+chiP lamB
+chiP nanC
+chiP ompL
+lamB nanC
+lamB ompL
+nanC ompL

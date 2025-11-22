@@ -1,0 +1,4 @@
+POX1 POX1-3
+POX1 PXP2
+POX1-3 PXP2
+cypB cypD

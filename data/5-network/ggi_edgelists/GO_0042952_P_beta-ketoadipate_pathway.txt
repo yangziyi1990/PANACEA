@@ -1,0 +1,4 @@
+catA catC
+catA pcaD
+catA pcaH
+catC pcaH

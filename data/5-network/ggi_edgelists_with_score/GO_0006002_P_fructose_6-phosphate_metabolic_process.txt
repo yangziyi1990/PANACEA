@@ -1,0 +1,4 @@
+PFK1 PFK2 0.999
+fbp pfkA 0.965
+fbp pfkA 0.98
+frlB glmS 0.655

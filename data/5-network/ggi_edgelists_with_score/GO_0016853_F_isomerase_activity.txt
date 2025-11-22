@@ -1,0 +1,5 @@
+dsbC groL 0.733
+ilvC leuC 0.991
+ilvC tig 0.451
+iolB iolI 0.941
+iolH iolI 0.997

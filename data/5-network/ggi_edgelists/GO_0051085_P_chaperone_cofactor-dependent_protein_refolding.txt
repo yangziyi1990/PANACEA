@@ -1,0 +1,4 @@
+dnaJ dnaK
+dnaJ groES
+dnaJ groL
+dnaK groL

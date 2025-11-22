@@ -1,0 +1,3 @@
+frdA frdC 0.999
+frdA frdD 0.999
+frdC frdD 0.999

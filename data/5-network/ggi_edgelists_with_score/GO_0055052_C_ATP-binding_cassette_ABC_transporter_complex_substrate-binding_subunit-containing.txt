@@ -1,0 +1,3 @@
+malE malK 0.999
+malE ugpC 0.86
+malK ugpC 0.909

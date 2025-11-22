@@ -1,0 +1,4 @@
+ureA ureB
+ureA ureC
+ureB ureC
+ureC ureG

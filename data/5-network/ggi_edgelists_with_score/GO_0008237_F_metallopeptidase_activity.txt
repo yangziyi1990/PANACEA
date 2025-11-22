@@ -1,0 +1,8 @@
+JAB1 RPN8 0.852
+ampS pepT 0.672
+pepN pepT 0.887
+pepT pepV 0.816
+pepT pepV 0.837
+pmbA tldD 0.863
+pmbA tldD 0.897
+pmbA tldD 0.981

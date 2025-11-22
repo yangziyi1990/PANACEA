@@ -1,0 +1,2 @@
+tehA tehB 0.824
+tehA tehB 0.997

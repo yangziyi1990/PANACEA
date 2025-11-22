@@ -1,0 +1,2 @@
+ACS1 ACS2 0.904
+acs prpE 0.924

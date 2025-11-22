@@ -1,0 +1,3 @@
+nagB nanA
+nagB nanK
+nanA nanK

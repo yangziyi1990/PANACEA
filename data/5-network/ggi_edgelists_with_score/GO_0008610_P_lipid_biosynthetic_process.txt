@@ -1,0 +1,10 @@
+dhbF srfAA 0.999
+dhbF srfAB 0.999
+dhbF srfAC 0.999
+dhbF srfAD 0.988
+srfAA srfAB 0.999
+srfAA srfAC 0.999
+srfAA srfAD 0.999
+srfAB srfAC 0.999
+srfAB srfAD 0.999
+srfAC srfAD 0.999

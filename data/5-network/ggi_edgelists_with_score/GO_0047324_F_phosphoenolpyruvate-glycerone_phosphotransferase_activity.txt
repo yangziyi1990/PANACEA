@@ -1,0 +1,4 @@
+dhaK dhaL 0.997
+dhaK dhaL 0.999
+dhaK dhaM 0.999
+dhaL dhaM 0.999

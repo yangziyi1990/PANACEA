@@ -1,0 +1,5 @@
+ureA ureB 0.999
+ureA ureC 0.999
+ureB ureC 0.999
+ureC ureG 0.996
+ureC ureG 0.997

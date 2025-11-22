@@ -1,0 +1,6 @@
+lolA lolC 0.948
+lolA lolC 0.999
+lolA lolE 0.977
+lolA lolE 0.999
+lolC lolE 0.998
+lolC lolE 0.999

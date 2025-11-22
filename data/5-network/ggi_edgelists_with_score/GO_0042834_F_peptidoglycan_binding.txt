@@ -1,0 +1,12 @@
+damX dedD 0.751
+damX dedD 0.933
+damX ftsN 0.72
+damX ftsN 0.951
+damX rlpA 0.904
+damX ytfB 0.624
+dedD ftsN 0.592
+dedD ftsN 0.889
+dedD lpp 0.47
+dedD rlpA 0.881
+dedD ytfB 0.787
+ftsN rlpA 0.83

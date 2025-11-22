@@ -1,0 +1,3 @@
+garR glxR 0.907
+garR hyi 0.986
+glxR hyi 0.999

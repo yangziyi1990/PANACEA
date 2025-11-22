@@ -1,0 +1,8 @@
+FUN12 RPS13
+FUN12 RPS21
+MRP17 RPS21
+era rpsF
+era rpsR
+rpsF rpsR
+rpsF rpsT
+rpsR rpsT

@@ -1,0 +1,3 @@
+rimI rimJ
+rimI rimL
+rimJ rimL

@@ -1,0 +1,2 @@
+PMI1 PMM1 0.975
+cpsB manA 0.849

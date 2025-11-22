@@ -1,0 +1,4 @@
+DNA2 MPH1
+DNA2 MSH6
+MPH1 MSH6
+ruvA ruvB

@@ -1,0 +1,11 @@
+hcaE mhpB 0.818
+hcaE mhpC 0.787
+hcaE mhpD 0.827
+hcaE mhpF 0.759
+mhpB mhpC 0.993
+mhpB mhpD 0.962
+mhpB mhpD 0.974
+mhpB mhpF 0.927
+mhpC mhpD 0.997
+mhpC mhpF 0.952
+mhpD mhpF 0.993

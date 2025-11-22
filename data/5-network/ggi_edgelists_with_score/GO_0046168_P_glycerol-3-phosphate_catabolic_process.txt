@@ -1,0 +1,11 @@
+GPD1 GPD2 0.912
+glpA glpB 0.999
+glpA glpD 0.957
+glpA glpD 0.983
+glpA gpsA 0.927
+glpA gpsA 0.939
+glpB glpD 0.97
+glpB gpsA 0.9
+glpD gpsA 0.927
+glpD gpsA 0.959
+glpD gpsA 0.961

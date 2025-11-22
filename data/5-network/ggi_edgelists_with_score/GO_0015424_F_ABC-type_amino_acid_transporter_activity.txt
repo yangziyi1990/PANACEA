@@ -1,0 +1,3 @@
+glnQ gltL 0.621
+glnQ hisP 0.593
+gltL hisP 0.599

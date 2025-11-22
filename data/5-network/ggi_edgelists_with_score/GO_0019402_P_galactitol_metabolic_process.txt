@@ -1,0 +1,6 @@
+gatA gatB 0.999
+gatA gatD 0.999
+gatA gatZ 0.999
+gatB gatD 0.999
+gatB gatZ 0.999
+gatD gatZ 0.993

@@ -1,0 +1,5 @@
+JAB1 RPN8
+ampS pepT
+pepN pepT
+pepT pepV
+pmbA tldD

@@ -1,0 +1,5 @@
+ADO1 APT1 0.978
+adk amn 0.901
+adk apt 0.93
+adk apt 0.961
+amn apt 0.914

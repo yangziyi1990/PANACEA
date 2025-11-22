@@ -1,0 +1,7 @@
+ERO1 MIA40 0.429
+ERO1 TRX1 0.613
+dsbB dsbC 0.881
+dsbB trxA 0.665
+trxA ydbP 0.851
+trxA yusE 0.535
+ydbP yusE 0.807

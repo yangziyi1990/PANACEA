@@ -1,0 +1,7 @@
+ahr yahK 0.946
+ahr ybbO 0.786
+ahr yqhD 0.893
+yahK ybbO 0.537
+yahK ybbO 0.787
+yahK yqhD 0.811
+ybbO yqhD 0.557

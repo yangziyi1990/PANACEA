@@ -1,0 +1,16 @@
+PHO84 PHO87
+PHO84 PHO89
+PHO84 PHO91
+PHO87 PHO89
+PHO87 SYG1
+PHO89 PHO91
+PHO89 SYG1
+PHO91 SYG1
+phoB phoR
+phoB phoU
+phoB pstC
+phoR phoU
+phoR pstC
+phoU pstC
+phoU pstS
+pstC pstS

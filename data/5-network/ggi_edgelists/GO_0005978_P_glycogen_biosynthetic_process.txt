@@ -1,0 +1,12 @@
+GDB1 GLC3
+GDB1 GLG2
+GDB1 GSY1
+GLC3 GLG2
+GLC3 GSY1
+GLG2 GSY1
+glgA glgB
+glgA glgC
+glgA glgD
+glgB glgC
+glgB glgD
+glgC glgD

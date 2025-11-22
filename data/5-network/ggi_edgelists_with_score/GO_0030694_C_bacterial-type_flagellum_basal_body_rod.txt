@@ -1,0 +1,5 @@
+flgB flgC 0.987
+flgB flgC 0.998
+flgB flgC 0.999
+flgB flgF 0.997
+flgC flgF 0.997

@@ -1,0 +1,3 @@
+kynA kynB
+kynA kynU
+kynB kynU

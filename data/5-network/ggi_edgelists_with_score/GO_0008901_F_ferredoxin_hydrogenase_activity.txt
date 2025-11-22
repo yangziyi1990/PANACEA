@@ -1,0 +1,13 @@
+hyaA hyaB 0.999
+hyaA hybC 0.998
+hyaA hybC 0.999
+hyaA hybO 0.927
+hyaA hycG 0.585
+hyaB hybC 0.908
+hyaB hybC 0.917
+hyaB hybO 0.999
+hyaB hycG 0.569
+hybC hybO 0.999
+hybC hycG 0.553
+hybO hycG 0.573
+hycG hydN 0.903

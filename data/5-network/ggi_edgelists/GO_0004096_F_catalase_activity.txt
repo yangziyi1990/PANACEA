@@ -1,0 +1,4 @@
+katA katE
+katA katX
+katE katG
+katE katX

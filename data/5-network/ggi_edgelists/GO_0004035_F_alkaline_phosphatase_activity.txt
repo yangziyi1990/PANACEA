@@ -1,0 +1,2 @@
+PHO13 PHO8
+phoA phoB

@@ -1,0 +1,3 @@
+betA betB
+betA betI
+betB betI

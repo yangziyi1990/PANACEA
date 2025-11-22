@@ -1,0 +1,5 @@
+POL2 POL3 0.995
+dnaQ exoX 0.498
+dnaQ polB 0.83
+dnaQ rnt 0.708
+exoX rnt 0.739

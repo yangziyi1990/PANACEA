@@ -1,0 +1,2 @@
+CAT2 CTN3 0.964
+citE citF 0.999

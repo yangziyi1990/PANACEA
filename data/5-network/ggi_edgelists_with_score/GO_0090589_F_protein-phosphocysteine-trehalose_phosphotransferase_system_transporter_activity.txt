@@ -1,0 +1,5 @@
+ascF bglF 0.657
+ascF treB 0.414
+bglF treB 0.609
+bglP sacX 0.861
+bglP treP 0.9

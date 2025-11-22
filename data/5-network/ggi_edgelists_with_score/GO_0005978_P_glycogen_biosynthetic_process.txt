@@ -1,0 +1,13 @@
+GDB1 GLC3 0.993
+GDB1 GLG2 0.987
+GDB1 GSY1 0.891
+GLC3 GLG2 0.999
+GLC3 GSY1 0.999
+GLG2 GSY1 0.999
+glgA glgB 0.999
+glgA glgC 0.999
+glgA glgD 0.999
+glgB glgC 0.994
+glgB glgC 0.999
+glgB glgD 0.999
+glgC glgD 0.999

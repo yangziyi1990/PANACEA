@@ -1,0 +1,9 @@
+ESA1 SET2
+greA greB
+greA nusG
+greA rfaH
+greA rnk
+greB nusG
+greB rfaH
+greB rnk
+nusG rfaH

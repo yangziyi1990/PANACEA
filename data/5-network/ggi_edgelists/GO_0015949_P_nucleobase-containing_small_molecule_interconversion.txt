@@ -1,0 +1,3 @@
+gppA relA
+gppA spoT
+relA spoT

@@ -1,0 +1,4 @@
+CNH1 TOK1 0.592
+kefF kefG 0.672
+kefG trkA 0.42
+khtT ktrC 0.611

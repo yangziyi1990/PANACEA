@@ -1,0 +1,4 @@
+livF livM 0.999
+livF urtC 0.932
+livM urtE 0.975
+urtC urtE 0.999

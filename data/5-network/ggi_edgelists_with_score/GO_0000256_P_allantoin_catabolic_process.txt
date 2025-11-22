@@ -1,0 +1,2 @@
+allA allB 0.416
+allA allB 0.913

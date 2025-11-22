@@ -1,0 +1,5 @@
+ISU1 TRR1 0.705
+ISU1 YFH1 0.999
+cyaY iscX 0.729
+cyaY iscX 0.843
+cyaY iscX 0.959

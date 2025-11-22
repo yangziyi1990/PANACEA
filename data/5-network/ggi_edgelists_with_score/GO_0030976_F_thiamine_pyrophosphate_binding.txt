@@ -1,0 +1,17 @@
+PDC1 PDC2 0.905
+PDC11 PDC12 0.902
+alsS ilvB 0.932
+alsS ilvB 0.935
+alsS ilvB 0.938
+alsS iolD 0.598
+dxs menD 0.46
+dxs menD 0.495
+gcl ilvB 0.629
+gcl ilvI 0.642
+gcl oxc 0.52
+ilvB ilvI 0.946
+ilvB iolD 0.612
+ilvB poxB 0.848
+ilvB poxB 0.855
+ilvI poxB 0.854
+menD oxc 0.478

@@ -1,0 +1,12 @@
+AFP99 SPE3
+SPE2 SPE3
+speA speB
+speA speD
+speA speE
+speA speF
+speB speD
+speB speE
+speB speF
+speD speE
+speD speF
+speE speF

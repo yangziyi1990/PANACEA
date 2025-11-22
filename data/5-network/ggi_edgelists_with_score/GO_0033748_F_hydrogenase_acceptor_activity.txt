@@ -1,0 +1,10 @@
+hyaA hyaB 0.999
+hyaA hyaC 0.999
+hyaA hybC 0.999
+hyaA hybO 0.927
+hyaB hyaC 0.999
+hyaB hybC 0.917
+hyaB hybO 0.999
+hyaC hybC 0.976
+hyaC hybO 0.975
+hybC hybO 0.999

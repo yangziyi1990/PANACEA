@@ -1,0 +1,2 @@
+FUM11 FUM12 0.902
+fumB fumD 0.907

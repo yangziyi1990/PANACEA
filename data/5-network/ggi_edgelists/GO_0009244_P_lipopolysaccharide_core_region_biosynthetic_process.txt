@@ -1,0 +1,10 @@
+eptA eptB
+eptB waaA
+hldE lpxK
+hldE rfaC
+hldE waaA
+lpxK rfaC
+lpxK waaA
+lpxK waaC
+lpxK waaF
+waaC waaF

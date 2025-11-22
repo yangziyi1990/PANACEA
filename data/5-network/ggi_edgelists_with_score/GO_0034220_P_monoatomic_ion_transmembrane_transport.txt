@@ -1,0 +1,10 @@
+ompA ompC 0.998
+ompA ompF 0.992
+ompA ompN 0.924
+ompA phoE 0.94
+ompC ompF 0.998
+ompC ompN 0.709
+ompC phoE 0.964
+ompF ompN 0.708
+ompF phoE 0.971
+ompN phoE 0.557

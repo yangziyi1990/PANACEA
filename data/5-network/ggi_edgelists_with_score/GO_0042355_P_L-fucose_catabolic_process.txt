@@ -1,0 +1,4 @@
+fucA fucI 0.655
+fucA fucI 0.821
+fucA fucK 0.993
+fucI fucK 0.998

@@ -1,0 +1,7 @@
+cysE cysK
+cysE cysM
+cysE mccA
+cysK cysM
+cysK mccA
+cysK wcaB
+cysM wcaB

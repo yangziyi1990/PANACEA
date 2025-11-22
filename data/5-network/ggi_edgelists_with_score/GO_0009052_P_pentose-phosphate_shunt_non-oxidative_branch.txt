@@ -1,0 +1,6 @@
+RKI1 TAL1 0.86
+lacA lacB 0.996
+lacA lacB 0.999
+rpiA tkt 0.943
+rpiA tkt 0.947
+rpiA tkt 0.949

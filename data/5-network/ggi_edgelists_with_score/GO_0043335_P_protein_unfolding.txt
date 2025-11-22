@@ -1,0 +1,7 @@
+HSP104 HSP78 0.99
+PEX1 PEX6 0.999
+clpA hslU 0.616
+clpA hslU 0.916
+clpA tig 0.409
+clpA tig 0.42
+hslU tig 0.578

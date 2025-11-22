@@ -1,0 +1,10 @@
+GDH3 GLT1
+GDH3 PUT2
+GLT1 PUT2
+gdhA glsA
+gdhA glsB
+gdhA gltB
+glsA glsB
+glsA gltB
+glsB gltB
+gltB yerD

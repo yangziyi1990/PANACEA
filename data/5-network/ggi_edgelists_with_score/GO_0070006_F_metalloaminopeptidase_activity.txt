@@ -1,0 +1,7 @@
+APE2 LAP4 0.557
+map pepA 0.717
+map pepB 0.696
+map pepP 0.434
+pepA pepB 0.923
+pepA pepB 0.944
+pepA pepP 0.719

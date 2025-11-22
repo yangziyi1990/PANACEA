@@ -1,0 +1,10 @@
+ssuB ssuC
+ssuB tauA
+ssuB tauC
+ssuB tauD
+ssuC tauA
+ssuC tauC
+ssuC tauD
+tauA tauC
+tauA tauD
+tauC tauD

@@ -1,0 +1,4 @@
+dnaJ groL 0.962
+dnaJ rpoH 0.743
+dnaJ rpoH 0.856
+dnaJ rpoH 0.894

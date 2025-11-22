@@ -1,0 +1,5 @@
+fdnG fdnI 0.999
+fdnG fdoI 0.997
+fdnG fdxH 0.997
+fdnI fdoI 0.94
+fdoI fdxH 0.998

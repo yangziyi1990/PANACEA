@@ -1,0 +1,4 @@
+ganP ganQ 0.999
+malE malF 0.999
+malE malG 0.999
+malF malG 0.999

@@ -1,0 +1,14 @@
+rdgC recN 0.406
+rdgC recO 0.809
+recN recO 0.552
+recN recO 0.635
+recN recO 0.928
+recN recO 0.948
+recN recQ 0.609
+recN recQ 0.918
+recN recQ 0.931
+recO recQ 0.402
+recO recQ 0.431
+recO recQ 0.475
+recO recQ 0.931
+recO recQ 0.935

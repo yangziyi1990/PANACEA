@@ -1,0 +1,8 @@
+prfA prfB 0.781
+prfA prfB 0.843
+prfA prfB 0.845
+prfA prfB 0.863
+prfA prfC 0.725
+prfA prfC 0.986
+prfB prfC 0.705
+prfB prfC 0.989

@@ -1,0 +1,2 @@
+glsA glsB 0.914
+glsA glsB 0.927

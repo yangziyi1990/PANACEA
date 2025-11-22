@@ -1,0 +1,15 @@
+acrA emrA 0.954
+acrA emrB 0.908
+acrA emrK 0.899
+acrA emrY 0.763
+acrA mdtE 0.421
+emrA emrB 0.999
+emrA emrK 0.588
+emrA emrY 0.981
+emrA mdtE 0.646
+emrB emrK 0.966
+emrB emrY 0.558
+emrB mdtE 0.505
+emrK emrY 0.999
+emrK mdtE 0.86
+emrY mdtE 0.6

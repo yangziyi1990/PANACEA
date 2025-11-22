@@ -1,0 +1,7 @@
+acnB prpB 0.929
+acnB prpB 0.943
+prpB prpE 0.783
+prpB prpE 0.905
+prpB prpR 0.521
+prpB prpR 0.781
+prpE prpR 0.658

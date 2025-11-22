@@ -1,0 +1,6 @@
+kdpA kdpB
+kdpA kdpC
+kdpA kdpF
+kdpB kdpC
+kdpB kdpF
+kdpC kdpF

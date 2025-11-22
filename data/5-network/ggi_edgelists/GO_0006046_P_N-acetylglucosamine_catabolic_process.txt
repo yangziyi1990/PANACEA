@@ -1,0 +1,4 @@
+DAC1 HXK1
+DAC1 NAG1
+HXK1 NAG1
+nagA nagB

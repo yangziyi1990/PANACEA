@@ -1,0 +1,5 @@
+fusA infB
+fusA typA
+infB typA
+lepA typA
+prfC typA

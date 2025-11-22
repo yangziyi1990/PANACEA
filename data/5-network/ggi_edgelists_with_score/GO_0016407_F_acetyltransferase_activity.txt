@@ -1,0 +1,3 @@
+acoC pdhC 0.918
+acoC pta 0.918
+pdhC pta 0.956

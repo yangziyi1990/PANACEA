@@ -1,0 +1,7 @@
+cotI cotS
+sspH sspK
+sspH sspN
+sspH sspO
+sspK sspN
+sspK sspO
+sspN sspO

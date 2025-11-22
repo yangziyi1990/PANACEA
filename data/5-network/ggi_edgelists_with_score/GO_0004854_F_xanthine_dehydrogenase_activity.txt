@@ -1,0 +1,3 @@
+xdhA xdhB 0.999
+xdhA xdhC 0.999
+xdhB xdhC 0.999

@@ -1,0 +1,3 @@
+xerC xerD 0.695
+xerC xerD 0.941
+xerC xerD 0.996

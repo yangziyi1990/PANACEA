@@ -1,0 +1,2 @@
+dtpA dtpD 0.47
+dtpB dtpD 0.494

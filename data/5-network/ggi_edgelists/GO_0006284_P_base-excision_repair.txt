@@ -1,0 +1,13 @@
+APN1 APN2
+APN1 FPG1
+APN1 RAD14
+APN2 FPG1
+APN2 RAD14
+FPG1 MRE11
+mutM mutY
+mutM nei
+mutM nfo
+mutM tag
+mutY nei
+mutY nfo
+mutY tag

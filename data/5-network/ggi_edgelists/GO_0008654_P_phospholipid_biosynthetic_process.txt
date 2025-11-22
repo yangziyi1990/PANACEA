@@ -1,0 +1,9 @@
+INO1 OPI1
+SCT1 SCT2
+aas plsX
+aas plsY
+dagK gpsA
+dagK plsY
+gpsA plsX
+gpsA plsY
+plsX plsY

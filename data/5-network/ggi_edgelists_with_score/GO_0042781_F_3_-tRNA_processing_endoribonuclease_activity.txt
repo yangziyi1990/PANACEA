@@ -1,0 +1,3 @@
+rbn rnpA 0.623
+rnpA rnz 0.504
+rnpA rnz 0.638

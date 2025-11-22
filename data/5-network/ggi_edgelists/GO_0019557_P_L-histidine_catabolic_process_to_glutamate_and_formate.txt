@@ -1,0 +1,6 @@
+hutG hutH
+hutG hutI
+hutG hutU
+hutH hutI
+hutH hutU
+hutI hutU

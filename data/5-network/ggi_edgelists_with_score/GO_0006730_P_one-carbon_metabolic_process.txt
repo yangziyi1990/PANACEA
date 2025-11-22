@@ -1,0 +1,14 @@
+DFR1 GCV2 0.738
+DFR1 SAM2 0.558
+GCV2 SAH1 0.564
+SAH1 SAM2 0.954
+ahcY metK 0.789
+ahcY metK 0.858
+dfrA purU 0.933
+folA folE 0.641
+folA folM 0.992
+folA purU 0.921
+folA purU 0.938
+folE folM 0.457
+folE purU 0.514
+folM purU 0.91

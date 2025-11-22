@@ -1,0 +1,7 @@
+cpsB rfbD 0.84
+cpsB ugd 0.764
+epsN ytcA 0.49
+rfbD ugd 0.737
+spsC spsL 0.836
+spsC ytcA 0.679
+spsL ytcA 0.816

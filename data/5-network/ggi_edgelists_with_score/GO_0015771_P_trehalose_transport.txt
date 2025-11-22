@@ -1,0 +1,2 @@
+ascF bglF 0.657
+bglP sacX 0.861

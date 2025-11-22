@@ -1,0 +1,5 @@
+gyrA gyrB
+gyrA parC
+gyrA parE
+gyrB parC
+parC parE

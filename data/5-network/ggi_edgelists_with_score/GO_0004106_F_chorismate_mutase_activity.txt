@@ -1,0 +1,3 @@
+aroH aroX 0.986
+pheA tyrA 0.993
+pheA tyrA 0.999

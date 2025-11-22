@@ -1,0 +1,13 @@
+eutA eutB 0.996
+eutA eutC 0.995
+eutA eutK 0.93
+eutA eutL 0.967
+eutA eutM 0.945
+eutA eutS 0.983
+eutB eutC 0.999
+eutK eutL 0.997
+eutK eutM 0.683
+eutK eutS 0.989
+eutL eutM 0.99
+eutL eutS 0.991
+eutM eutS 0.996

@@ -1,0 +1,6 @@
+mltA mltB
+mltA mltC
+mltA mltF
+mltB mltC
+mltB mltF
+mltC mltF

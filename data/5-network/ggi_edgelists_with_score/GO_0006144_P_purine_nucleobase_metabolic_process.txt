@@ -1,0 +1,5 @@
+alc hpxO 0.544
+alc uraD 0.557
+alc uraH 0.578
+hiuH xdhB 0.421
+hpxO uraD 0.528

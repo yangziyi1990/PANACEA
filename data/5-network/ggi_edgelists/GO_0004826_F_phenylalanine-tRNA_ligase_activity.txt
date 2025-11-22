@@ -1,0 +1,4 @@
+FRS1 FRS2
+FRS1 MSF1
+FRS2 MSF1
+pheS pheT

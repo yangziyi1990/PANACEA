@@ -1,0 +1,7 @@
+galE galK
+galE galR
+galE galT
+galK galR
+galK galT
+galK ganA
+galT ganA

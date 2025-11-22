@@ -1,0 +1,2 @@
+ACO1 ACO2
+acnA acnB

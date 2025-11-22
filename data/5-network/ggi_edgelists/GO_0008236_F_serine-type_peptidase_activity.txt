@@ -1,0 +1,3 @@
+APE2 STE13
+ctpA ldcA
+ctpB spoIVB

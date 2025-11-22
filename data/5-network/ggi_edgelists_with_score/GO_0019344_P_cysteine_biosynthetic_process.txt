@@ -1,0 +1,9 @@
+MET14 MET16 0.999
+MET14 MET3 0.999
+MET16 MET3 0.952
+cysB cysI 0.597
+cysB cysJ 0.468
+cysB cysJ 0.601
+cysH cysI 0.999
+cysH cysJ 0.998
+cysI cysJ 0.999

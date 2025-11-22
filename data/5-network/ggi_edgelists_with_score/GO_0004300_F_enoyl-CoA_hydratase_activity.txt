@@ -1,0 +1,4 @@
+fadB fadJ 0.982
+fadB fadJ 0.987
+fadB paaG 0.517
+paaB paaG 0.984

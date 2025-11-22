@@ -1,0 +1,3 @@
+tusA tusD 0.972
+tusA tusE 0.976
+tusD tusE 0.985

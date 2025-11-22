@@ -1,0 +1,4 @@
+KGD1 KGD2
+KGD1 LPD1
+KGD2 LPD1
+odhA odhB

@@ -1,0 +1,16 @@
+eutL eutM
+eutL eutS
+eutL pduA
+eutL pduE
+eutL pduJ
+eutL pduU
+eutM eutS
+eutM pduU
+eutS pduA
+eutS pduJ
+pduA pduE
+pduA pduJ
+pduA pduU
+pduE pduJ
+pduE pduU
+pduJ pduU

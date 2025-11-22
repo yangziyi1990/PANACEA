@@ -1,0 +1,6 @@
+wcaA wcaE 0.972
+wcaA wcaE 0.983
+wcaA wcaI 0.957
+wcaA wcaI 0.986
+wcaE wcaI 0.944
+wcaE wcaI 0.989

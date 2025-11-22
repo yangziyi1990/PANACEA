@@ -1,0 +1,2 @@
+btuC btuF 0.995
+btuC btuF 0.999

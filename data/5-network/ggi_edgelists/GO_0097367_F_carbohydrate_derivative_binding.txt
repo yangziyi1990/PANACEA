@@ -1,0 +1,10 @@
+GFA1 PGI1
+alsR murQ
+alsR murR
+diaA kdsD
+frlB glmS
+glmS gutQ
+glmS pgi
+hxlB pgi
+kdsD pgi
+murQ murR

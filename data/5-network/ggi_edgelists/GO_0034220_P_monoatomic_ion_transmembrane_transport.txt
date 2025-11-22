@@ -1,0 +1,10 @@
+ompA ompC
+ompA ompF
+ompA ompN
+ompA phoE
+ompC ompF
+ompC ompN
+ompC phoE
+ompF ompN
+ompF phoE
+ompN phoE

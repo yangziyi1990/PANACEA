@@ -1,0 +1,4 @@
+TPS1 TPS2
+TPS1 TPS3
+TPS2 TPS3
+otsA otsB

@@ -1,0 +1,15 @@
+ampD anmK
+ampD mpl
+ampD murQ
+ampD nagK
+ampD nagZ
+anmK mpl
+anmK murQ
+anmK nagK
+anmK nagZ
+mpl murQ
+mpl nagZ
+murQ nagK
+murQ nagZ
+nagK nagZ
+xlyA xlyB

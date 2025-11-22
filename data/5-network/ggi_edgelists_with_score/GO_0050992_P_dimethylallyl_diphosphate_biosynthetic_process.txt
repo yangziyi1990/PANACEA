@@ -1,0 +1,3 @@
+IDI IDS 0.966
+idi ispH 0.976
+idi ispH 0.991

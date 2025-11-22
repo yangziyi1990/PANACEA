@@ -1,0 +1,12 @@
+queA queC
+queA queF
+queA queG
+queA tgt
+queC queE
+queC queF
+queC queG
+queC tgt
+queE queF
+queF queG
+queF tgt
+queG tgt

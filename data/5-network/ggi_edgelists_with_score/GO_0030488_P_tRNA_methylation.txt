@@ -1,0 +1,7 @@
+mnmE mnmG 0.999
+mnmE rlmN 0.543
+mnmE trmFO 0.589
+mnmG rlmN 0.563
+rlmN trmFO 0.46
+rlmN trmFO 0.544
+trmFO yrrM 0.446

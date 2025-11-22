@@ -1,0 +1,7 @@
+CHA1 ILV1 0.926
+ilvA tdcB 0.912
+ilvA tdcB 0.914
+ilvA tdcB 0.927
+ilvA thrC 0.967
+ilvA thrC 0.978
+tdcB thrC 0.962

@@ -1,0 +1,17 @@
+dinG mfd 0.851
+dinG recG 0.847
+dnaB recG 0.488
+dnaB recG 0.525
+dnaB recG 0.551
+dnaG recG 0.503
+dnaG recG 0.724
+mfd recG 0.475
+mfd recG 0.484
+mfd recG 0.519
+mfd recG 0.522
+mfd recG 0.538
+mfd recG 0.567
+mfd recG 0.575
+mfd recG 0.58
+mfd recG 0.642
+recC recG 0.558

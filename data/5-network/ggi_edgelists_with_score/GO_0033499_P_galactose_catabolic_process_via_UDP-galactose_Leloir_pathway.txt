@@ -1,0 +1,2 @@
+galM galT 0.942
+galM galT 0.996

@@ -1,0 +1,11 @@
+pqqA pqqB 0.592
+pqqA pqqC 0.592
+pqqA pqqD 0.592
+pqqA pqqE 0.592
+pqqB pqqC 0.998
+pqqB pqqD 0.995
+pqqB pqqE 0.986
+pqqC pqqD 0.993
+pqqC pqqE 0.985
+pqqD pqqE 0.986
+pqqD pqqE 0.987

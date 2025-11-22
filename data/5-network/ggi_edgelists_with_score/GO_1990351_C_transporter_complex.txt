@@ -1,0 +1,3 @@
+PEX1 PEX6 0.999
+lptD lptE 0.948
+lptD lptE 0.999

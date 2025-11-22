@@ -1,0 +1,7 @@
+betA betB 0.99
+betA betB 0.999
+betA betI 0.805
+betA betI 0.997
+betB betI 0.841
+betB betI 0.949
+betB betI 0.998

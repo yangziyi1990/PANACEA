@@ -1,0 +1,2 @@
+bcsA bcsB 0.999
+bcsA galU 0.932

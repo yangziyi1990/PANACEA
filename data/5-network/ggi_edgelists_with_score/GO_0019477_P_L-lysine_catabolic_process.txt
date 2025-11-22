@@ -1,0 +1,5 @@
+ARO8 ARO9 0.956
+csiD lhgO 0.999
+csiD patD 0.575
+lhgO patD 0.815
+patD ygjG 0.912

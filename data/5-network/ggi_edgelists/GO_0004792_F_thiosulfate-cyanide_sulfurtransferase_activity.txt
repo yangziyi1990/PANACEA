@@ -1,0 +1,5 @@
+glpE pspE
+glpE sseA
+glpE ygaP
+moeB sseA
+pspE sseA

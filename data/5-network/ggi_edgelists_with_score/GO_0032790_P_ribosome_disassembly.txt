@@ -1,0 +1,7 @@
+fusA infC 0.748
+fusA infC 0.828
+fusA infC 0.859
+fusA infC 0.888
+fusA infC 0.9
+fusA infC 0.949
+fusA infC 0.97

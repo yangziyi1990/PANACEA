@@ -1,0 +1,2 @@
+betA betB 0.99
+betA betB 0.999

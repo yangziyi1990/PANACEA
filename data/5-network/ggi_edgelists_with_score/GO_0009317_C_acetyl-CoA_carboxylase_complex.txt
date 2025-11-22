@@ -1,0 +1,9 @@
+accA accB 0.993
+accA accB 0.994
+accA accB 0.995
+accA accB 0.996
+accA accD 0.999
+accA yqjD 0.545
+accB accD 0.999
+accB yqjD 0.536
+accD yqjD 0.548

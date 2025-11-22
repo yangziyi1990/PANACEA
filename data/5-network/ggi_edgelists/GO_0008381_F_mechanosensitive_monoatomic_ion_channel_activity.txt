@@ -1,0 +1,11 @@
+mscK mscL
+mscK mscM
+mscK ybiO
+mscK ynaI
+mscL mscM
+mscL mscS
+mscL ybiO
+mscL ynaI
+mscM ybiO
+mscM ynaI
+ybiO ynaI

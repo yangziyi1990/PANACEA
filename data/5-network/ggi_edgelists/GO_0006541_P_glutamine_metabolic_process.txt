@@ -1,0 +1,4 @@
+CPA1 URA2
+carA carB
+carA pyrAA
+carB pyrAA

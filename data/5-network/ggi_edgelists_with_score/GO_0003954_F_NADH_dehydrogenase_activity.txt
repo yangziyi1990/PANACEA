@@ -1,0 +1,14 @@
+fdhF hycF 0.999
+fdhF hyfH 0.819
+fdhF nuoE 0.934
+fdhF nuoH 0.707
+hycF hyfH 0.575
+hycF nuoE 0.95
+hycF nuoE 0.962
+hycF nuoH 0.987
+hycF nuoH 0.989
+hyfH nuoE 0.936
+hyfH nuoH 0.987
+nuoE nuoH 0.994
+nuoE nuoH 0.999
+nuoH nuoI 0.999

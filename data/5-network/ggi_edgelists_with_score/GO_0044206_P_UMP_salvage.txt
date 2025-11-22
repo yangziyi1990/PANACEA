@@ -1,0 +1,10 @@
+udk udp 0.977
+udk udp 0.985
+udk upp 0.978
+udk upp 0.99
+udk upp 0.995
+udk upp 0.997
+udk upp 0.998
+udk upp 0.999
+udp upp 0.96
+udp upp 0.969

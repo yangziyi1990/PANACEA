@@ -1,0 +1,7 @@
+pbuX pyrP 0.512
+pucJ pucK 0.925
+pucJ pyrP 0.413
+rutG xanP 0.523
+rutG xanQ 0.52
+uraA xanP 0.535
+uraA xanQ 0.555

@@ -1,0 +1,3 @@
+atpA atpB 0.999
+atpA atpG 0.526
+atpB atpG 0.999

@@ -1,0 +1,2 @@
+phoQ phoR 0.58
+phoR walK 0.463

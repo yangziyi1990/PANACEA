@@ -1,0 +1,6 @@
+tap tar 0.984
+tap trg 0.503
+tap tsr 0.738
+tar trg 0.711
+tar tsr 0.933
+trg tsr 0.64

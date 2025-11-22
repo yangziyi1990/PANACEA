@@ -1,0 +1,6 @@
+fecA fhuA
+fecA fhuE
+fecA tonB
+fhuA fhuE
+fhuA tonB
+fhuE tonB

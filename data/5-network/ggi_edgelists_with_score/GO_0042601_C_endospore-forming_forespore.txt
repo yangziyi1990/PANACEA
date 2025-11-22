@@ -1,0 +1,8 @@
+cotI cotS 0.886
+sspH sspK 0.425
+sspH sspN 0.456
+sspH sspO 0.448
+sspK sspN 0.888
+sspK sspO 0.943
+sspN sspO 0.934
+sspN sspO 0.949

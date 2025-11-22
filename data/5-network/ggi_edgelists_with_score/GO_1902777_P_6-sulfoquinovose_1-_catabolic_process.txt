@@ -1,0 +1,6 @@
+yihS yihT 0.976
+yihS yihU 0.969
+yihS yihV 0.971
+yihT yihU 0.99
+yihT yihV 0.988
+yihU yihV 0.956

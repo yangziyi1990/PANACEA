@@ -1,0 +1,2 @@
+malF malK 0.997
+malF malK 0.999

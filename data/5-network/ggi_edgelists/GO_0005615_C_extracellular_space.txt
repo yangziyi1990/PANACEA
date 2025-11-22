@@ -1,0 +1,6 @@
+APE2 ECM14
+APE2 PRB1
+bclA1 bclA2
+bclA1 cspBA
+bclA2 bclA3
+bclA3 cspBA

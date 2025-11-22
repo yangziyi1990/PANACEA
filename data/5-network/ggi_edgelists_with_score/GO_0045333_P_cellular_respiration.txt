@@ -1,0 +1,5 @@
+AOX1 GOA1 0.67
+CAT2 CTN1 0.947
+dmsB hybA 0.602
+dmsB napA 0.427
+hybA napA 0.427

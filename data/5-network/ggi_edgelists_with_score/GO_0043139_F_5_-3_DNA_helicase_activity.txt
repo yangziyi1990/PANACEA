@@ -1,0 +1,3 @@
+DNA2 PIF1 0.797
+dinG recD 0.469
+dinG recD 0.527

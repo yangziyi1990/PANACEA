@@ -1,0 +1,14 @@
+rhaA rhaB 0.999
+rhaA rhaD 0.967
+rhaA rhaD 0.995
+rhaA rhaM 0.993
+rhaA rhaM 0.997
+rhaA rhaM 0.998
+rhaB rhaD 0.996
+rhaB rhaD 0.999
+rhaB rhaM 0.975
+rhaB rhaM 0.977
+rhaB rhaM 0.988
+rhaD rhaM 0.959
+rhaD rhaM 0.976
+rhaD rhaM 0.978

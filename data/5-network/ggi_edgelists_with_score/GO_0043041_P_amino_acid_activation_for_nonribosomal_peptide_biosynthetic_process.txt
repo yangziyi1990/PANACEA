@@ -1,0 +1,4 @@
+bacA srfAC 0.498
+dhbF srfAA 0.999
+dhbF srfAC 0.999
+srfAA srfAC 0.999

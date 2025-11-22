@@ -1,0 +1,5 @@
+appC cydA
+appC cydB
+cydA cydB
+cydA ythA
+cydB ythA

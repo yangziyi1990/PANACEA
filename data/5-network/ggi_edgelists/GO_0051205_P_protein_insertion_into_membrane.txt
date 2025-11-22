@@ -1,0 +1,13 @@
+bamA bamB
+bamA bamC
+bamA bamD
+bamA bamE
+bamA yidC
+bamB bamC
+bamB bamD
+bamB bamE
+bamB yidC
+bamC bamD
+bamC bamE
+bamD bamE
+bamD yidC

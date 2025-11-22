@@ -1,0 +1,4 @@
+ATP1 ATP2
+ATP1 PGK1
+ATP2 PGK1
+atpA pgk

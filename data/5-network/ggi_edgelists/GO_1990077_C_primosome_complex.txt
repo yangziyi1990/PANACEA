@@ -1,0 +1,16 @@
+dnaB dnaC
+dnaB dnaE
+dnaB dnaG
+dnaB priA
+dnaB priB
+dnaC dnaG
+dnaC dnaT
+dnaC priA
+dnaC priB
+dnaE dnaG
+dnaG dnaT
+dnaG priA
+dnaG priB
+dnaT priA
+dnaT priB
+priA priB

@@ -1,0 +1,16 @@
+ctaD nuoB 0.746
+ctaD qoxB 0.906
+ctaD qoxB 0.908
+ctaD qoxD 0.988
+ctaD qoxD 0.992
+cyoB cyoD 0.999
+cyoB nuoL 0.734
+cyoB nuoM 0.974
+cyoB nuoM 0.987
+nuoB nuoL 0.999
+nuoB nuoM 0.999
+nuoB qoxB 0.736
+nuoL nuoM 0.997
+nuoL nuoM 0.999
+qoxB qoxD 0.998
+qoxB qoxD 0.999

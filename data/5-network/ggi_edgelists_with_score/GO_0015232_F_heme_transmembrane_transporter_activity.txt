@@ -1,0 +1,3 @@
+FRP1 FRP2 0.411
+ccmB ccmC 0.999
+ccmB ccmE 0.957

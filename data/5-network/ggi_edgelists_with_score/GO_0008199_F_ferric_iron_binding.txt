@@ -1,0 +1,8 @@
+bfr cyaY 0.439
+bfr dps 0.536
+bfr dps 0.558
+bfr ftnA 0.684
+bfr ftnA 0.871
+catA pcaG 0.742
+catA pcaH 0.423
+pcaG pcaH 0.995

@@ -1,0 +1,2 @@
+mrcB mtgA 0.459
+mrcB mtgA 0.849

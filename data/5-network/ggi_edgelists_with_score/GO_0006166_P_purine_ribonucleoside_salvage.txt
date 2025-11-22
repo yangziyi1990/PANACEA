@@ -1,0 +1,12 @@
+ADO1 APT1 0.978
+ADO1 MEU1 0.427
+APT1 MEU1 0.907
+apt gpt 0.943
+apt gpt 0.99
+apt gsk 0.923
+apt hpt 0.984
+apt xpt 0.967
+gpt gsk 0.929
+gpt hpt 0.985
+gpt xdhB 0.901
+hpt xdhB 0.9

@@ -1,0 +1,3 @@
+GPM1 GPM2
+gpmA gpmI
+gpmA gpmM

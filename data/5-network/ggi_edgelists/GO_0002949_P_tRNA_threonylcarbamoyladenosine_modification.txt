@@ -1,0 +1,6 @@
+tsaB tsaC
+tsaB tsaD
+tsaB tsaE
+tsaC tsaD
+tsaC tsaE
+tsaD tsaE

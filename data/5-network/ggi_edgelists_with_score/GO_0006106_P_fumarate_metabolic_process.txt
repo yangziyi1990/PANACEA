@@ -1,0 +1,2 @@
+FUM11 FUM12 0.902
+frdD fumC 0.688

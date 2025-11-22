@@ -1,0 +1,7 @@
+cyoA cyoB 0.999
+cyoA cyoC 0.999
+cyoA cyoD 0.999
+cyoB cyoC 0.999
+cyoB cyoD 0.999
+cyoC cyoD 0.999
+qoxA qoxD 0.999

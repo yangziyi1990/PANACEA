@@ -1,0 +1,877 @@
+NormalizedSubject	TaxID	Source
+Acinetobacter baumannii 123C	470	json
+Acinetobacter baumannii 309C	470	json
+Acinetobacter baumannii 432B	470	json
+Acinetobacter baumannii 518B	470	json
+Acinetobacter baumannii A2265	470	json
+Acinetobacter baumannii AB5075	1116234	json
+Acinetobacter baumannii ABUH41488	470	json
+Acinetobacter baumannii ABUH41489	470	json
+Acinetobacter baumannii AR-0033	470	json
+Acinetobacter baumannii AR-0037	470	json
+Acinetobacter baumannii ATCC 17978	470	json
+Acinetobacter baumannii ATCC 17978	400667	json
+Acinetobacter baumannii ATCC 19606	575584	json
+Acinetobacter baumannii ATCC 19606	470	json
+Acinetobacter baumannii ATCC BAA1605	470	json
+Acinetobacter baumannii Ab1	470	json
+Acinetobacter baumannii Ab11	470	json
+Acinetobacter baumannii Ab12	470	json
+Acinetobacter baumannii Ab2	470	json
+Acinetobacter baumannii Ab3	470	json
+Acinetobacter baumannii Ab4	470	json
+Acinetobacter baumannii LMG01041	470	json
+Acinetobacter baumannii MMX2240	470	json
+Acinetobacter baumannii NRZ00687	470	json
+Acinetobacter baumannii PBIO721	470	json
+Acinetobacter baumannii TP1	470	json
+Acinetobacter baumannii TP3	470	json
+Aspergillus niger MTCC1881	5061	json
+Azospirillum argentinense UC4320	2970906	json
+Azospirillum argentinense UC4321	2970906	json
+Azospirillum sp.. UWAZO	34012	json
+Bacillus cereus ATCC 10987	222523	json
+Bacillus cereus ATCC 11778	1396	json
+Bacillus cereus ATCC 14579	226900	json
+Bacillus cereus PTCC1247	1396	json
+Bacillus rugosus Khuz-2	2715209	json
+Bacillus safensis Khuz-1	561879	json
+Bacillus subtilis ATCC 6633	1423	json
+Bacillus subtilis ATCC 6633	1423	json
+Bacillus subtilis MTCC121	1423	json
+Bacillus subtilis MTCC736	1423	json
+Bacillus subtilis PCM2850	1423	json
+Bacillus subtilis WDCM00003	1423	json
+Bacillus subtilis WDCM0003	1423	json
+Bacillus velezensis Khuz-3	492670	json
+Botrytis cinerea HLD-18	332648	json
+Burkholderia cepacia ATCC 25416	983594	json
+Burkholderia cepacia b19	292	json
+Burkholderia cepacia dm93	292	json
+Candida albicans ATCC 10231	5476	json
+Candida albicans ATCC 2002	5476	json
+Candida albicans MTCC227	5476	json
+Candida albicans PCM2566	5476	json
+Candida albicans SC5314	237561	json
+Candida albicans WDCM00054	5476	json
+Candida auris CBS12766	498019	json
+Candida duobushaemulonii F4458	1231522	json
+Candida duobushaemulonii F4464	1231522	json
+Candida duobushaemulonii F4490	1231522	json
+Candida duobushaemulonii F4560	1231522	json
+Candida duobushaemulonii F4566	1231522	json
+Candida duobushaemulonii F4572	1231522	json
+Candida duobushaemulonii F4608	1231522	json
+Candida duobushaemulonii F4616	1231522	json
+Candida duobushaemulonii F7396	1231522	json
+Chimaeribacter arupi DSM 115072	2060066	json
+Chlorella variabilis NC64A	554065	json
+Citrobacter braakii 1SBR104	57706	json
+Citrobacter braakii 3SWD1	57706	json
+Citrobacter braakii 5CP1581	57706	json
+Citrobacter braakii 5SBR103	57706	json
+Citrobacter braakii 5SBR282	57706	json
+Citrobacter braakii 5SWD1	57706	json
+Citrobacter braakii 6CP11281B	57706	json
+Citrobacter braakii 6STM5	57706	json
+Citrobacter freundii ARC3518	546	json
+Citrobacter freundii CIP5732	546	json
+Citrobacter freundii PBIO701	546	json
+Clostridioides difficile MT1470	1496	json
+Clostridioides difficile MT5006	1496	json
+Clostridioides difficile NAPCR1	1496	json
+Clostridioides difficile NB95026	1496	json
+Clostridioides difficile R20291	645463	json
+Corynebacterium diphtheriae FRC0024	1717	json
+Enterobacter aerogenes ATCC 13048	548	json
+Enterobacter aerogenes EA27	548	json
+Enterobacter cloacae ARC6049	550	json
+Enterobacter cloacae BM47	550	json
+Enterobacter cloacae CIP103475	550	json
+Enterobacter cloacae LMG02783	550	json
+Enterobacter cloacae NCTC11936	550	json
+Enterococcus faecalis 10-1-01	1351	json
+Enterococcus faecalis 10-1-02	1351	json
+Enterococcus faecalis 10-1-04	1351	json
+Enterococcus faecalis 10-1-05	1351	json
+Enterococcus faecalis 10-1-09	1351	json
+Enterococcus faecalis 10-1A	1351	json
+Enterococcus faecalis 10-2-12	1351	json
+Enterococcus faecalis 10-2-17	1351	json
+Enterococcus faecalis 10-6-41	1351	json
+Enterococcus faecalis 10-6-46	1351	json
+Enterococcus faecalis 10-6-50	1351	json
+Enterococcus faecalis 10-6A	1351	json
+Enterococcus faecalis 11-3A	1351	json
+Enterococcus faecalis 11-7A	1351	json
+Enterococcus faecalis 12-03-20	1351	json
+Enterococcus faecalis 12-1VP	1351	json
+Enterococcus faecalis 12-3-27	1351	json
+Enterococcus faecalis 12-7-68	1351	json
+Enterococcus faecalis 12-8-01	1351	json
+Enterococcus faecalis 13-06-51	1351	json
+Enterococcus faecalis 13-1-05	1351	json
+Enterococcus faecalis 13-1-06	1351	json
+Enterococcus faecalis 13-1-07	1351	json
+Enterococcus faecalis 13-1-08	1351	json
+Enterococcus faecalis 13-1-09	1351	json
+Enterococcus faecalis 13-1-10	1351	json
+Enterococcus faecalis 13-10-96	1351	json
+Enterococcus faecalis 13-10-98	1351	json
+Enterococcus faecalis 13-1VP	1351	json
+Enterococcus faecalis 13-2-13	1351	json
+Enterococcus faecalis 13-2-16	1351	json
+Enterococcus faecalis 13-2-17	1351	json
+Enterococcus faecalis 13-2-19	1351	json
+Enterococcus faecalis 1603244	1351	json
+Enterococcus faecalis 1603442	1351	json
+Enterococcus faecalis AR-0780	1351	json
+Enterococcus faecalis AR00-128	1351	json
+Enterococcus faecalis AR00-36	1351	json
+Enterococcus faecalis AR01-1155	1351	json
+Enterococcus faecalis AR01-673	1351	json
+Enterococcus faecalis AR01-802	1351	json
+Enterococcus faecalis AR01-912	1351	json
+Enterococcus faecalis AR96-360	1351	json
+Enterococcus faecalis AR99-1024	1351	json
+Enterococcus faecalis AR99-1107	1351	json
+Enterococcus faecalis AR99-190	1351	json
+Enterococcus faecalis AR99-84	1351	json
+Enterococcus faecalis ARL04-506	1351	json
+Enterococcus faecalis ATCC 29212	1351	json
+Enterococcus faecalis ATCC 29212	1201292	json
+Enterococcus faecalis ATCC 51299	1351	json
+Enterococcus faecalis LMG08222	1351	json
+Enterococcus faecalis LMG16216	1351	json
+Enterococcus faecalis NCTC775	1351	json
+Enterococcus faecalis V583	226185	json
+Enterococcus faecium 1603019	1352	json
+Enterococcus faecium 1603084	1352	json
+Enterococcus faecium 1603162	1352	json
+Enterococcus faecium 1603243	1352	json
+Enterococcus faecium 1603274	1352	json
+Enterococcus faecium 1603275	1352	json
+Enterococcus faecium 1603296	1352	json
+Enterococcus faecium 1603370	1352	json
+Enterococcus faecium 1603389	1352	json
+Enterococcus faecium 1603468	1352	json
+Enterococcus faecium 1603514	1352	json
+Enterococcus faecium 1603515	1352	json
+Enterococcus faecium 1603630	1352	json
+Enterococcus faecium 1603637	1352	json
+Enterococcus faecium 1603688	1352	json
+Enterococcus faecium 1704054	1352	json
+Enterococcus faecium 1704095	1352	json
+Enterococcus faecium 700221	1352	json
+Enterococcus faecium 9-F-6	1352	json
+Enterococcus faecium ATCC 19434	1352	json
+Enterococcus faecium DMG1700661	1352	json
+Enterococcus faecium DMG1700787	1352	json
+Enterococcus faecium DMG1800332	1352	json
+Enterococcus faecium DMG1901766	1352	json
+Enterococcus faecium HOU503	1352	json
+Enterococcus faecium LMG11423	1352	json
+Enterococcus faecium LMG16003	1352	json
+Enterococcus faecium NCTC7171	1352	json
+Enterococcus faecium R497	1134837	json
+Enterococcus faecium VSE	1352	json
+Escherichia coli 339940-002-477	562	json
+Escherichia coli 339942-001-501	562	json
+Escherichia coli 339942-002-506	562	json
+Escherichia coli 344914-013-1036	562	json
+Escherichia coli 700926	562	json
+Escherichia coli AG100	83333	json
+Escherichia coli AG100A	562	json
+Escherichia coli AR-0001	562	json
+Escherichia coli AR-0149	562	json
+Escherichia coli ARC2687	562	json
+Escherichia coli ARC3627	562	json
+Escherichia coli ATCC 10536	562	json
+Escherichia coli ATCC 25922	562	json
+Escherichia coli ATCC 25922	1322345	json
+Escherichia coli ATCC 35150	1389955	json
+Escherichia coli ATCC 35218	562	json
+Escherichia coli ATCC 8739	562	json
+Escherichia coli ATCC 8739	481805	json
+Escherichia coli ATCC 9637	566546	json
+Escherichia coli BR1E	562	json
+Escherichia coli BR1F	562	json
+Escherichia coli BW25113	679895	json
+Escherichia coli C031	562	json
+Escherichia coli C047	562	json
+Escherichia coli CCM3988	562	json
+Escherichia coli CDC-0452	562	json
+Escherichia coli CGSC5073	562	json
+Escherichia coli CH1	562	json
+Escherichia coli CIP1	562	json
+Escherichia coli D030	562	json
+Escherichia coli D032	562	json
+Escherichia coli DA44554	562	json
+Escherichia coli DA45430	562	json
+Escherichia coli DA46661	562	json
+Escherichia coli DA47114	562	json
+Escherichia coli DA63164	562	json
+Escherichia coli EC118	562	json
+Escherichia coli EC122	562	json
+Escherichia coli EC123	562	json
+Escherichia coli EC125	562	json
+Escherichia coli EC127	562	json
+Escherichia coli EC1552	562	json
+Escherichia coli EC958	941322	json
+Escherichia coli ERR1878189	562	json
+Escherichia coli ERR1878190	562	json
+Escherichia coli ERR2137881	562	json
+Escherichia coli ERR2137921	562	json
+Escherichia coli ERR2137923	562	json
+Escherichia coli ERS357195	562	json
+Escherichia coli ERS357668	562	json
+Escherichia coli ERS357718	562	json
+Escherichia coli ERS357811	562	json
+Escherichia coli ERS357812	562	json
+Escherichia coli ERS357813	562	json
+Escherichia coli ERS357814	562	json
+Escherichia coli ERS357815	562	json
+Escherichia coli ERS357816	562	json
+Escherichia coli ERS357843	562	json
+Escherichia coli ERS357845	562	json
+Escherichia coli GG 14-6 Cef	562	json
+Escherichia coli H17	1355047	json
+Escherichia coli HAM5E	562	json
+Escherichia coli IR57	562	json
+Escherichia coli J53	1144303	json
+Escherichia coli JW0452	562	json
+Escherichia coli K-12	316407	json
+Escherichia coli LMG8223	562	json
+Escherichia coli LW53	562	json
+Escherichia coli LW54	562	json
+Escherichia coli LW55	562	json
+Escherichia coli LW56	562	json
+Escherichia coli LW57	562	json
+Escherichia coli LW58	562	json
+Escherichia coli LW59	562	json
+Escherichia coli MCR1	562	json
+Escherichia coli MCR2	562	json
+Escherichia coli MG1655	511145	json
+Escherichia coli MG1656	562	json
+Escherichia coli MTCC118	562	json
+Escherichia coli MTCC739	562	json
+Escherichia coli NCTC10418	562	json
+Escherichia coli NCTC12241	562	json
+Escherichia coli O78	2072463	json
+Escherichia coli PBIO1937	562	json
+Escherichia coli PBIO1939	562	json
+Escherichia coli PBIO1940	562	json
+Escherichia coli PBIO1941	562	json
+Escherichia coli PBIO1942	562	json
+Escherichia coli PBIO1943	562	json
+Escherichia coli PBIO1944	562	json
+Escherichia coli PBIO1945	562	json
+Escherichia coli PBIO1946	562	json
+Escherichia coli PBIO1947	562	json
+Escherichia coli PBIO1948	562	json
+Escherichia coli PBIO1949	562	json
+Escherichia coli PBIO711	562	json
+Escherichia coli PCM2857	562	json
+Escherichia coli PK-3225	562	json
+Escherichia coli RL138	562	json
+Escherichia coli S117	562	json
+Escherichia coli SKM18	562	json
+Escherichia coli ST10	562	json
+Escherichia coli ST101	562	json
+Escherichia coli ST1196	562	json
+Escherichia coli ST131	941322	json
+Escherichia coli ST155	562	json
+Escherichia coli ST156	562	json
+Escherichia coli ST162	562	json
+Escherichia coli ST167	562	json
+Escherichia coli ST340	562	json
+Escherichia coli ST405	562	json
+Escherichia coli ST410	562	json
+Escherichia coli ST648	562	json
+Escherichia coli TJ249	562	json
+Escherichia coli TW100	562	json
+Escherichia coli TW140	562	json
+Escherichia coli TW176	562	json
+Escherichia coli TW236	562	json
+Escherichia coli TW99	562	json
+Escherichia coli WDCM00013	562	json
+Haemophilus influenzae BLR1	727	json
+Haemophilus influenzae BLR2	727	json
+Haemophilus influenzae BLR3	727	json
+Haemophilus influenzae BLR5	727	json
+Haemophilus influenzae BLR6	727	json
+Haemophilus influenzae BLR8	727	json
+Haemophilus influenzae MSC02022	727	json
+Haemophilus influenzae MSC02070	727	json
+Haemophilus influenzae MSC02149	727	json
+Haemophilus influenzae MSC07169	727	json
+Haemophilus influenzae MSC07237	727	json
+Haemophilus influenzae MSC07771	727	json
+Helicobacter pylori ATCC 43504	210	json
+Helicobacter pylori ATCC 43504	102618	json
+Helicobacter pylori KH0001	210	json
+Helicobacter pylori KH0012	210	json
+Helicobacter pylori KH0016	210	json
+Helicobacter pylori KH0022	210	json
+Helicobacter pylori KH0025	210	json
+Helicobacter pylori KH0031	210	json
+Helicobacter pylori KH0032	210	json
+Helicobacter pylori KH0033	210	json
+Helicobacter pylori KH0040	210	json
+Helicobacter pylori KH0042	210	json
+Helicobacter pylori KH0045	210	json
+Helicobacter pylori KH0054	210	json
+Helicobacter pylori KH0065	210	json
+Helicobacter pylori KH0066	210	json
+Helicobacter pylori KH0070	210	json
+Helicobacter pylori KH0071	210	json
+Helicobacter pylori KH0072	210	json
+Helicobacter pylori KH0075	210	json
+Helicobacter pylori KH0086	210	json
+Helicobacter pylori KH0092	210	json
+Helicobacter pylori KH0095	210	json
+Helicobacter pylori KH0097	210	json
+Helicobacter pylori KH0106	210	json
+Helicobacter pylori KH0110	210	json
+Helicobacter pylori KH0113	210	json
+Helicobacter pylori KH0119	210	json
+Helicobacter pylori KH0120	210	json
+Helicobacter pylori KH0122	210	json
+Helicobacter pylori KH0125	210	json
+Helicobacter pylori KH0126	210	json
+Helicobacter pylori KH0127	210	json
+Helicobacter pylori KH0129	210	json
+Helicobacter pylori KH0141	210	json
+Helicobacter pylori KH0143	210	json
+Helicobacter pylori KH0148	210	json
+Helicobacter pylori KH0149	210	json
+Helicobacter pylori KH0153	210	json
+Helicobacter pylori KH0156	210	json
+Helicobacter pylori KH0158	210	json
+Helicobacter pylori KH0159	210	json
+Helicobacter pylori KH0161	210	json
+Helicobacter pylori KH0165	210	json
+Helicobacter pylori KH0167	210	json
+Helicobacter pylori KH0172	210	json
+Helicobacter pylori KH0173	210	json
+Helicobacter pylori KH0175	210	json
+Helicobacter pylori KH0176	210	json
+Helicobacter pylori KH0178	210	json
+Helicobacter pylori KH0182	210	json
+Helicobacter pylori KH0191	210	json
+Helicobacter pylori KH0198	210	json
+Helicobacter pylori KH0207	210	json
+Helicobacter pylori KH0210	210	json
+Helicobacter pylori MH179988	210	json
+Helicobacter pylori NCTC11637	210	json
+Helicobacter pylori NCTC11638	210	json
+Klebsiella aerogenes LMG02094	548	json
+Klebsiella oxytoca ARC5389	571	json
+Klebsiella oxytoca KXB10	571	json
+Klebsiella oxytoca KXB44	571	json
+Klebsiella oxytoca PBIO708	571	json
+Klebsiella oxytoca PBIO713	571	json
+Klebsiella pneumoniae 878757	573	json
+Klebsiella pneumoniae 885662	573	json
+Klebsiella pneumoniae 886012	573	json
+Klebsiella pneumoniae 887213	573	json
+Klebsiella pneumoniae 911056	573	json
+Klebsiella pneumoniae 911057	573	json
+Klebsiella pneumoniae A-1797	573	json
+Klebsiella pneumoniae AKPRH060589	573	json
+Klebsiella pneumoniae AKPRH073749	573	json
+Klebsiella pneumoniae AKPRH073791	573	json
+Klebsiella pneumoniae AKPRH075470	573	json
+Klebsiella pneumoniae AKPRH080251	573	json
+Klebsiella pneumoniae AKPRH081695	573	json
+Klebsiella pneumoniae AKPRH081861	573	json
+Klebsiella pneumoniae AKPRH083936	573	json
+Klebsiella pneumoniae AKPRH085199	573	json
+Klebsiella pneumoniae AKPRH088118	573	json
+Klebsiella pneumoniae AKPRH089275	573	json
+Klebsiella pneumoniae AKPRH089312	573	json
+Klebsiella pneumoniae AKPRH090404	573	json
+Klebsiella pneumoniae AKPRH094381	573	json
+Klebsiella pneumoniae AKPRH097079	573	json
+Klebsiella pneumoniae AKPRH097254	573	json
+Klebsiella pneumoniae AKPRH101752	573	json
+Klebsiella pneumoniae AKPRH103086	573	json
+Klebsiella pneumoniae AKPRH103748	573	json
+Klebsiella pneumoniae AKPRH104785	573	json
+Klebsiella pneumoniae AKPRH111435	573	json
+Klebsiella pneumoniae AKPRH111506	573	json
+Klebsiella pneumoniae AKPRH112452	573	json
+Klebsiella pneumoniae AKPRH112959	573	json
+Klebsiella pneumoniae AKPRH114788	573	json
+Klebsiella pneumoniae AKPRH120539	573	json
+Klebsiella pneumoniae AKPRH121194	573	json
+Klebsiella pneumoniae AKPRH122047	573	json
+Klebsiella pneumoniae AKPRH122847	573	json
+Klebsiella pneumoniae AKPRH123639	573	json
+Klebsiella pneumoniae AKPRH123804	573	json
+Klebsiella pneumoniae AKPRH124873	573	json
+Klebsiella pneumoniae AKPRH125024	573	json
+Klebsiella pneumoniae AKPRH125859	573	json
+Klebsiella pneumoniae AKPRH127063	573	json
+Klebsiella pneumoniae AKPRH127096	573	json
+Klebsiella pneumoniae AKPRH136678	573	json
+Klebsiella pneumoniae AMR0155	573	json
+Klebsiella pneumoniae AMR0171	573	json
+Klebsiella pneumoniae AMR0179	573	json
+Klebsiella pneumoniae AMR0201	573	json
+Klebsiella pneumoniae AR-0003	573	json
+Klebsiella pneumoniae AR-0049	573	json
+Klebsiella pneumoniae AR-0139	573	json
+Klebsiella pneumoniae AR-0153	573	json
+Klebsiella pneumoniae ARC561	573	json
+Klebsiella pneumoniae ARC6088	573	json
+Klebsiella pneumoniae ATCC 10031	573	json
+Klebsiella pneumoniae ATCC 11296	573	json
+Klebsiella pneumoniae ATCC 13883	573	json
+Klebsiella pneumoniae ATCC 700603	573	json
+Klebsiella pneumoniae ATCC BAA 1705	1276652	json
+Klebsiella pneumoniae ATCC BAA-1705	1276652	json
+Klebsiella pneumoniae B64	573	json
+Klebsiella pneumoniae BAA-1705	573	json
+Klebsiella pneumoniae BAA-2146	573	json
+Klebsiella pneumoniae BKQ2KD	573	json
+Klebsiella pneumoniae C24b	573	json
+Klebsiella pneumoniae CIP53153	573	json
+Klebsiella pneumoniae D37100	573	json
+Klebsiella pneumoniae DA32094	573	json
+Klebsiella pneumoniae IR43	573	json
+Klebsiella pneumoniae K187	573	json
+Klebsiella pneumoniae KP-123	573	json
+Klebsiella pneumoniae KP63	573	json
+Klebsiella pneumoniae KPC	573	json
+Klebsiella pneumoniae KPPR-1	573	json
+Klebsiella pneumoniae LMG20218	573	json
+Klebsiella pneumoniae MTCC3384	573	json
+Klebsiella pneumoniae MTCC661	573	json
+Klebsiella pneumoniae PMK1	573	json
+Klebsiella pneumoniae ST11	573	json
+Klebsiella pneumoniae ST147	573	json
+Klebsiella pneumoniae ST15	573	json
+Klebsiella pneumoniae ST258	573	json
+Klebsiella pneumoniae ST340	573	json
+Klebsiella pneumoniae ST395	573	json
+Klebsiella pneumoniae UMM	573	json
+Klebsiella pneumoniae WDCM00097	573	json
+Labrenzia sp.. ac12	3229536	json
+Lacticaseibacillus rhamnosus VB4	47715	json
+Lactobacillus brevis TC50	1580	json
+Lactobacillus pentosus BMOBR013	1589	json
+Lactobacillus pentosus BMOBR061	1589	json
+Lactobacillus plantarum RJ1	1590	json
+Legionella micdadei tatlock	451	json
+Legionella pneumophila KS79	91891	json
+Limosilactobacillus fermentum KGC1601	1613	json
+Listeria monocytogenes EGD-e	169963	json
+Listeria monocytogenes NCTC11994	1639	json
+Listeria monocytogenes Scott A	1027396	json
+Micrococcus luteus ATCC 9341	378753	json
+Morganella morganii UM573	582	json
+Morganella morganii UM869	582	json
+Mycobacterium abscessus ATCC 19977	561007	json
+Mycobacterium abscessus BWH-C	1185650	json
+Mycobacterium abscessus CIP104536T	1185650	json
+Mycobacterium abscessus T49	1962118	json
+Mycobacterium bovis BCG Pasteur	410289	json
+Mycobacterium bovis C02214	1765	json
+Mycobacterium canettii C02321	78331	json
+Mycobacterium tuberculosis 130667	1773	json
+Mycobacterium tuberculosis 130693	1773	json
+Mycobacterium tuberculosis 130760	1765	json
+Mycobacterium tuberculosis 131142	1773	json
+Mycobacterium tuberculosis 132108	1448637	json
+Mycobacterium tuberculosis 2012 500139	1773	json
+Mycobacterium tuberculosis ATCC 27294	1773	json
+Mycobacterium tuberculosis ATCC 35801	652616	json
+Mycobacterium tuberculosis ATCC 35822	1773	json
+Mycobacterium tuberculosis C00014838	1773	json
+Mycobacterium tuberculosis EC378	1773	json
+Mycobacterium tuberculosis FS304	1773	json
+Mycobacterium tuberculosis H37Ra	419947	json
+Mycobacterium tuberculosis H37Rv	83332	json
+Mycobacterium tuberculosis H37RvMa	757418	json
+Mycobacterium tuberculosis H417D mutant	1765	json
+Mycobacterium tuberculosis M00001	1773	json
+Mycobacterium tuberculosis M00003	1773	json
+Mycobacterium tuberculosis M00004	1773	json
+Mycobacterium tuberculosis M00005	1773	json
+Mycobacterium tuberculosis M00011	1773	json
+Mycobacterium tuberculosis M00017	1773	json
+Mycobacterium tuberculosis M00019	1773	json
+Mycobacterium tuberculosis M00020	1773	json
+Mycobacterium tuberculosis MD24	1773	json
+Mycobacterium tuberculosis MD52	1773	json
+Mycobacterium tuberculosis MD54	1773	json
+Mycobacterium tuberculosis MD55	1773	json
+Mycobacterium tuberculosis MD96	1773	json
+Mycobacterium tuberculosis MTTR11	1773	json
+Mycobacterium tuberculosis MTTR13	1773	json
+Mycobacterium tuberculosis MTTR14	1773	json
+Mycobacterium tuberculosis MTTR18	1773	json
+Mycobacterium tuberculosis MTTR19	1773	json
+Mycobacterium tuberculosis MTTR2	1773	json
+Mycobacterium tuberculosis MTTR28	1773	json
+Mycobacterium tuberculosis MTTR3	1773	json
+Mycobacterium tuberculosis MTTR5	1773	json
+Mycobacterium tuberculosis MTTR6	1773	json
+Mycobacterium tuberculosis MmpL3 F255L	1773	json
+Mycobacterium tuberculosis MmpL3 G253E	1773	json
+Mycobacterium tuberculosis MmpL3 Y252C	1773	json
+Mycobacterium tuberculosis MmpL3 Y252S	1773	json
+Mycobacterium tuberculosis N0008	1773	json
+Mycobacterium tuberculosis R1093	1773	json
+Mycobacterium tuberculosis R3027	1773	json
+Mycobacterium tuberculosis R4254	1773	json
+Mycobacterium tuberculosis S94A mutant	1765	json
+Mycobacterium tuberculosis SAWC1125	1773	json
+Mycobacterium tuberculosis SAWC2371	1773	json
+Mycobacterium tuberculosis SAWC3200	1773	json
+Mycobacterium tuberculosis SAWC3385	1773	json
+Mycobacterium tuberculosis SAWC3388	1773	json
+Mycobacterium tuberculosis SAWC3933	1773	json
+Mycobacterium tuberculosis SAWC4046	1773	json
+Mycobacterium tuberculosis SAWC4083	1773	json
+Mycobacterium tuberculosis W91R mutant	1765	json
+Neisseria gonorrhoeae A7536	485	json
+Neisseria gonorrhoeae A7846	485	json
+Neisseria gonorrhoeae A8806	485	json
+Neisseria gonorrhoeae ALB0403	485	json
+Neisseria gonorrhoeae FC428	485	json
+Neisseria gonorrhoeae FC460	485	json
+Neisseria gonorrhoeae GCGS0104	485	json
+Neisseria gonorrhoeae GCGS0165	485	json
+Neisseria gonorrhoeae GCGS0205	485	json
+Neisseria gonorrhoeae GCGS0227	485	json
+Neisseria gonorrhoeae GCGS0229	485	json
+Neisseria gonorrhoeae GCGS0241	485	json
+Neisseria gonorrhoeae GCGS0822	485	json
+Neisseria gonorrhoeae GCGS0837	485	json
+Neisseria gonorrhoeae GCGS0862	485	json
+Neisseria gonorrhoeae GCGS0863	485	json
+Neisseria gonorrhoeae GCGS0864	485	json
+Neisseria gonorrhoeae GCGS0885	485	json
+Neisseria gonorrhoeae GCGS0886	485	json
+Neisseria gonorrhoeae GCGS0933	485	json
+Neisseria gonorrhoeae GCGS0949	485	json
+Neisseria gonorrhoeae GCGS0985	485	json
+Neisseria gonorrhoeae GCGS0999	485	json
+Neisseria gonorrhoeae GCGS1016	485	json
+Neisseria gonorrhoeae GCGS126	485	json
+Neisseria gonorrhoeae GK124	485	json
+Neisseria gonorrhoeae H041	485	json
+Neisseria gonorrhoeae MUNG19	485	json
+Neisseria gonorrhoeae NGPT03002	485	json
+Neisseria gonorrhoeae NGPT03003	485	json
+Neisseria gonorrhoeae NGPT03004	485	json
+Neisseria gonorrhoeae NGPT03005	485	json
+Neisseria gonorrhoeae NGPT03006	485	json
+Neisseria gonorrhoeae NGPT03007	485	json
+Neisseria gonorrhoeae NGPT03009	485	json
+Neisseria gonorrhoeae NGPT03010	485	json
+Neisseria gonorrhoeae NGPT03011	485	json
+Neisseria gonorrhoeae NGPT03012	485	json
+Neisseria gonorrhoeae NGPT03013	485	json
+Neisseria gonorrhoeae NGPT03014	485	json
+Neisseria gonorrhoeae NGPT03015	485	json
+Neisseria gonorrhoeae NGPT03016	485	json
+Neisseria gonorrhoeae NGPT03017	485	json
+Neisseria gonorrhoeae NGPT04001	485	json
+Neisseria gonorrhoeae NGPT04002	485	json
+Neisseria gonorrhoeae NGPT04003	485	json
+Neisseria gonorrhoeae NGPT04004	485	json
+Neisseria gonorrhoeae NGPT04007	485	json
+Neisseria gonorrhoeae NGPT04008	485	json
+Neisseria gonorrhoeae NGPT04009	485	json
+Neisseria gonorrhoeae NGPT04012	485	json
+Neisseria gonorrhoeae NGPT04015	485	json
+Neisseria gonorrhoeae NGPT05002	485	json
+Neisseria gonorrhoeae NGPT05005	485	json
+Neisseria gonorrhoeae NGPT05006	485	json
+Neisseria gonorrhoeae NGPT05007	485	json
+Neisseria gonorrhoeae NGPT05008	485	json
+Neisseria gonorrhoeae NGPT05009	485	json
+Neisseria gonorrhoeae NGPT05010	485	json
+Neisseria gonorrhoeae NGPT05012	485	json
+Neisseria gonorrhoeae NGPT05013	485	json
+Neisseria gonorrhoeae NGPT05014	485	json
+Neisseria gonorrhoeae NGPT05015	485	json
+Neisseria gonorrhoeae NGPT05018	485	json
+Neisseria gonorrhoeae NGPT05019	485	json
+Neisseria gonorrhoeae NGPT05020	485	json
+Neisseria gonorrhoeae NGPT05021	485	json
+Neisseria gonorrhoeae NGPT05022	485	json
+Neisseria gonorrhoeae NGPT05023	485	json
+Neisseria gonorrhoeae NGPT05024	485	json
+Nitratireductor sp.. ac15	3229537	json
+Orientia tsutsugamushi AFSC4	784	json
+Orientia tsutsugamushi Karp	1359185	json
+Paenibacillus thiaminolyticus PATH554	49283	json
+Pediococcus acidilactici BMOBR041	1254	json
+Plasmodium falciparum 3D7	36329	json
+Plasmodium falciparum NF54-HGL	5843	json
+Plasmodium falciparum NF54-HGL-hDHFR	5843	json
+Proteus mirabilis ATCC 29906	525369	json
+Proteus mirabilis LHPm1	584	json
+Proteus vulgaris CIP104989	585	json
+Providencia rettgeri NCTC7475	587	json
+Providencia stuartii ATCC 29916	588	json
+Pseudomonas aeruginosa AR-0054	287	json
+Pseudomonas aeruginosa AR-0064	287	json
+Pseudomonas aeruginosa AR-0100	287	json
+Pseudomonas aeruginosa ATCC 15442	1424337	json
+Pseudomonas aeruginosa ATCC 27853	287	json
+Pseudomonas aeruginosa ATCC 27853	287	json
+Pseudomonas aeruginosa PA-011	287	json
+Pseudomonas aeruginosa PA-032	287	json
+Pseudomonas aeruginosa PA-038	287	json
+Pseudomonas aeruginosa PA-041	287	json
+Pseudomonas aeruginosa PA124	287	json
+Pseudomonas aeruginosa PAO1	208964	json
+Pseudomonas aeruginosa PBIO712	287	json
+Pseudomonas aeruginosa PBIO724	287	json
+Pseudomonas aeruginosa ST111	287	json
+Pseudomonas aeruginosa ST17	287	json
+Pseudomonas aeruginosa ST235	287	json
+Pseudomonas aeruginosa ST244	287	json
+Pseudomonas aeruginosa ST274	287	json
+Pseudomonas aeruginosa ST395	287	json
+Pseudomonas aeruginosa mucoid strain	287	json
+Pseudomonas protegens Pf-5	220664	json
+Saccharopolyspora erythraea rif12	1836	json
+Saccharopolyspora erythraea rif3	1836	json
+Saccharopolyspora erythraea rif4	1836	json
+Saccharopolyspora erythraea rif5	1836	json
+Saccharopolyspora erythraea rif6	1836	json
+Saccharopolyspora erythraea rif9	1836	json
+Salmonella enterica AUSMDU00032900	28901	json
+Salmonella enterica AUSMDU00032924	28901	json
+Salmonella enterica AUSMDU00032927	28901	json
+Salmonella enterica AUSMDU00032928	28901	json
+Salmonella enterica AUSMDU00032931	28901	json
+Salmonella enterica AUSMDU00032932	28901	json
+Salmonella enterica AUSMDU00032933	28901	json
+Salmonella enterica AUSMDU00032934	28901	json
+Salmonella enterica AUSMDU00032936	28901	json
+Salmonella enterica AUSMDU00032946	28901	json
+Salmonella enterica AUSMDU00032953	28901	json
+Salmonella enterica AUSMDU00032955	28901	json
+Salmonella enterica AUSMDU00032956	28901	json
+Salmonella enterica AUSMDU00032959	28901	json
+Salmonella enterica AUSMDU00032972	28901	json
+Salmonella enterica AUSMDU00032973	28901	json
+Salmonella enterica ERR1010027	28901	json
+Salmonella enterica ERR1010032	28901	json
+Salmonella enterica ERR1010128	28901	json
+Salmonella enterica ERR1010129	28901	json
+Salmonella enterica ERR984800	28901	json
+Salmonella enterica ERR984822	28901	json
+Salmonella enterica ERR984884	28901	json
+Salmonella enterica ERR984919	28901	json
+Salmonella enterica ERR998502	28901	json
+Salmonella enterica HS51537	28901	json
+Salmonella enterica HS51616	28901	json
+Salmonella enterica HS51628	28901	json
+Salmonella enterica HS5826	28901	json
+Salmonella enterica HS61616	28901	json
+Salmonella enterica HS61622	28901	json
+Salmonella enterica HS61639	28901	json
+Salmonella enterica HS61648	28901	json
+Salmonella enterica HS71549	28901	json
+Salmonella enterica HS743	28901	json
+Salmonella enterica HS81528	28901	json
+Salmonella enterica JLS95	28901	json
+Salmonella enterica JLS96	28901	json
+Salmonella enterica JLS98	28901	json
+Salmonella enterica LMG07233	28901	json
+Salmonella enterica PT60	28901	json
+Salmonella enterica S1027072	28901	json
+Salmonella enterica S1151	28901	json
+Salmonella enterica S1347	28901	json
+Salmonella enterica S1349	28901	json
+Salmonella enterica S1685	28901	json
+Salmonella enterica S1686	28901	json
+Salmonella enterica S1687	28901	json
+Salmonella enterica S1692	28901	json
+Salmonella enterica S1693	28901	json
+Salmonella enterica S1694	28901	json
+Salmonella enterica S1695	28901	json
+Salmonella enterica S1696	28901	json
+Salmonella enterica S1697	28901	json
+Salmonella enterica S1700	28901	json
+Salmonella enterica S1705	28901	json
+Salmonella enterica S1715	28901	json
+Salmonella enterica S1725	28901	json
+Salmonella enterica S1736	28901	json
+Salmonella enterica S1791	28901	json
+Salmonella enterica S1839	28901	json
+Salmonella enterica SRR7293287	28901	json
+Salmonella enterica SRR7293288	28901	json
+Salmonella enterica SRR7293289	28901	json
+Salmonella enterica SRR7293290	28901	json
+Salmonella enterica SRR7293291	28901	json
+Salmonella enterica SRR7293298	28901	json
+Salmonella enterica serovar infantis 115-10	595	json
+Salmonella enterica serovar infantis 125-15	595	json
+Salmonella enteritidis NCTC4776	149539	json
+Salmonella enteritidis NCTC6676	149539	json
+Salmonella newington BV7004	28901	json
+Salmonella sp.. Schwabach	149539	json
+Salmonella typhimurium ATCC 13311	90371	json
+Salmonella typhimurium BV4012	90371	json
+Salmonella typhimurium NCTC74	90371	json
+Salmonella typhimurium SL1344	216597	json
+Sarcina ventriculi ATCC 29068	1267	json
+Seohaeicola saemankumensis ac14	481181	json
+Shigella dysenteriae ATCC 13313	622	json
+Shigella flexneri NEP	623	json
+Shigella sonnei 20112H061	624	json
+Shigella sonnei H051240283	624	json
+Shigella sonnei H082860255	624	json
+Shigella sonnei H083320408	624	json
+Shigella sonnei SY230719	624	json
+Shigella sonnei WH7	624	json
+Shigella sonnei WH88	624	json
+Shigella sonnei XJ2012013	624	json
+Shigella sonnei sh19sh020	624	json
+Shigella sonnei sh19sh049	624	json
+Shigella sonnei sn1016	624	json
+Shigella sonnei sn1017	624	json
+Sinorhizobium medicae JOE4941	110321	json
+Sinorhizobium medicae JOE4943	110321	json
+Sinorhizobium medicae JOE4956	110321	json
+Sinorhizobium medicae JOE4969	110321	json
+Sinorhizobium medicae JOE5069	110321	json
+Sinorhizobium medicae JOE5202	110321	json
+Sinorhizobium medicae JOE5264	110321	json
+Sinorhizobium medicae JOE5266	110321	json
+Sinorhizobium medicae JOE5268	110321	json
+Sinorhizobium medicae JOE5270	110321	json
+Sinorhizobium medicae JOE5290	110321	json
+Sinorhizobium medicae JOE5291	110321	json
+Sinorhizobium medicae JOE5292	110321	json
+Sinorhizobium medicae WSM419	366394	json
+Staphylococcus aureus A10102	553601	json
+Staphylococcus aureus A8115	553573	json
+Staphylococcus aureus A8819	553580	json
+Staphylococcus aureus A9299	553581	json
+Staphylococcus aureus ATCC 25923	1280	json
+Staphylococcus aureus ATCC 29213	1280	json
+Staphylococcus aureus ATCC 33591	1280	json
+Staphylococcus aureus ATCC 43300	1280	json
+Staphylococcus aureus ATCC 6538	1280	json
+Staphylococcus aureus ATCC BAA-39	1280	json
+Staphylococcus aureus BSN14R1	1280	json
+Staphylococcus aureus BSN14R2	1280	json
+Staphylococcus aureus BSN14RB	1280	json
+Staphylococcus aureus BSN14S1	1280	json
+Staphylococcus aureus CC398	1280	json
+Staphylococcus aureus NCTC11939	1280	json
+Staphylococcus aureus NCTC4163	1280	json
+Staphylococcus aureus NCTC6571	1280	json
+Staphylococcus aureus RN4220	561307	json
+Staphylococcus aureus SA-1199B	1280	json
+Staphylococcus aureus SA-K2378	1280	json
+Staphylococcus aureus SA38	1280	json
+Staphylococcus aureus ST22	1280	json
+Staphylococcus aureus ST239	1242970	json
+Staphylococcus aureus USA300	1280	json
+Staphylococcus aureus USA300 -NAE	1280	json
+Staphylococcus aureus WGS 032	1280	json
+Staphylococcus aureus WGS 038	1280	json
+Staphylococcus aureus t127 ST3248	1280	json
+Staphylococcus aureus t1816 ST15	1280	json
+Staphylococcus aureus t5132 ST508	1280	json
+Staphylococcus aureus t827 ST508	1280	json
+Staphylococcus aureus t8453 ST508	1280	json
+Staphylococcus aureus t8860 ST45	1280	json
+Staphylococcus aureus t928 ST250	1280	json
+Staphylococcus aureus t939 ST45	1280	json
+Staphylococcus aureus t963 ST15	1280	json
+Staphylococcus carnosus TM300	396513	json
+Staphylococcus epidermidis ATCC 12228	176280	json
+Staphylococcus epidermidis ATCC 12228	1282	json
+Staphylococcus epidermidis ATCC 35984	176279	json
+Staphylococcus epidermidis NCTC11047	1282	json
+Staphylococcus epidermidis O47	1282	json
+Staphylococcus epidermidis RP62A	176279	json
+Staphylococcus xylosus ATCC 35924	1288	json
+Streptococcus agalactiae ATCC 13813	888745	json
+Streptococcus agalactiae NGBS0096	1311	json
+Streptococcus agalactiae NGBS0162	1311	json
+Streptococcus agalactiae NGBS0201	1311	json
+Streptococcus agalactiae NGBS0209	1311	json
+Streptococcus agalactiae NGBS0308	1311	json
+Streptococcus agalactiae NGBS0347	1311	json
+Streptococcus agalactiae NGBS0537	1311	json
+Streptococcus agalactiae NGBS0543	1311	json
+Streptococcus agalactiae NGBS0545	1311	json
+Streptococcus agalactiae NGBS0691	1311	json
+Streptococcus agalactiae NGBS0694	1311	json
+Streptococcus agalactiae NGBS0713	1311	json
+Streptococcus agalactiae NGBS0811	1311	json
+Streptococcus agalactiae NGBS0878	1311	json
+Streptococcus agalactiae NGBS0931	1311	json
+Streptococcus agalactiae NGBS0938	1311	json
+Streptococcus agalactiae NGBS0963	1311	json
+Streptococcus agalactiae NGBS0990	1311	json
+Streptococcus agalactiae NGBS1000	1311	json
+Streptococcus agalactiae NGBS1007	1311	json
+Streptococcus agalactiae NGBS1013	1311	json
+Streptococcus agalactiae NGBS1314	1311	json
+Streptococcus agalactiae NGBS1361	1311	json
+Streptococcus agalactiae NGBS1454	1311	json
+Streptococcus agalactiae NGBS1605	1311	json
+Streptococcus anginosus ATCC 33397	1000570	json
+Streptococcus pneumoniae ATCC 49619	1313	json
+Streptococcus pneumoniae ATCC 49619	1313	json
+Streptococcus pneumoniae AUSMDU00065448	1313	json
+Streptococcus pneumoniae AUSMDU00073358	1313	json
+Streptococcus pneumoniae AUSMDU00073656	1313	json
+Streptococcus pneumoniae AUSMDU00074730	1313	json
+Streptococcus pneumoniae AUSMDU00074770	1313	json
+Streptococcus pneumoniae Ci137	1313	json
+Streptococcus pneumoniae D39	373153	json
+Streptococcus pneumoniae SC10-0508-P	1313	json
+Streptococcus pneumoniae SC10-1181-P	1313	json
+Streptococcus pneumoniae SC10-1508-P	1313	json
+Streptococcus pneumoniae SC10-2772-P	1313	json
+Streptococcus pneumoniae SC11-2541-P	1313	json
+Streptococcus pneumoniae SC11-3753-P	1313	json
+Streptococcus pneumoniae SC12-1517-P	1313	json
+Streptococcus pneumoniae SC12-1744-P	1313	json
+Streptococcus pneumoniae SC12-2080-P	1313	json
+Streptococcus pneumoniae SC12-3371-P	1313	json
+Streptococcus pneumoniae SC13-0387-P	1313	json
+Streptococcus pneumoniae SC13-0464-P	1313	json
+Streptococcus pneumoniae SC13-2679-P	1313	json
+Streptococcus pneumoniae SC13-3499-P	1313	json
+Streptococcus pneumoniae SC13-3634-P	1313	json
+Streptococcus pneumoniae SC13-4733-P	1313	json
+Streptococcus pneumoniae SC14-0908-P	1313	json
+Streptococcus pneumoniae SC14-1101-P	1313	json
+Streptococcus pneumoniae SC14-3489-P	1313	json
+Streptococcus pneumoniae SC15-0288-P	1313	json
+Streptococcus pneumoniae SC15-1450-P	1313	json
+Streptococcus pneumoniae SC15-2302-P	1313	json
+Streptococcus pneumoniae SC15-2565-P	1313	json
+Streptococcus pneumoniae SC15-3323-P	1313	json
+Streptococcus pneumoniae SP030	1313	json
+Streptococcus pneumoniae TIGR4	170187	json
+Streptococcus pyogenes ATCC 19615	1314	json
+Streptococcus suis HN105	1307	json
+Streptococcus suis NSUI001	1307	json
+Streptococcus suis NSUI006	1307	json
+Streptococcus suis NSUI012	1307	json
+Streptococcus suis NSUI033	1307	json
+Streptococcus suis NSUI034	1307	json
+Trichosporon asahii OK01	1186058	json
+Vibrio alginolyticus ATCC 33787	663	json
+Vibrio cholerae nonO1	666	json
+Vibrio parahaemolyticus VP01	670	json
+Weissella cibaria LVT1	137591	json
+Weissella cibaria VR81	137591	json
+Yersinia enterocolitica NCTC11176	630	json

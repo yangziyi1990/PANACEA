@@ -1,0 +1,4 @@
+SPO11 TOP2
+gyrB parC
+gyrB parE
+parC parE
