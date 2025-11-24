@@ -73,7 +73,8 @@ hparams = wandb.config
 ppi_data, mg_data, edge_attr_dict, celltype_map, tissue_neighbors, ppi_layers, metagraph = read_data(args.G_f, args.ppi_dir, args.mg_f, hparams['feat_mat'])
 
 ppi_metapaths, mg_metapaths = get_metapaths()
-center_loss_labels, train_mask, val_mask, test_mask = get_centerloss_labels(args, celltype_map, ppi_layers)
+#center_loss_labels, train_mask, val_mask, test_mask = get_centerloss_labels(args, celltype_map, ppi_layers)
+center_loss_labels, train_mask, val_mask, test_mask = get_centerloss_labels(args, celltype_map, ppi_data)
 
 def train(epoch, model, optimizer, center_loss):
 
@@ -93,9 +94,12 @@ def train(epoch, model, optimizer, center_loss):
     mg_metapaths_train = mg_metapaths_train[0]
     mg_metapaths_val = mg_metapaths_val[0]
     for i, val in enumerate(mg_metapaths_train):
-        mg_metapaths_train[i] = val.to(device)
+        if hasattr(val, "to"):
+            mg_metapaths_train[i] = val.to(device)
+        #mg_metapaths_train[i] = val.to(device)
     for key, val in ppi_metapaths_train.items():
-        ppi_metapaths_train[key] = [val[0].to(device)]
+        ppi_metapaths_train[key] = [val[0].to(device)] if len(val) > 0 else []
+        #ppi_metapaths_train[key] = [val[0].to(device)]
     
     model.train()
     
@@ -193,7 +197,8 @@ def main():
         model = mdl.Pinnacle(mg_data.x.shape[1], hparams['hidden'], hparams['output'], len(ppi_metapaths), len(mg_metapaths), ppi_data, hparams['n_heads'], hparams['pc_att_channels'], hparams['dropout']).to(device)
         params = list(model.parameters())
         optimizer = torch.optim.Adam(params, lr = hparams['lr'], weight_decay = hparams['wd'])
-    center_loss = CenterLoss(num_classes=len(set(center_loss_labels)), feat_dim=hparams['output'] * hparams['n_heads'], use_gpu=torch.cuda.is_available())
+    #center_loss = CenterLoss(num_classes=len(set(center_loss_labels)), feat_dim=hparams['output'] * hparams['n_heads'], use_gpu=torch.cuda.is_available())
+    center_loss = CenterLoss(num_classes=mg_data.x.shape[0], feat_dim=hparams['output'] * hparams['n_heads'], use_gpu=torch.cuda.is_available())
     params += list(center_loss.parameters())
     wandb.watch(model)
     print(model)
@@ -208,9 +213,15 @@ def main():
     ppi_metapaths_test = {}
     mg_metapaths_test = []
     for key in ppi_metapaths_train.keys():
-        ppi_metapaths_test[key] = [torch.cat(ppi_metapaths_val[key] + ppi_metapaths_train[key], dim=1)]
+        #ppi_metapaths_test[key] = [torch.cat(ppi_metapaths_val[key] + ppi_metapaths_train[key], dim=1)]
+        combined_ppi_metapaths = ppi_metapaths_val[key] + ppi_metapaths_train[key]
+        if len(combined_ppi_metapaths) > 0:
+            ppi_metapaths_test[key] = [torch.cat(combined_ppi_metapaths, dim=1)]
+        else:
+            ppi_metapaths_test[key] = []
     for mg_mt_t, mg_mt_v in zip(mg_metapaths_train, mg_metapaths_val):
-        mg_metapaths_test.append(torch.cat([mg_mt_t, mg_mt_v], dim=1))
+        #mg_metapaths_test.append(torch.cat([mg_mt_t, mg_mt_v], dim=1))
+        mg_metapaths_test.append(torch.cat([mg_mt_t, mg_mt_v], dim=1) if hasattr(mg_mt_t, "shape") else mg_mt_t)
 
     # Test (w/train metapaths trained node embeddings and test links)
     test(best_model, ppi_metapaths_test, mg_metapaths_test)

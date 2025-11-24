@@ -81,7 +81,8 @@ def iterate_train_batch(ppi_train_loader_dict: dict, ppi_x_ori: dict, ppi_metapa
 
         # Get embeddings
         embed = torch.cat(list(ppi_x.values())) # Protein
-        centers = mg_x[0:len(ppi_x)] # Cell type
+        #centers = mg_x[0:len(ppi_x)] # Cell type
+        centers = mg_x # # Align centers with metagraph node indices used as labels
 
         # Protein labels
         center_loss_labels = torch.cat([(torch.ones(x.shape[0]) * key).to(torch.long) for key, x in ppi_x.items()])  # Build center loss labels based on batched nodes to ensure consistency with embedding labels
@@ -202,7 +203,8 @@ def train_batch2dict(packed_batch: object, mg_x_ori: dict, ppi_metapaths: dict, 
         # Metapath adjs
         ppi_metapaths_batch = construct_metapath(ppi_metapaths, batch.edge_index[:, batch.y.type(torch.bool)], batch.edge_attr[batch.y.type(torch.bool)], batch.x.shape[0])
         
-        ppi_metapaths_out[i] = [ppi_metapaths_batch[0].to(device)]
+        #ppi_metapaths_out[i] = [ppi_metapaths_batch[0].to(device)]
+        ppi_metapaths_out[i] = [ppi_metapaths_batch[0].to(device)] if len(ppi_metapaths_batch) > 0 else []
     
     return ppi_data_batch, ppi_x_batch, ppi_node_ind_batch, ppi_metapaths_out, []#, mg_x_init
 

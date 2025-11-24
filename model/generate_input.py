@@ -183,7 +183,6 @@ def subset_ppi(num_subset, ppi_data, ppi_layers):
 
     return ppi_data, ppi_layers
 
-
 def get_metapaths():
     ppi_metapaths = [[4]] # Get PPI metapaths
     mg_metapaths = [[0], [1], [2], [3]]
@@ -195,11 +194,17 @@ def get_centerloss_labels(args, celltype_map, ppi_layers):
     train_mask = []
     val_mask = []
     test_mask = []
-    
-    #print(celltype_map)
-    
-    reverse_celltype_map = {v: k for k, v in celltype_map.items()}
-    
+
+    # Align the center-loss labels with the PPI layers actually used for
+    # training. This keeps label ordering consistent with the per-celltype
+    # embeddings built in minibatching.
+    for celltype, ppi in ppi_layers.items():
+        if celltype not in celltype_map:
+            print(f"Warning: skipping center loss labels for missing celltype {celltype}")
+            continue
+
+        center_loss_labels += [celltype_map[celltype]] * len(ppi.nodes)
+    """
     for celltype, ppi in ppi_layers.items():
         #center_loss_labels += [celltype_map[celltype]] * len(ppi.nodes)
         if celltype in celltype_map:
@@ -207,9 +212,12 @@ def get_centerloss_labels(args, celltype_map, ppi_layers):
         elif celltype in reverse_celltype_map:
             label = celltype
         else:
-            raise KeyError(f"Celltype {celltype} missing from celltype_map")
+            #raise KeyError(f"Celltype {celltype} missing from celltype_map")
+            print(f"Warning: skipping center loss labels for missing celltype {celltype}")
+            continue
         center_loss_labels += [label] * len(ppi.nodes)
-        
+    """
+    
     center_loss_idx = random.sample(range(len(center_loss_labels)), len(center_loss_labels))
     train_mask = center_loss_idx[ : int(0.8 * len(center_loss_idx))]
     val_mask = center_loss_idx[len(train_mask) : len(train_mask) + int(0.1 * len(center_loss_idx))]
