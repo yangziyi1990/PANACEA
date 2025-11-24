@@ -33,8 +33,20 @@ def read_ppi(ppi_dir):
     for f in glob.glob(ppi_dir + "*.txt"): # Expected format of filename: <PPI_DIR>/<CONTEXT>.<suffix>
 
         # Parse name of context （GO name）
-        context = f.split(ppi_dir)[1].split(".")[0]
-        context = context.replace("_", " ")
+        #context = f.split(ppi_dir)[1].split(".")[0]
+        #context = context.replace("_", " ")
+
+        context_parts = f.split(ppi_dir)[1].split(".")[0].split("_")
+        if len(context_parts) >= 4 and context_parts[0] == "GO":
+            go_id = context_parts[1]
+            go_aspect = context_parts[2]
+            go_name = " ".join(context_parts[3:])
+            context = f"GO:{go_id}_{go_aspect}:{go_name}"
+        else:
+            # Fallback to previous behaviour when the filename does not match the
+            # expected GO naming pattern.
+            context = f.split(ppi_dir)[1].split(".")[0].replace("_", " ")
+        
 
         # Read edgelist
         ppi = nx.read_edgelist(f)
