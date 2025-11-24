@@ -1,0 +1,1896 @@
+Number of PPI layers: 156 156 156 156
+Number of nodes: 218 Number of edges: 4018
+{'corneal keratocyte': <networkx.classes.graph.Graph object at 0x7f1c10232640>, 'adipocyte': <networkx.classes.graph.Graph object at 0x7f1c10232610>, 'double-positive, alpha-beta thymocyte': <networkx.classes.graph.Graph object at 0x7f1c10232820>, 'tendon cell': <networkx.classes.graph.Graph object at 0x7f1c10232e80>, 'myoepithelial cell': <networkx.classes.graph.Graph object at 0x7f1c10232d90>, 'respiratory mucous cell': <networkx.classes.graph.Graph object at 0x7f1c10232be0>, 'myeloid progenitor': <networkx.classes.graph.Graph object at 0x7f1c10232d60>, 'tongue muscle cell': <networkx.classes.graph.Graph object at 0x7f1c10232bb0>, 'melanocyte': <networkx.classes.graph.Graph object at 0x7f1c102328e0>, 'plasma cell': <networkx.classes.graph.Graph object at 0x7f1c10232160>, 'kidney epithelial cell': <networkx.classes.graph.Graph object at 0x7f1c10225be0>, 'eye photoreceptor cell': <networkx.classes.graph.Graph object at 0x7f1c10225ca0>, 'stromal cell': <networkx.classes.graph.Graph object at 0x7f1c10225d60>, 'conjunctival epithelial cell': <networkx.classes.graph.Graph object at 0x7f1adcf585b0>, 'type i nk t cell': <networkx.classes.graph.Graph object at 0x7f1add324460>, 'luminal cell of prostate epithelium': <networkx.classes.graph.Graph object at 0x7f1add269c40>, 'mesothelial cell': <networkx.classes.graph.Graph object at 0x7f1add2780a0>, 'lymphatic endothelial cell': <networkx.classes.graph.Graph object at 0x7f1add396970>, 'macrophage': <networkx.classes.graph.Graph object at 0x7f1add396130>, 'connective tissue cell': <networkx.classes.graph.Graph object at 0x7f1add3962e0>, 'intestinal enteroendocrine cell': <networkx.classes.graph.Graph object at 0x7f1add3969d0>, 'retinal blood vessel endothelial cell': <networkx.classes.graph.Graph object at 0x7f1add396df0>, 'skeletal muscle satellite stem cell': <networkx.classes.graph.Graph object at 0x7f1add396d90>, 'mature enterocyte': <networkx.classes.graph.Graph object at 0x7f1add396e20>, 'duct epithelial cell': <networkx.classes.graph.Graph object at 0x7f1add396ca0>, 'transit amplifying cell of large intestine': <networkx.classes.graph.Graph object at 0x7f1add396eb0>, 'myofibroblast cell': <networkx.classes.graph.Graph object at 0x7f1add3969a0>, 'tracheal goblet cell': <networkx.classes.graph.Graph object at 0x7f1add396670>, 'fibroblast of cardiac tissue': <networkx.classes.graph.Graph object at 0x7f1add396220>, 'vascular associated smooth muscle cell': <networkx.classes.graph.Graph object at 0x7f1add396be0>, 'pericyte cell': <networkx.classes.graph.Graph object at 0x7f1add396250>, 'cardiac muscle cell': <networkx.classes.graph.Graph object at 0x7f1add3968e0>, 'endothelial cell of hepatic sinusoid': <networkx.classes.graph.Graph object at 0x7f1add396580>, 'club cell': <networkx.classes.graph.Graph object at 0x7f1add396880>, 'pancreatic ductal cell': <networkx.classes.graph.Graph object at 0x7f1add396550>, 'immature enterocyte': <networkx.classes.graph.Graph object at 0x7f1add396820>, 'hematopoietic stem cell': <networkx.classes.graph.Graph object at 0x7f1add32d1c0>, 'b cell': <networkx.classes.graph.Graph object at 0x7f1add32d280>, 'cd141-positive myeloid dendritic cell': <networkx.classes.graph.Graph object at 0x7f1add32df10>, 'fibroblast of breast': <networkx.classes.graph.Graph object at 0x7f1add32dc40>, 'pancreatic beta cell': <networkx.classes.graph.Graph object at 0x7f1add32dd30>, 'small intestine goblet cell': <networkx.classes.graph.Graph object at 0x7f1add32de20>, 'endothelial cell': <networkx.classes.graph.Graph object at 0x7f1add32dcd0>, 'retina horizontal cell': <networkx.classes.graph.Graph object at 0x7f1add32d6d0>, 'intrahepatic cholangiocyte': <networkx.classes.graph.Graph object at 0x7f1add32d610>, 'pancreatic stellate cell': <networkx.classes.graph.Graph object at 0x7f1add32d850>, 'langerhans cell': <networkx.classes.graph.Graph object at 0x7f1add32d640>, 'type i pneumocyte': <networkx.classes.graph.Graph object at 0x7f1add32d1f0>, 'cd24 neutrophil': <networkx.classes.graph.Graph object at 0x7f1add32d160>, 'luminal epithelial cell of mammary gland': <network
+{'acinar cell of salivary gland': 0, 'adipocyte': 1, 'adventitial cell': 2, 'alveolar fibroblast': 3, 'artery endothelial cell': 4, 'b cell': 5, 'basal cell': 6, 'basal cell of prostate epithelium': 7, 'bladder urothelial cell': 8, 'bronchial smooth muscle cell': 9, 'bronchial vessel endothelial cell': 10, 'capillary endothelial cell': 11, 'cardiac endothelial cell': 12, 'cardiac muscle cell': 13, 'cd141-positive myeloid dendritic cell': 14, 'cd1c-positive myeloid dendritic cell': 15, 'cd24 neutrophil': 16, 'cd4-positive helper t cell': 17, 'cd4-positive, alpha-beta memory t cell': 18, 'cd8-positive, alpha-beta cytokine secreting effector t cell': 19, 'cd8-positive, alpha-beta cytotoxic t cell': 20, 'cell of skeletal muscle': 21, 'ciliary body': 22, 'ciliated cell': 23, 'ciliated epithelial cell': 24, 'classical monocyte': 25, 'club cell': 26, 'club cell of prostate epithelium': 27, 'conjunctival epithelial cell': 28, 'connective tissue cell': 29, 'corneal epithelial cell': 30, 'corneal keratocyte': 31, 'dendritic cell': 32, 'dn1 thymic pro-t cell': 33, 'dn3 thymocyte': 34, 'dn4 thymocyte': 35, 'double-positive, alpha-beta thymocyte': 36, 'duct epithelial cell': 37, 'duodenum glandular cell': 38, 'endothelial cell': 39, 'endothelial cell of artery': 40, 'endothelial cell of hepatic sinusoid': 41, 'endothelial cell of lymphatic vessel': 42, 'endothelial cell of vascular tree': 43, 'enterocyte of epithelium of large intestine': 44, 'enterocyte of epithelium of small intestine': 45, 'epithelial cell': 46, 'epithelial cell of lacrimal sac': 47, 'epithelial cell of uterus': 48, 'erythroid progenitor': 49, 'eye photoreceptor cell': 50, 'fast muscle cell': 51, 'fibroblast': 52, 'fibroblast of breast': 53, 'fibroblast of cardiac tissue': 54, 'goblet cell': 55, 'granulocyte': 56, 'gut endothelial cell': 57, 'hematopoietic stem cell': 58, 'hepatocyte': 59, 'hillock cell of prostate epithelium': 60, 'hillock-club cell of prostate epithelium': 61, 'immature enterocyte': 62, 'immature natural killer cell': 63, 'immune cell': 64, 'intermediate monocyte': 65, 'intestinal crypt stem cell': 66, 'intestinal crypt stem cell of large intestine': 67, 'intestinal crypt stem cell of small intestine': 68, 'intestinal enteroendocrine cell': 69, 'intestinal tuft cell': 70, 'intrahepatic cholangiocyte': 71, 'ionocyte': 72, 'keratinocyte': 73, 'kidney epithelial cell': 74, 'lacrimal gland functional unit cell': 75, 'langerhans cell': 76, 'large intestine goblet cell': 77, 'limbal stem cell': 78, 'limbal stromal cell': 79, 'liver dendritic cell': 80, 'luminal cell of prostate epithelium': 81, 'luminal epithelial cell of mammary gland': 82, 'lung ciliated cell': 83, 'lung microvascular endothelial cell': 84, 'lymphatic endothelial cell': 85, 'macrophage': 86, 'mature conventional dendritic cell': 87, 'mature enterocyte': 88, 'mature nk t cell': 89, 'medullary thymic epithelial cell': 90, 'melanocyte': 91, 'memory b cell': 92, 'mesenchymal stem cell': 93, 'mesothelial cell': 94, 'microglial cell': 95, 'monocyte': 96, 'mucus secreting cell': 97, 'muller cell': 98, 'muscle cell': 99, 'myeloid cell': 100, 'myeloid dendritic cell': 101, 'myeloid progenitor': 102, 'myoepithelial cell': 103, 'myofibroblast cell': 104, 'myometrial cell': 105, 'naive regulatory t cell': 106, 'naive thymus-derived cd4-positive, alpha-beta t cell': 107, 'nampt neutrophil': 108, 'nk cell': 109, 'non-classical monocyte': 110, 'ocular surface cell': 111, 'pancreatic acinar cell': 112, 'pancreatic alpha cell': 113, 'pancreatic beta cell': 114, 'pancreatic delta cell': 115, 'pancreatic ductal cell': 116, 'pancreatic pp cell': 117, 'pancreatic stellate cell': 118, 'paneth cell of epithelium of large intestine': 119, 'paneth cell of epithelium of small intestine': 120, 'pericyte cell': 121, 'plasma cell': 122, 'plasmablast': 123, 'plasmacytoid dendritic cell': 124, 'pulmonary ionocyte': 125, 'radial glial cell': 126, 'regulatory t cell': 127, 'respiratory goblet cell': 128, 'respiratory mucous cell': 129, 'retina horizontal cell': 130, 'retinal bipolar neuron': 131, 'retinal blood ves
+{'acinar cell of salivary gland': 0, 'adipocyte': 1, 'adventitial cell': 2, 'alveolar fibroblast': 3, 'artery endothelial cell': 4, 'b cell': 5, 'basal cell': 6, 'basal cell of prostate epithelium': 7, 'bladder urothelial cell': 8, 'bronchial smooth muscle cell': 9, 'bronchial vessel endothelial cell': 10, 'capillary endothelial cell': 11, 'cardiac endothelial cell': 12, 'cardiac muscle cell': 13, 'cd141-positive myeloid dendritic cell': 14, 'cd1c-positive myeloid dendritic cell': 15, 'cd24 neutrophil': 16, 'cd4-positive helper t cell': 17, 'cd4-positive, alpha-beta memory t cell': 18, 'cd8-positive, alpha-beta cytokine secreting effector t cell': 19, 'cd8-positive, alpha-beta cytotoxic t cell': 20, 'cell of skeletal muscle': 21, 'ciliary body': 22, 'ciliated cell': 23, 'ciliated epithelial cell': 24, 'classical monocyte': 25, 'club cell': 26, 'club cell of prostate epithelium': 27, 'conjunctival epithelial cell': 28, 'connective tissue cell': 29, 'corneal epithelial cell': 30, 'corneal keratocyte': 31, 'dendritic cell': 32, 'dn1 thymic pro-t cell': 33, 'dn3 thymocyte': 34, 'dn4 thymocyte': 35, 'double-positive, alpha-beta thymocyte': 36, 'duct epithelial cell': 37, 'duodenum glandular cell': 38, 'endothelial cell': 39, 'endothelial cell of artery': 40, 'endothelial cell of hepatic sinusoid': 41, 'endothelial cell of lymphatic vessel': 42, 'endothelial cell of vascular tree': 43, 'enterocyte of epithelium of large intestine': 44, 'enterocyte of epithelium of small intestine': 45, 'epithelial cell': 46, 'epithelial cell of lacrimal sac': 47, 'epithelial cell of uterus': 48, 'erythroid progenitor': 49, 'eye photoreceptor cell': 50, 'fast muscle cell': 51, 'fibroblast': 52, 'fibroblast of breast': 53, 'fibroblast of cardiac tissue': 54, 'goblet cell': 55, 'granulocyte': 56, 'gut endothelial cell': 57, 'hematopoietic stem cell': 58, 'hepatocyte': 59, 'hillock cell of prostate epithelium': 60, 'hillock-club cell of prostate epithelium': 61, 'immature enterocyte': 62, 'immature natural killer cell': 63, 'immune cell': 64, 'intermediate monocyte': 65, 'intestinal crypt stem cell': 66, 'intestinal crypt stem cell of large intestine': 67, 'intestinal crypt stem cell of small intestine': 68, 'intestinal enteroendocrine cell': 69, 'intestinal tuft cell': 70, 'intrahepatic cholangiocyte': 71, 'ionocyte': 72, 'keratinocyte': 73, 'kidney epithelial cell': 74, 'lacrimal gland functional unit cell': 75, 'langerhans cell': 76, 'large intestine goblet cell': 77, 'limbal stem cell': 78, 'limbal stromal cell': 79, 'liver dendritic cell': 80, 'luminal cell of prostate epithelium': 81, 'luminal epithelial cell of mammary gland': 82, 'lung ciliated cell': 83, 'lung microvascular endothelial cell': 84, 'lymphatic endothelial cell': 85, 'macrophage': 86, 'mature conventional dendritic cell': 87, 'mature enterocyte': 88, 'mature nk t cell': 89, 'medullary thymic epithelial cell': 90, 'melanocyte': 91, 'memory b cell': 92, 'mesenchymal stem cell': 93, 'mesothelial cell': 94, 'microglial cell': 95, 'monocyte': 96, 'mucus secreting cell': 97, 'muller cell': 98, 'muscle cell': 99, 'myeloid cell': 100, 'myeloid dendritic cell': 101, 'myeloid progenitor': 102, 'myoepithelial cell': 103, 'myofibroblast cell': 104, 'myometrial cell': 105, 'naive regulatory t cell': 106, 'naive thymus-derived cd4-positive, alpha-beta t cell': 107, 'nampt neutrophil': 108, 'nk cell': 109, 'non-classical monocyte': 110, 'ocular surface cell': 111, 'pancreatic acinar cell': 112, 'pancreatic alpha cell': 113, 'pancreatic beta cell': 114, 'pancreatic delta cell': 115, 'pancreatic ductal cell': 116, 'pancreatic pp cell': 117, 'pancreatic stellate cell': 118, 'paneth cell of epithelium of large intestine': 119, 'paneth cell of epithelium of small intestine': 120, 'pericyte cell': 121, 'plasma cell': 122, 'plasmablast': 123, 'plasmacytoid dendritic cell': 124, 'pulmonary ionocyte': 125, 'radial glial cell': 126, 'regulatory t cell': 127, 'respiratory goblet cell': 128, 'respiratory mucous cell': 129, 'retina horizontal cell': 130, 'retinal bipolar neuron': 131, 'retinal blood ves
+Center loss labels: Counter({35: 3443, 135: 3424, 126: 3384, 102: 3337, 49: 3312, 10: 3312, 56: 3300, 90: 3299, 14: 3296, 30: 3290, 101: 3258, 13: 3247, 68: 3239, 153: 3228, 73: 3217, 94: 3211, 78: 3203, 8: 3198, 52: 3197, 100: 3196, 142: 3186, 6: 3182, 122: 3178, 132: 3176, 39: 3176, 4: 3171, 48: 3168, 149: 3158, 22: 3151, 137: 3134, 86: 3113, 28: 3112, 118: 3110, 62: 3101, 1: 3099, 82: 3094, 128: 3092, 144: 3091, 24: 3078, 66: 3072, 155: 3070, 76: 3065, 116: 3054, 15: 3049, 123: 3041, 25: 3039, 42: 3038, 7: 3036, 150: 3031, 59: 3024, 85: 3023, 136: 3015, 87: 2988, 121: 2986, 111: 2986, 152: 2975, 148: 2965, 138: 2954, 31: 2952, 61: 2952, 129: 2939, 58: 2919, 74: 2909, 40: 2907, 21: 2891, 115: 2869, 96: 2866, 72: 2866, 38: 2850, 69: 2848, 71: 2844, 93: 2834, 97: 2833, 131: 2832, 37: 2821, 46: 2818, 104: 2807, 125: 2784, 2: 2763, 60: 2748, 27: 2748, 146: 2747, 79: 2747, 91: 2746, 114: 2742, 139: 2741, 81: 2738, 120: 2695, 143: 2635, 112: 2629, 36: 2628, 83: 2627, 95: 2606, 65: 2585, 23: 2576, 124: 2545, 154: 2495, 105: 2478, 53: 2472, 80: 2472, 106: 2429, 0: 2386, 130: 2361, 98: 2356, 75: 2323, 113: 2247, 127: 2246, 134: 2225, 99: 2206, 29: 2164, 43: 2163, 41: 2142, 50: 2140, 26: 2140, 12: 2066, 32: 2048, 145: 2028, 103: 2026, 55: 1990, 119: 1965, 45: 1943, 92: 1920, 84: 1908, 140: 1862, 20: 1854, 16: 1837, 54: 1826, 141: 1804, 57: 1781, 19: 1772, 33: 1597, 63: 1578, 70: 1557, 47: 1531, 133: 1461, 109: 1457, 89: 1450, 64: 1435, 9: 1412, 117: 1397, 11: 1394, 110: 1393, 147: 1382, 44: 1320, 51: 1297, 34: 1296, 108: 1291, 17: 1272, 77: 1215, 3: 1201, 5: 1180, 67: 1153, 88: 1103, 107: 1080, 18: 1067, 151: 1007})
+Pinnacle(
+  (conv1_up): PCTConv(
+    (ppi_w): ModuleList(
+      (0-155): 156 x GATv2Conv(128, 16, heads=8)
+    )
+    (mg_conv_in): GATv2Conv(128, 16, heads=8)
+    (mg_conv_out): GATv2Conv(128, 16, heads=8)
+  )
+  (conv1_down): PPIConv(
+    (ppi_w): ModuleList(
+      (0-155): 156 x GATv2Conv(128, 16, heads=8)
+    )
+  )
+  (layer_norm1): LayerNorm(128, affine=True, mode=graph)
+  (batch_norm1): BatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2_up): PCTConv(
+    (ppi_w): ModuleList(
+      (0-155): 156 x GATv2Conv(128, 8, heads=8)
+    )
+    (mg_conv_in): GATv2Conv(128, 8, heads=8)
+    (mg_conv_out): GATv2Conv(64, 8, heads=8)
+  )
+  (conv2_down): PPIConv(
+    (ppi_w): ModuleList(
+      (0-155): 156 x GATv2Conv(64, 8, heads=8)
+    )
+  )
+)
+Training batch 1
+Link Prediction:  tensor(210.4417, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(71.7185, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(189.7413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(59.6596, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(173.2163, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(56.3210, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(154.6363, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(55.5208, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(132.7488, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(48.5516, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(121.0357, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(45.1084, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(103.1739, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(41.6437, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(87.3946, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(38.8946, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(78.4015, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(35.6019, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(63.9711, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(31.8949, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(59.4398, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(33.4662, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(49.8858, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(29.2857, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(41.1943, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(25.8024, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(35.6958, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(24.7187, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(30.8701, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(21.5887, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(27.8457, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(20.0399, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.5141664798182503 AP 0.7864976112770291 ACC 0.7727208385594582 F1 0.7727208385594582
+Validation Metrics: ROC 0.5503830644864636 AP 0.7289858646072871 ACC 0.693658978929437 F1 0.693658978929437
+Epoch: 0001	train_loss = 98.01466	val_roc = 0.55038	val_ap = 0.72899	val_f1 = 0.69366	val_acc = 0.69366
+Training batch 1
+Link Prediction:  tensor(22.2085, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(18.3986, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(21.0772, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(17.0269, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(19.4331, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(15.6646, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(15.9380, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(14.9785, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(16.3531, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(13.5938, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(14.7167, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(12.8256, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(13.8370, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(11.6301, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(12.5769, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.9587, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(12.2164, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.6515, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(11.3289, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.7683, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(11.0499, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0923, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(10.5780, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6753, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(10.7045, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0281, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(10.1318, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8823, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(9.8526, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3367, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(9.7489, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9920, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.5749738726157885 AP 0.8204949409797375 ACC 0.777398074482539 F1 0.777398074482539
+Validation Metrics: ROC 0.639128921016798 AP 0.7845851923952774 ACC 0.6963460111265544 F1 0.6963460111265544
+Epoch: 0002	train_loss = 13.97301	val_roc = 0.63913	val_ap = 0.78459	val_f1 = 0.69635	val_acc = 0.69635
+Training batch 1
+Link Prediction:  tensor(10.0661, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1898, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(9.5652, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1798, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(9.2375, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8505, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(9.1213, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9136, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(9.1283, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6247, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(9.0785, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7354, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(8.8476, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4184, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(8.9693, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4529, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(8.8748, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2395, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(8.6214, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3923, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(8.6405, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.9054, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(8.6712, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7977, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(8.5277, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3244, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(8.5454, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8662, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(8.3314, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3584, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(8.4598, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1086, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.6842851147097287 AP 0.8723974333290578 ACC 0.7905571585570665 F1 0.7905571585570665
+Validation Metrics: ROC 0.6782290672333287 AP 0.812635766688737 ACC 0.6964142885298654 F1 0.6964142885298654
+Epoch: 0003	train_loss = 8.97516	val_roc = 0.67823	val_ap = 0.81264	val_f1 = 0.69641	val_acc = 0.69641
+Training batch 1
+Link Prediction:  tensor(9.1361, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6777, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(8.2845, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.5164, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(8.2330, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2495, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(8.4665, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.9924, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(8.3140, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2568, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(8.4879, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0783, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(8.4660, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2763, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(8.0399, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9981, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(8.1222, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.1477, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(8.3584, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9071, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(8.2812, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3919, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(8.2302, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.9871, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.9755, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3568, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(8.3451, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.9731, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(8.1310, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.1671, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(8.4571, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.1735, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7288176002711713 AP 0.8914263998057058 ACC 0.7914396494105408 F1 0.7914396494105408
+Validation Metrics: ROC 0.6924222166097767 AP 0.8252893665433133 ACC 0.6969554129908109 F1 0.6969554129908109
+Epoch: 0004	train_loss = 8.38936	val_roc = 0.69242	val_ap = 0.82529	val_f1 = 0.69696	val_acc = 0.69696
+Training batch 1
+Link Prediction:  tensor(8.0960, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8993, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(8.0877, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2801, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(8.1615, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4132, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.9253, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5701, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(8.0178, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8339, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(8.1209, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8771, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.8568, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9840, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(8.5528, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2626, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.7987, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.6297, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.7794, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6921, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.9224, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6758, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(8.0656, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1319, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.9264, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.0281, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.9099, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3137, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.7050, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.1258, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.9100, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3410, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7514557678578957 AP 0.9000033315971666 ACC 0.7923442789747575 F1 0.7923442789747575
+Validation Metrics: ROC 0.6973606709777047 AP 0.8296171656598083 ACC 0.696323100876872 F1 0.696323100876872
+Epoch: 0005	train_loss = 8.04707	val_roc = 0.69736	val_ap = 0.82962	val_f1 = 0.69632	val_acc = 0.69632
+Training batch 1
+Link Prediction:  tensor(7.8541, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2074, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.7500, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3785, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.9417, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.7173, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.7136, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8328, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.8215, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8804, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(8.0922, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8894, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.7527, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.6004, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(8.3206, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4347, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(8.0736, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7912, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.6858, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.0670, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.6819, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8957, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.7929, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.9403, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.8094, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.1494, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.6622, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8057, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.6621, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.8619, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.6255, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2571, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7644301986717298 AP 0.9052285058691106 ACC 0.7916491837340108 F1 0.7916491837340108
+Validation Metrics: ROC 0.6974211887894534 AP 0.8295514245529688 ACC 0.6958247757413019 F1 0.6958247757413019
+Epoch: 0006	train_loss = 7.87929	val_roc = 0.69742	val_ap = 0.82955	val_f1 = 0.69582	val_acc = 0.69582
+Training batch 1
+Link Prediction:  tensor(7.7543, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5562, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.7129, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7654, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.6493, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6704, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.6582, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0195, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.7554, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1891, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.6485, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8124, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.6669, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4787, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.5166, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4195, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.5848, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3669, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.5064, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6153, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.6702, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3665, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.3865, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1039, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.7179, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.2017, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.5658, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9682, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.5503, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6487, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.5324, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.2929, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.773096344341333 AP 0.9088447524592231 ACC 0.7922864278005084 F1 0.7922864278005084
+Validation Metrics: ROC 0.7032716690076624 AP 0.8346886032909683 ACC 0.6962640841079065 F1 0.6962640841079065
+Epoch: 0007	train_loss = 7.68222	val_roc = 0.70327	val_ap = 0.83469	val_f1 = 0.69626	val_acc = 0.69626
+Training batch 1
+Link Prediction:  tensor(7.5184, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.3880, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.5349, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4153, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.5295, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5823, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.6210, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4963, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.5069, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9107, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.5084, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8039, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.6622, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(4.1329, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.5671, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7403, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.5356, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.5271, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.4862, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.4861, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.5591, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1595, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.4631, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.7138, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.6915, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7499, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.4085, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9053, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.4390, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2072, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.9027, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1384, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7763271296475177 AP 0.9102053579517793 ACC 0.7928907318552492 F1 0.7928907318552492
+Validation Metrics: ROC 0.7029045932281444 AP 0.8344900976095575 ACC 0.6969664857448344 F1 0.6969664857448344
+Epoch: 0008	train_loss = 7.62640	val_roc = 0.70290	val_ap = 0.83449	val_f1 = 0.69697	val_acc = 0.69697
+Training batch 1
+Link Prediction:  tensor(7.5137, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7383, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.4293, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1158, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.3914, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6184, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.4054, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8221, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.3826, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4595, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.3864, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1881, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.5636, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7344, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.5901, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9459, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.4339, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2581, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.4060, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6669, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.3957, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6829, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.5321, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.9902, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.4868, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6190, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.3770, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0990, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.3778, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0472, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.4976, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6751, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7813643956095013 AP 0.912526573039307 ACC 0.7906192766558107 F1 0.7906192766558107
+Validation Metrics: ROC 0.7050939973100235 AP 0.833749691390403 ACC 0.6960719576089839 F1 0.6960719576089839
+Epoch: 0009	train_loss = 7.52071	val_roc = 0.70509	val_ap = 0.83375	val_f1 = 0.69607	val_acc = 0.69607
+Training batch 1
+Link Prediction:  tensor(7.5579, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0294, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.4804, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6416, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.4578, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3329, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.4713, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6579, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.3826, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6265, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.5094, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0964, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.4304, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2113, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.4090, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4368, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.3100, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0715, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.3519, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3124, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.3259, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.1464, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.3875, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0271, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.3454, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6132, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.2693, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4518, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.5206, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.3637, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.6914, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9684, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7839275154554217 AP 0.9126073950335283 ACC 0.7899268413629323 F1 0.7899268413629323
+Validation Metrics: ROC 0.7082318362579071 AP 0.838624947126102 ACC 0.7004582263600185 F1 0.7004582263600185
+Epoch: 0010	train_loss = 7.50600	val_roc = 0.70823	val_ap = 0.83862	val_f1 = 0.70046	val_acc = 0.70046
+Training batch 1
+Link Prediction:  tensor(7.2730, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3533, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.3707, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.2938, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.3678, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8133, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.3365, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8438, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.2009, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5531, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.3119, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2716, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.3357, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8137, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.3687, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4855, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.2343, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9607, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.4584, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3017, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.4393, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3690, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.3127, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6422, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.3247, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0302, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.2695, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8686, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.1823, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9409, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.2279, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5878, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7884516009717193 AP 0.9145883275169664 ACC 0.7907123518130569 F1 0.7907123518130569
+Validation Metrics: ROC 0.7087250315094354 AP 0.8367525727176204 ACC 0.6972675788004075 F1 0.6972675788004075
+Epoch: 0011	train_loss = 7.38843	val_roc = 0.70873	val_ap = 0.83675	val_f1 = 0.69727	val_acc = 0.69727
+Training batch 1
+Link Prediction:  tensor(7.3176, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3951, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.3234, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7056, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.1389, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9524, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.2825, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8117, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.2324, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4476, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.2455, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3797, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.2137, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8463, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.4095, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4383, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.1451, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0606, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.2077, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4994, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.3446, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1957, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.3400, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2425, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.1929, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.3246, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.2976, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.3087, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(8.0020, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.3070, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.1831, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5221, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7900380390136388 AP 0.9151804546483696 ACC 0.7894543107971308 F1 0.7894543107971308
+Validation Metrics: ROC 0.7101006226435231 AP 0.8379439009918758 ACC 0.6996409237594955 F1 0.6996409237594955
+Epoch: 0012	train_loss = 7.37493	val_roc = 0.71010	val_ap = 0.83794	val_f1 = 0.69964	val_acc = 0.69964
+Training batch 1
+Link Prediction:  tensor(7.1488, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6861, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.2410, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4928, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.1106, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.9808, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.4955, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5759, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.1947, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2372, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.1791, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4187, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.2432, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6837, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.2401, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2050, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.2739, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.6832, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.3317, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0712, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.2169, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1429, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.1193, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5307, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.1199, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0031, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.2038, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2326, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.1367, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1194, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.2556, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1940, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.794300014246159 AP 0.9168700844743464 ACC 0.7892290648023108 F1 0.7892290648023108
+Validation Metrics: ROC 0.7132271234822407 AP 0.8393571030823448 ACC 0.697487022238959 F1 0.697487022238959
+Epoch: 0013	train_loss = 7.29305	val_roc = 0.71323	val_ap = 0.83936	val_f1 = 0.69749	val_acc = 0.69749
+Training batch 1
+Link Prediction:  tensor(7.1523, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0744, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.2143, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2894, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.1584, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1636, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.1155, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1479, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.0354, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.1229, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.2599, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6368, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.2788, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6368, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.0885, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.7217, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.3023, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4360, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.6472, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9073, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.2339, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5684, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.2013, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6001, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.2068, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4799, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.2006, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3076, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.1079, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6612, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.3161, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0336, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7948933916133194 AP 0.9162949458703374 ACC 0.7884305481728275 F1 0.7884305481728275
+Validation Metrics: ROC 0.714209379409688 AP 0.8411240000957042 ACC 0.7013497585811678 F1 0.7013497585811678
+Epoch: 0014	train_loss = 7.29452	val_roc = 0.71421	val_ap = 0.84112	val_f1 = 0.70135	val_acc = 0.70135
+Training batch 1
+Link Prediction:  tensor(7.3613, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7645, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.4849, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2291, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.2054, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0766, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.1286, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5920, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.1063, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3204, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.2307, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2305, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.2561, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2114, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.1553, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7735, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.1279, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0651, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.1504, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9266, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.1061, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3211, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.0808, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.4658, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0760, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7931, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.1995, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0135, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.2605, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4205, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.1286, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.9748, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7964816843662965 AP 0.9176542204257079 ACC 0.7894779027217241 F1 0.7894779027217241
+Validation Metrics: ROC 0.7161182445551608 AP 0.8409693731648459 ACC 0.7012986251427893 F1 0.7012986251427893
+Epoch: 0015	train_loss = 7.26478	val_roc = 0.71612	val_ap = 0.84097	val_f1 = 0.70130	val_acc = 0.70130
+Training batch 1
+Link Prediction:  tensor(7.1883, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0032, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.1829, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8641, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.0526, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0306, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.0932, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.4622, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.1162, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.7468, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.2044, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4243, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.1062, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9008, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.1719, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6585, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.1390, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1424, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.2326, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2357, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.1000, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2386, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.0673, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4165, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0822, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6187, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.1149, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.9163, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.0752, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2156, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.1179, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(10.0751, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7996154525465897 AP 0.9184046087188914 ACC 0.7891941385149902 F1 0.7891941385149902
+Validation Metrics: ROC 0.7172697042152337 AP 0.8427143881564334 ACC 0.701574938476182 F1 0.701574938476182
+Epoch: 0016	train_loss = 7.20235	val_roc = 0.71727	val_ap = 0.84271	val_f1 = 0.70157	val_acc = 0.70157
+Training batch 1
+Link Prediction:  tensor(7.1184, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4494, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.2478, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8515, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.1986, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4991, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.1212, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1510, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.0754, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8708, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.0613, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0497, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.1367, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1851, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.1248, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1781, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.0475, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0887, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.1202, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7513, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.0595, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1801, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.0895, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8092, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0819, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.9057, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.0448, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.7427, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.9931, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.2857, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.1119, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.4599, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.7993589131557971 AP 0.9185203224074084 ACC 0.7905706877596018 F1 0.7905706877596018
+Validation Metrics: ROC 0.7190638900679365 AP 0.8414591168589858 ACC 0.6994704429866115 F1 0.6994704429866115
+Epoch: 0017	train_loss = 7.17726	val_roc = 0.71906	val_ap = 0.84146	val_f1 = 0.69947	val_acc = 0.69947
+Training batch 1
+Link Prediction:  tensor(7.0899, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3556, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.0413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8804, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.1430, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7125, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.0425, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6719, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.0582, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0807, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.1494, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2016, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(7.0828, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7653, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.1004, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5307, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.3150, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5702, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.0423, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7793, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.1055, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6333, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.0386, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8513, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0297, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.4868, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.1195, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9223, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.0122, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1279, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.0641, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5648, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8019597798302295 AP 0.9188589969625736 ACC 0.7898597525279526 F1 0.7898597525279526
+Validation Metrics: ROC 0.7172484347359434 AP 0.840229342346698 ACC 0.7021484716958568 F1 0.7021484716958568
+Epoch: 0018	train_loss = 7.16085	val_roc = 0.71725	val_ap = 0.84023	val_f1 = 0.70215	val_acc = 0.70215
+Training batch 1
+Link Prediction:  tensor(7.0164, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.1224, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.1038, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0338, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(7.0663, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.6982, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.0563, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0039, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.0531, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1907, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.0782, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9636, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.9942, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4049, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.0969, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4291, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.1182, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0858, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.9619, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8400, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.9425, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8747, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.9722, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7224, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0933, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4962, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(7.1834, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5360, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.9108, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0634, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.0245, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7828, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8040004013343262 AP 0.9196448372202334 ACC 0.7924497291158261 F1 0.7924497291158261
+Validation Metrics: ROC 0.7196051505186414 AP 0.8424284133352635 ACC 0.7024306045962837 F1 0.7024306045962837
+Epoch: 0019	train_loss = 7.11427	val_roc = 0.71961	val_ap = 0.84243	val_f1 = 0.70243	val_acc = 0.70243
+Training batch 1
+Link Prediction:  tensor(7.1221, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2776, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.9288, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3276, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.9417, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0037, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.0114, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8416, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(7.0329, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(9.0924, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.9566, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2660, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.9581, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4996, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.9375, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6110, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(7.0089, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0595, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(7.0160, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3500, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.1094, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9404, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(7.0017, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5473, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(7.0277, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7647, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.9473, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1067, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.9753, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5354, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.0067, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5488, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8061864396389701 AP 0.9209920809985852 ACC 0.7949656399337288 F1 0.7949656399337288
+Validation Metrics: ROC 0.7254841321073248 AP 0.8444097890060781 ACC 0.7016021049081032 F1 0.7016021049081032
+Epoch: 0020	train_loss = 7.06996	val_roc = 0.72548	val_ap = 0.84441	val_f1 = 0.70160	val_acc = 0.70160
+Training batch 1
+Link Prediction:  tensor(7.0076, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.7254, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.9828, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6161, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8801, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3129, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(7.0413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7565, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8885, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8190, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.0857, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8945, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.9633, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9436, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.1051, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8827, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.9988, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0801, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.9284, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3620, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.9199, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0487, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.9808, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1109, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.9905, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4817, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.9980, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6508, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.9882, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0109, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.9977, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7888, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8095534329958074 AP 0.9219596672618133 ACC 0.7939769060006933 F1 0.7939769060006933
+Validation Metrics: ROC 0.7232825719297233 AP 0.8446624667240512 ACC 0.7043632344209265 F1 0.7043632344209265
+Epoch: 0021	train_loss = 7.05881	val_roc = 0.72328	val_ap = 0.84466	val_f1 = 0.70436	val_acc = 0.70436
+Training batch 1
+Link Prediction:  tensor(6.9224, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5549, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.9791, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3348, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8787, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8062, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.9036, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7971, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.9127, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1576, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.9915, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9751, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.9545, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5151, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(7.0209, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4623, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.9818, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0427, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.9894, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9962, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.9423, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9751, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.9784, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0643, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.9965, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5902, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.9591, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7832, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(7.0433, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9268, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.8963, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5964, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8096948433390277 AP 0.9217503745394026 ACC 0.79539307095615 F1 0.79539307095615
+Validation Metrics: ROC 0.7259637756760611 AP 0.8428414390891505 ACC 0.7019956742123321 F1 0.7019956742123321
+Epoch: 0022	train_loss = 7.02920	val_roc = 0.72596	val_ap = 0.84284	val_f1 = 0.70200	val_acc = 0.70200
+Training batch 1
+Link Prediction:  tensor(6.9320, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9360, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.9031, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3921, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.9755, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5605, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.9586, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5124, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.9399, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8567, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.9368, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5436, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.9415, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0981, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.9212, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4713, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.9194, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2398, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8626, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4922, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(7.0387, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3276, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.8889, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9144, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.9071, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3123, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8923, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2477, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.9882, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0515, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(7.0011, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1738, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8119113584125515 AP 0.9225631553866007 ACC 0.7962188551355368 F1 0.7962188551355368
+Validation Metrics: ROC 0.7274817475455505 AP 0.8446924506720107 ACC 0.7037017327147483 F1 0.7037017327147483
+Epoch: 0023	train_loss = 7.01091	val_roc = 0.72748	val_ap = 0.84469	val_f1 = 0.70370	val_acc = 0.70370
+Training batch 1
+Link Prediction:  tensor(6.9105, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1393, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(7.0262, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4728, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8990, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0229, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.9242, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1502, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8872, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4087, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.9448, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9590, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8611, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0856, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.8638, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9164, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.8836, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0416, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8899, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6909, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.9334, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2356, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.8167, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.2273, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.9456, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0717, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8781, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6746, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.7973, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7549, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.8773, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5858, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8152827171530975 AP 0.9246783416409691 ACC 0.7987498372097803 F1 0.7987498372097803
+Validation Metrics: ROC 0.7320905112699072 AP 0.8474494625064115 ACC 0.7043151418451002 F1 0.7043151418451002
+Epoch: 0024	train_loss = 6.96492	val_roc = 0.73209	val_ap = 0.84745	val_f1 = 0.70432	val_acc = 0.70432
+Training batch 1
+Link Prediction:  tensor(6.8293, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0711, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.8262, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5349, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8298, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1615, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.9736, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8431, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.9008, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3665, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.8090, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1183, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8562, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1054, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.8206, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6430, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.8657, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.3715, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8328, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2978, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.7227, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0675, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.8217, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2341, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.7778, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1548, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8472, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5059, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.8166, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2122, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.8749, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5630, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8183094454879084 AP 0.9255052964559302 ACC 0.8007074397043497 F1 0.8007074397043497
+Validation Metrics: ROC 0.730656690084076 AP 0.8449926109138036 ACC 0.7037643583792368 F1 0.7037643583792368
+Epoch: 0025	train_loss = 6.90651	val_roc = 0.73066	val_ap = 0.84499	val_f1 = 0.70376	val_acc = 0.70376
+Training batch 1
+Link Prediction:  tensor(6.8282, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4855, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.7996, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9669, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8133, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2266, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.7880, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7459, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8097, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5522, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(7.1022, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4500, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8112, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1228, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.8712, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3387, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.8825, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5813, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8578, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4698, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.8575, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7641, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.9152, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5145, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.7942, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.5780, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8222, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9814, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.8297, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3739, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.8397, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7983, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8182454329309797 AP 0.925039116370487 ACC 0.8017545435696629 F1 0.8017545435696629
+Validation Metrics: ROC 0.7346033472596054 AP 0.848583982905083 ACC 0.7056021036839774 F1 0.7056021036839774
+Epoch: 0026	train_loss = 6.92240	val_roc = 0.73460	val_ap = 0.84858	val_f1 = 0.70560	val_acc = 0.70560
+Training batch 1
+Link Prediction:  tensor(6.8479, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7340, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.8375, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1472, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.9250, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3023, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.8698, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7871, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8320, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3355, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.8543, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9894, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8313, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3127, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.8102, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5136, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.8908, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1928, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8397, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6763, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.8509, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4751, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.7982, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5041, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.8784, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6324, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8361, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8434, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.8521, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3344, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2977, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8198308888677197 AP 0.9250624826644731 ACC 0.8017833232298315 F1 0.8017833232298315
+Validation Metrics: ROC 0.7366510611256528 AP 0.849001770939872 ACC 0.7068749493286112 F1 0.7068749493286112
+Epoch: 0027	train_loss = 6.91210	val_roc = 0.73665	val_ap = 0.84900	val_f1 = 0.70687	val_acc = 0.70687
+Training batch 1
+Link Prediction:  tensor(6.8845, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4530, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.8452, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8776, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8512, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8732, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.8600, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5488, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8544, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5088, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.8103, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5701, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.7240, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8238, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.8282, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4773, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.7389, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9653, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8238, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6604, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.7439, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3323, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.7299, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6003, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.7461, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0536, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.8119, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8979, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.7387, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4114, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7288, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1306, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8219505427600834 AP 0.9269121505620905 ACC 0.8038768023834781 F1 0.8038768023834781
+Validation Metrics: ROC 0.7386116976878541 AP 0.8490049787403562 ACC 0.7075344622528051 F1 0.7075344622528051
+Epoch: 0028	train_loss = 6.86359	val_roc = 0.73861	val_ap = 0.84900	val_f1 = 0.70753	val_acc = 0.70753
+Training batch 1
+Link Prediction:  tensor(6.7770, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6751, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.7980, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0877, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.8149, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6526, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.7250, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4055, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8386, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7317, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.6860, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3327, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8199, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9306, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.7901, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6526, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.7751, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5498, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.9075, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8217, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.8052, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2713, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.7544, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8814, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.8310, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3410, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.7946, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.1983, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6924, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4565, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7230, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7472, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8232740152580796 AP 0.9263832642840543 ACC 0.8046218733798771 F1 0.8046218733798771
+Validation Metrics: ROC 0.7391387110412624 AP 0.8495589372014307 ACC 0.7080864232302267 F1 0.7080864232302267
+Epoch: 0029	train_loss = 6.85225	val_roc = 0.73914	val_ap = 0.84956	val_f1 = 0.70809	val_acc = 0.70809
+Training batch 1
+Link Prediction:  tensor(6.8361, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0775, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6833, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1647, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.7889, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7028, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.8447, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6841, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8113, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1525, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.7838, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8102, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.7053, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0561, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.7376, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6148, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6658, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1039, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8077, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8893, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.7290, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6771, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.7599, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2732, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.8171, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5351, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.7622, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9663, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6828, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3093, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7514, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4721, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8244812081958706 AP 0.9270473448664724 ACC 0.8073812034340168 F1 0.8073812034340168
+Validation Metrics: ROC 0.7406123121973573 AP 0.8494553049686112 ACC 0.709719511041469 F1 0.709719511041469
+Epoch: 0030	train_loss = 6.82795	val_roc = 0.74061	val_ap = 0.84946	val_f1 = 0.70972	val_acc = 0.70972
+Training batch 1
+Link Prediction:  tensor(6.7780, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.9103, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.7925, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3740, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.7808, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4402, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.7403, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0684, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.8049, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6858, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.7749, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1766, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.8018, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8778, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.7398, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9067, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.7874, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7511, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.8870, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3745, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.8227, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6624, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6569, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7999, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.7882, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3952, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.7895, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6507, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6841, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6015, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.6967, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2675, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8245693556092041 AP 0.9269543228891016 ACC 0.8073763693357551 F1 0.8073763693357551
+Validation Metrics: ROC 0.7413625263903638 AP 0.8535281297499174 ACC 0.7102601724558643 F1 0.7102601724558643
+Epoch: 0031	train_loss = 6.83636	val_roc = 0.74136	val_ap = 0.85353	val_f1 = 0.71026	val_acc = 0.71026
+Training batch 1
+Link Prediction:  tensor(6.8153, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3533, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6983, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6156, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6781, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4573, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6315, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4579, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.7253, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(8.0508, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.6859, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8450, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6747, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7138, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.7742, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6398, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.7583, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0935, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6805, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5164, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6456, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2044, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6827, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1988, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6717, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7792, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.7132, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9804, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.7059, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2337, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7119, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9040, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8275988558021534 AP 0.9285668123682088 ACC 0.8095516887365264 F1 0.8095516887365264
+Validation Metrics: ROC 0.7421221139906407 AP 0.85203925854019 ACC 0.7112696784475493 F1 0.7112696784475493
+Epoch: 0032	train_loss = 6.77210	val_roc = 0.74212	val_ap = 0.85204	val_f1 = 0.71127	val_acc = 0.71127
+Training batch 1
+Link Prediction:  tensor(6.6705, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9277, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.8355, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4000, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.7361, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8498, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.7279, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3829, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.7476, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5071, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.7009, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6438, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.7567, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6157, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6352, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6864, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6558, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0028, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.7201, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5866, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6259, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6844, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6576, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8026, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6650, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9947, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6382, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3487, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.7911, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1853, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.7850, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1135, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8286775937282286 AP 0.9288822475283329 ACC 0.810051315938386 F1 0.810051315938386
+Validation Metrics: ROC 0.7459268098060678 AP 0.8533497299383385 ACC 0.7115278500629434 F1 0.7115278500629434
+Epoch: 0033	train_loss = 6.77576	val_roc = 0.74593	val_ap = 0.85335	val_f1 = 0.71153	val_acc = 0.71153
+Training batch 1
+Link Prediction:  tensor(6.6536, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2794, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6919, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1088, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5908, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4416, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6763, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7246, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6897, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.8795, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.7091, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4049, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.7026, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9901, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.7113, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0999, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6503, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1510, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6217, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9074, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6739, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6273, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6416, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5016, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6090, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2562, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5787, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5191, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6390, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5146, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.6378, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4538, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8309653281927043 AP 0.9300842571267341 ACC 0.8121581345476477 F1 0.8121581345476477
+Validation Metrics: ROC 0.7460338595959671 AP 0.8530445803282851 ACC 0.7106537556724282 F1 0.7106537556724282
+Epoch: 0034	train_loss = 6.72277	val_roc = 0.74603	val_ap = 0.85304	val_f1 = 0.71065	val_acc = 0.71065
+Training batch 1
+Link Prediction:  tensor(6.7275, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1182, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.7093, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1741, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6829, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1281, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6116, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8262, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6536, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4691, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.6498, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2049, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6196, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4839, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5890, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5527, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.7538, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6316, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6514, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1708, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6388, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3270, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8168, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6661, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7598, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6688, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5112, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6838, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2861, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.6467, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6979, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8316677813546817 AP 0.9301070943511401 ACC 0.814107977321602 F1 0.814107977321602
+Validation Metrics: ROC 0.7419705663578905 AP 0.8496868223466018 ACC 0.7130770307848557 F1 0.7130770307848557
+Epoch: 0035	train_loss = 6.72346	val_roc = 0.74197	val_ap = 0.84969	val_f1 = 0.71308	val_acc = 0.71308
+Training batch 1
+Link Prediction:  tensor(6.6227, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1503, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6863, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7257, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6942, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6945, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6972, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7571, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6256, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7151, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.6720, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7858, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5864, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7396, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6265, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0658, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6312, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3792, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6401, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2505, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6146, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0958, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5945, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8993, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6140, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2522, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6429, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8684, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5663, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9500, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.6616, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3356, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8332019453828563 AP 0.9309696281224225 ACC 0.8150245706268965 F1 0.8150245706268965
+Validation Metrics: ROC 0.7455268339675208 AP 0.8526091912934797 ACC 0.7143720915352613 F1 0.7143720915352613
+Epoch: 0036	train_loss = 6.70192	val_roc = 0.74553	val_ap = 0.85261	val_f1 = 0.71437	val_acc = 0.71437
+Training batch 1
+Link Prediction:  tensor(6.6410, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7063, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.5963, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5161, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6975, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8102, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.7016, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2658, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5659, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0193, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5751, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3793, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6753, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5647, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5510, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4864, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6799, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2699, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5838, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8812, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6220, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2062, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5507, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6765, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6437, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2856, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5711, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6076, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6132, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6632, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5532, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5354, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8338754911310314 AP 0.9310016686055674 ACC 0.8164671634012718 F1 0.8164671634012718
+Validation Metrics: ROC 0.7469528998404019 AP 0.854512764321601 ACC 0.7144919856046394 F1 0.7144919856046394
+Epoch: 0037	train_loss = 6.67987	val_roc = 0.74695	val_ap = 0.85451	val_f1 = 0.71449	val_acc = 0.71449
+Training batch 1
+Link Prediction:  tensor(6.5956, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8550, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.7084, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6696, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6416, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7674, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6260, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4747, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6743, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2607, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5064, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2682, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6314, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4610, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6218, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3203, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6018, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2270, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5545, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4079, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.6016, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4863, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5887, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9733, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5616, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0376, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6584, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1996, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6336, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1834, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5712, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5170, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8341439835720041 AP 0.9313026047292612 ACC 0.8171374811420437 F1 0.8171374811420437
+Validation Metrics: ROC 0.7485086065140933 AP 0.8545633881900556 ACC 0.715446295115812 F1 0.715446295115812
+Epoch: 0038	train_loss = 6.67731	val_roc = 0.74851	val_ap = 0.85456	val_f1 = 0.71545	val_acc = 0.71545
+Training batch 1
+Link Prediction:  tensor(6.6564, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1616, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6161, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9732, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6446, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7889, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6314, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4689, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6952, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2060, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.6300, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7358, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6205, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4710, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6343, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6050, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6125, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2488, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6202, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8383, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5898, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9034, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4785, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5771, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5689, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6578, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5944, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6507, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6072, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8881, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5633, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8034, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8345815173866157 AP 0.9309295203450719 ACC 0.8169583010079853 F1 0.8169583010079853
+Validation Metrics: ROC 0.7499523885912789 AP 0.8565820717338144 ACC 0.7172430476972212 F1 0.7172430476972212
+Epoch: 0039	train_loss = 6.67695	val_roc = 0.74995	val_ap = 0.85658	val_f1 = 0.71724	val_acc = 0.71724
+Training batch 1
+Link Prediction:  tensor(6.7004, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3414, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.6368, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9338, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6366, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4131, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6363, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5102, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6191, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3837, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5838, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3748, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6561, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1543, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6679, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8008, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.6398, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9972, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5709, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2041, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5419, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5616, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6172, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8111, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5716, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3260, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6043, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3220, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5856, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5519, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.6205, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5430, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8359012210938926 AP 0.9310916457932902 ACC 0.8175011005282248 F1 0.8175011005282248
+Validation Metrics: ROC 0.746173374627858 AP 0.8528205240648933 ACC 0.7158836884500558 F1 0.7158836884500558
+Epoch: 0040	train_loss = 6.68243	val_roc = 0.74617	val_ap = 0.85282	val_f1 = 0.71588	val_acc = 0.71588
+Training batch 1
+Link Prediction:  tensor(6.5802, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7104, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.5797, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0823, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5815, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7569, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.5519, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6608, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6136, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6012, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5685, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8358, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5889, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5702, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5590, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9561, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.5266, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8869, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6080, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2302, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5412, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7981, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.6213, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2729, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5723, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4891, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.6252, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2936, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.6210, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4099, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5248, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8001, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8371258089897262 AP 0.9322150786473883 ACC 0.8191590252181976 F1 0.8191590252181976
+Validation Metrics: ROC 0.7490972593976946 AP 0.8547664953816837 ACC 0.7181812563522059 F1 0.7181812563522059
+Epoch: 0041	train_loss = 6.64353	val_roc = 0.74910	val_ap = 0.85477	val_f1 = 0.71818	val_acc = 0.71818
+Training batch 1
+Link Prediction:  tensor(6.5555, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3153, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.5792, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6935, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.6141, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1095, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.5916, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3532, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5832, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9549, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4785, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7956, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5272, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3655, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.6561, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4516, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.5392, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9865, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5087, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8384, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.4965, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3641, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5112, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4790, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6052, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3410, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.4548, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6074, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5458, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9678, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5364, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0678, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8399018943266011 AP 0.933572298548199 ACC 0.8197959350953344 F1 0.8197959350953344
+Validation Metrics: ROC 0.75153584388053 AP 0.8547452460486942 ACC 0.7167871947906344 F1 0.7167871947906344
+Epoch: 0042	train_loss = 6.61355	val_roc = 0.75154	val_ap = 0.85475	val_f1 = 0.71679	val_acc = 0.71679
+Training batch 1
+Link Prediction:  tensor(6.4887, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5003, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4763, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6436, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.4690, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5307, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.5336, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6824, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.4540, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6554, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5269, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0372, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5820, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4718, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5085, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4730, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.5112, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9736, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5052, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7524, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5449, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2623, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5296, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5486, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.6001, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0866, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5491, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7662, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4974, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6238, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5618, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8509, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8399125752701706 AP 0.9336321157064369 ACC 0.8212988283185882 F1 0.8212988283185882
+Validation Metrics: ROC 0.7530478286128174 AP 0.8566640920576023 ACC 0.7203194230415424 F1 0.7203194230415424
+Epoch: 0043	train_loss = 6.58717	val_roc = 0.75305	val_ap = 0.85666	val_f1 = 0.72032	val_acc = 0.72032
+Training batch 1
+Link Prediction:  tensor(6.5748, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7128, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.5253, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4138, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5445, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3334, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.4919, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3126, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.4839, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7704, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5657, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8308, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5216, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4374, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5780, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9040, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4694, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6678, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5910, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1394, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.4844, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9274, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5145, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7206, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5463, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1804, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5396, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3582, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5313, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5130, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.4808, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9255, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8408072033199759 AP 0.9334767568637395 ACC 0.8219122098731021 F1 0.8219122098731021
+Validation Metrics: ROC 0.7511364867654472 AP 0.8542453678529645 ACC 0.7158752246573673 F1 0.7158752246573673
+Epoch: 0044	train_loss = 6.59335	val_roc = 0.75114	val_ap = 0.85425	val_f1 = 0.71588	val_acc = 0.71588
+Training batch 1
+Link Prediction:  tensor(6.5948, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7128, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.5040, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0016, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5559, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9734, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.5574, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7956, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5051, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9164, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5005, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0611, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.6005, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.7071, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5186, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4569, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.5191, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5258, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.6862, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.8391, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5170, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9716, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5841, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1612, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4909, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9999, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5300, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4970, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4444, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2061, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5428, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2667, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.841224650091924 AP 0.9333711440056135 ACC 0.8220478188702609 F1 0.8220478188702609
+Validation Metrics: ROC 0.7541752686736013 AP 0.8551942563405825 ACC 0.7185253909544577 F1 0.7185253909544577
+Epoch: 0045	train_loss = 6.60616	val_roc = 0.75418	val_ap = 0.85519	val_f1 = 0.71853	val_acc = 0.71853
+Training batch 1
+Link Prediction:  tensor(6.4847, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6449, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.3861, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1711, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5992, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8055, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.4684, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7691, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5000, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4092, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4663, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7727, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.5425, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1898, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.4919, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7393, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4901, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5305, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4472, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6465, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.5003, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0518, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5063, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9925, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4099, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0146, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5510, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1654, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5191, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3033, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.5129, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9529, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8432438292326825 AP 0.9346360951209515 ACC 0.8234453700527291 F1 0.8234453700527291
+Validation Metrics: ROC 0.752603230672743 AP 0.8572378089035168 ACC 0.7217951251308299 F1 0.7217951251308299
+Epoch: 0046	train_loss = 6.55955	val_roc = 0.75260	val_ap = 0.85724	val_f1 = 0.72180	val_acc = 0.72180
+Training batch 1
+Link Prediction:  tensor(6.4789, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1811, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4260, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2136, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5191, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5580, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.6488, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5536, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5221, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9692, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4550, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5266, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4939, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9963, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5008, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1858, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4694, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9734, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4969, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9300, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.4898, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6188, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4915, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2472, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4891, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4873, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.5502, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1582, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.5467, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4315, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.4615, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8696, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8426972037710246 AP 0.9340854059318031 ACC 0.8240698207741123 F1 0.8240698207741123
+Validation Metrics: ROC 0.7546816053772817 AP 0.8550077762547774 ACC 0.7198743935375966 F1 0.7198743935375966
+Epoch: 0047	train_loss = 6.56861	val_roc = 0.75468	val_ap = 0.85501	val_f1 = 0.71987	val_acc = 0.71987
+Training batch 1
+Link Prediction:  tensor(6.5195, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1739, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4699, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2116, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5612, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5270, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.3978, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2374, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.6069, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0765, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.5668, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9559, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4574, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7452, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.4074, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6452, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4871, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5660, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4416, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9023, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.3874, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8413, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.5433, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6860, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4771, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8585, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.3677, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1069, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4595, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8554, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.4541, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7459, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8436142880559343 AP 0.9347126053476522 ACC 0.8253209402071089 F1 0.8253209402071089
+Validation Metrics: ROC 0.7558275955023035 AP 0.8579173968314303 ACC 0.7228498001881133 F1 0.7228498001881133
+Epoch: 0048	train_loss = 6.54452	val_roc = 0.75583	val_ap = 0.85792	val_f1 = 0.72285	val_acc = 0.72285
+Training batch 1
+Link Prediction:  tensor(6.4152, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2169, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4505, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0994, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.4165, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3400, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.4694, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5428, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.5251, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7405, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4148, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3689, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4442, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8195, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.5206, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3771, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4584, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2190, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4272, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7787, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.3745, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2962, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4601, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5329, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.5384, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3781, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.4304, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3446, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4759, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3669, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.3911, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6305, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8446080866502352 AP 0.9352339812291939 ACC 0.8266749654393956 F1 0.8266749654393956
+Validation Metrics: ROC 0.7550035804840098 AP 0.8552912955402486 ACC 0.7222889360120823 F1 0.7222889360120823
+Epoch: 0049	train_loss = 6.51954	val_roc = 0.75500	val_ap = 0.85529	val_f1 = 0.72229	val_acc = 0.72229
+Training batch 1
+Link Prediction:  tensor(6.4633, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4561, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4460, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7994, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.4750, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4166, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.4744, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0305, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.3726, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2154, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4441, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5625, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4304, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3133, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.4415, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5197, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4557, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.1730, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.3893, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5708, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.4077, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7336, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.3667, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7418, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4264, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2619, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.4113, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9743, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4108, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6752, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.4219, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5005, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8460400910785337 AP 0.9360178458424809 ACC 0.8280562051376547 F1 0.8280562051376547
+Validation Metrics: ROC 0.7602142873945152 AP 0.8606956881500447 ACC 0.7240621395958368 F1 0.7240621395958368
+Epoch: 0050	train_loss = 6.49648	val_roc = 0.76021	val_ap = 0.86070	val_f1 = 0.72406	val_acc = 0.72406
+Training batch 1
+Link Prediction:  tensor(6.5010, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2889, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4209, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4725, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.4352, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3140, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.3546, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1287, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.4909, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5865, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4430, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3369, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.3777, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8543, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.4806, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(5.9974, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.4413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0298, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.5040, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2672, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.4747, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.2343, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4410, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0110, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.3734, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9979, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.4785, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.0129, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4413, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3488, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.4579, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9149, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8469520280667402 AP 0.935550219650001 ACC 0.8271362019888029 F1 0.8271362019888029
+Validation Metrics: ROC 0.7588738435651802 AP 0.8592971283567559 ACC 0.723327194392263 F1 0.723327194392263
+Epoch: 0051	train_loss = 6.51194	val_roc = 0.75887	val_ap = 0.85930	val_f1 = 0.72333	val_acc = 0.72333
+Training batch 1
+Link Prediction:  tensor(6.3543, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1795, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4292, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.6102, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.5296, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2788, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.4420, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.5552, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.4369, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2041, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.4328, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.0430, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4350, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4293, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.3635, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6892, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.3586, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6655, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4411, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3015, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.3557, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.7912, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4525, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3003, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4679, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6125, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.3208, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4888, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.4207, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3913, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.3387, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8803, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8470646778413441 AP 0.9364090375716857 ACC 0.8292430040738842 F1 0.8292430040738842
+Validation Metrics: ROC 0.7592180317256143 AP 0.859464601902828 ACC 0.7248969759094427 F1 0.7248969759094427
+Epoch: 0052	train_loss = 6.47986	val_roc = 0.75922	val_ap = 0.85946	val_f1 = 0.72490	val_acc = 0.72490
+Training batch 1
+Link Prediction:  tensor(6.3669, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5627, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4316, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.7071, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.3894, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.8613, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4
+Link Prediction:  tensor(6.3899, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.2508, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 5
+Link Prediction:  tensor(6.4944, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1095, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 6
+Link Prediction:  tensor(6.3857, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4778, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 7
+Link Prediction:  tensor(6.4216, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4900, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 8
+Link Prediction:  tensor(6.3725, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.4893, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 9
+Link Prediction:  tensor(6.3663, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.3570, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 10
+Link Prediction:  tensor(6.4471, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.4101, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 11
+Link Prediction:  tensor(6.3599, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3055, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 12
+Link Prediction:  tensor(6.4189, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5787, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 13
+Link Prediction:  tensor(6.4370, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6910, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 14
+Link Prediction:  tensor(6.3124, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.5793, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 15
+Link Prediction:  tensor(6.3410, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(7.1226, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 16
+Link Prediction:  tensor(6.3748, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6886, device='cuda:0', grad_fn=<DivBackward0>)
+Training Metrics: ROC 0.8473668244543029 AP 0.936578734587028 ACC 0.8294131818457929 F1 0.8294131818457929
+Validation Metrics: ROC 0.7579048031388054 AP 0.8572206360555086 ACC 0.7224668036353057 F1 0.7224668036353057
+Epoch: 0053	train_loss = 6.46420	val_roc = 0.75790	val_ap = 0.85722	val_f1 = 0.72247	val_acc = 0.72247
+Training batch 1
+Link Prediction:  tensor(6.4783, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.3580, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 2
+Link Prediction:  tensor(6.4625, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.6824, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 3
+Link Prediction:  tensor(6.4730, device='cuda:0', grad_fn=<AddBackward0>) Center Loss:  tensor(6.9312, device='cuda:0', grad_fn=<DivBackward0>)
+Training batch 4

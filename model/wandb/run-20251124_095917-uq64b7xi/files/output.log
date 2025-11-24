@@ -1,0 +1,129 @@
+------ppi_dir: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/corneal_keratocyte.txt
+------content: cluster:corneal keratocyte
+-----ppi: Graph with 2952 nodes and 15324 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/adipocyte.txt
+------content: cluster:adipocyte
+-----ppi: Graph with 3099 nodes and 34098 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/double-positive,_alpha-beta_thymocyte.txt
+------content: cluster:double-positive, alpha-beta thymocyte
+-----ppi: Graph with 2628 nodes and 25021 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tendon_cell.txt
+------content: cluster:tendon cell
+-----ppi: Graph with 2747 nodes and 20597 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myoepithelial_cell.txt
+------content: cluster:myoepithelial cell
+-----ppi: Graph with 2026 nodes and 6823 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/respiratory_mucous_cell.txt
+------content: cluster:respiratory mucous cell
+-----ppi: Graph with 2939 nodes and 21730 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myeloid_progenitor.txt
+------content: cluster:myeloid progenitor
+-----ppi: Graph with 3337 nodes and 48500 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tongue_muscle_cell.txt
+------content: cluster:tongue muscle cell
+-----ppi: Graph with 1382 nodes and 6607 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/melanocyte.txt
+------content: cluster:melanocyte
+-----ppi: Graph with 2746 nodes and 22070 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/plasma_cell.txt
+------content: cluster:plasma cell
+-----ppi: Graph with 3178 nodes and 40013 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/kidney_epithelial_cell.txt
+------content: cluster:kidney epithelial cell
+-----ppi: Graph with 2909 nodes and 19643 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/eye_photoreceptor_cell.txt
+------content: cluster:eye photoreceptor cell
+-----ppi: Graph with 2140 nodes and 9127 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/stromal_cell.txt
+------content: cluster:stromal cell
+-----ppi: Graph with 3091 nodes and 34462 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/conjunctival_epithelial_cell.txt
+------content: cluster:conjunctival epithelial cell
+-----ppi: Graph with 3112 nodes and 25988 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/type_i_nk_t_cell.txt
+------content: cluster:type i nk t cell
+-----ppi: Graph with 1007 nodes and 3051 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/luminal_cell_of_prostate_epithelium.txt
+------content: cluster:luminal cell of prostate epithelium
+-----ppi: Graph with 2738 nodes and 13511 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mesothelial_cell.txt
+------content: cluster:mesothelial cell
+-----ppi: Graph with 3211 nodes and 35080 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/lymphatic_endothelial_cell.txt
+------content: cluster:lymphatic endothelial cell
+-----ppi: Graph with 3023 nodes and 19766 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/macrophage.txt
+------content: cluster:macrophage
+-----ppi: Graph with 3113 nodes and 23062 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/connective_tissue_cell.txt
+------content: cluster:connective tissue cell
+-----ppi: Graph with 2164 nodes and 7315 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intestinal_enteroendocrine_cell.txt
+------content: cluster:intestinal enteroendocrine cell
+-----ppi: Graph with 2848 nodes and 15594 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/retinal_blood_vessel_endothelial_cell.txt
+------content: cluster:retinal blood vessel endothelial cell
+-----ppi: Graph with 3176 nodes and 28717 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/skeletal_muscle_satellite_stem_cell.txt
+------content: cluster:skeletal muscle satellite stem cell
+-----ppi: Graph with 1862 nodes and 14990 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mature_enterocyte.txt
+------content: cluster:mature enterocyte
+-----ppi: Graph with 1103 nodes and 2950 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/duct_epithelial_cell.txt
+------content: cluster:duct epithelial cell
+-----ppi: Graph with 2821 nodes and 14603 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/transit_amplifying_cell_of_large_intestine.txt
+------content: cluster:transit amplifying cell of large intestine
+-----ppi: Graph with 3158 nodes and 38352 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myofibroblast_cell.txt
+------content: cluster:myofibroblast cell
+-----ppi: Graph with 2807 nodes and 15310 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tracheal_goblet_cell.txt
+------content: cluster:tracheal goblet cell
+-----ppi: Graph with 2965 nodes and 17189 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/fibroblast_of_cardiac_tissue.txt
+------content: cluster:fibroblast of cardiac tissue
+-----ppi: Graph with 1826 nodes and 5967 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/vascular_associated_smooth_muscle_cell.txt
+------content: cluster:vascular associated smooth muscle cell
+-----ppi: Graph with 2495 nodes and 11550 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pericyte_cell.txt
+------content: cluster:pericyte cell
+-----ppi: Graph with 2986 nodes and 19533 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cardiac_muscle_cell.txt
+------content: cluster:cardiac muscle cell
+-----ppi: Graph with 3247 nodes and 33782 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/endothelial_cell_of_hepatic_sinusoid.txt
+------content: cluster:endothelial cell of hepatic sinusoid
+-----ppi: Graph with 2142 nodes and 7759 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/club_cell.txt
+------content: cluster:club cell
+-----ppi: Graph with 2140 nodes and 8012 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_ductal_cell.txt
+------content: cluster:pancreatic ductal cell
+-----ppi: Graph with 3054 nodes and 22920 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/immature_enterocyte.txt
+------content: cluster:immature enterocyte
+-----ppi: Graph with 3101 nodes and 33735 edges
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/hematopoietic_stem_cell.txt
+------content: cluster:hematopoietic stem cell
+Traceback (most recent call last):
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/train.py", line 69, in <module>
+    ppi_data, mg_data, edge_attr_dict, celltype_map, tissue_neighbors, ppi_layers, metagraph = read_data(args.G_f, args.ppi_dir, args.mg_f, hparams['feat_mat'])
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/generate_input.py", line 99, in read_data
+    orig_ppi_layers, ppi_layers, ppi_train, ppi_val, ppi_test = read_ppi(ppi_dir)
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/generate_input.py", line 48, in read_ppi
+    print(f"-----ppi: {ppi}")
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/graph.py", line 431, in __str__
+    f" with {self.number_of_nodes()} nodes and {self.number_of_edges()} edges",
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/graph.py", line 1959, in number_of_edges
+    return int(self.size())
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/graph.py", line 1905, in size
+    s = sum(d for v, d in self.degree(weight=weight))
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/graph.py", line 1905, in <genexpr>
+    s = sum(d for v, d in self.degree(weight=weight))
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/reportviews.py", line 530, in __iter__
+    for n in self._nodes:
+KeyboardInterrupt

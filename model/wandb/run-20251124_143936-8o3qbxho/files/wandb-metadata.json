@@ -1,0 +1,46 @@
+{
+  "os": "Linux-5.4.119-19.0009.37-x86_64-with-glibc2.28",
+  "python": "CPython 3.9.25",
+  "startedAt": "2025-11-24T06:39:36.448187Z",
+  "args": [
+    "--G_f",
+    "../data/5-network/global_ggi_edgelist.txt",
+    "--ppi_dir",
+    "../data/5-network/ggi_edgelists/",
+    "--mg_f",
+    "../data/5-network/mg_ac_edgelist.txt",
+    "--save_prefix",
+    "../data/6-panacea_embeds/"
+  ],
+  "program": "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py",
+  "codePath": "train.py",
+  "codePathLocal": "train.py",
+  "email": "yangziyi091100@gmail.com",
+  "root": "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model",
+  "host": "VM-217-232-tencentos",
+  "executable": "/data/anaconda3/envs/panacea/bin/python",
+  "cpu_count": 5,
+  "cpu_count_logical": 10,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "105620869120",
+      "used": "100427112448"
+    }
+  },
+  "memory": {
+    "total": "37575184384"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "8053063680",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-a7ff706c-ce72-e33f-fc21-ef5075655a27"
+    }
+  ],
+  "cudaVersion": "11.7",
+  "writerId": "c2bj26wk4idctoofvkls2w75ni0e4y9d"
+}

@@ -1,0 +1,23 @@
+2025-11-24 09:35:25,192 INFO    MainThread:3062280 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2025-11-24 09:35:25,192 INFO    MainThread:3062280 [wandb_setup.py:_flush():80] Configure stats pid to 3062280
+2025-11-24 09:35:25,192 INFO    MainThread:3062280 [wandb_setup.py:_flush():80] Loading settings from /root/.config/wandb/settings
+2025-11-24 09:35:25,192 INFO    MainThread:3062280 [wandb_setup.py:_flush():80] Loading settings from /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/wandb/settings
+2025-11-24 09:35:25,192 INFO    MainThread:3062280 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-11-24 09:35:25,193 INFO    MainThread:3062280 [wandb_init.py:setup_run_log_directory():713] Logging user logs to /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/wandb/run-20251124_093525-qezmhy75/logs/debug.log
+2025-11-24 09:35:25,193 INFO    MainThread:3062280 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/wandb/run-20251124_093525-qezmhy75/logs/debug-internal.log
+2025-11-24 09:35:25,193 INFO    MainThread:3062280 [wandb_init.py:init():840] calling init triggers
+2025-11-24 09:35:25,193 INFO    MainThread:3062280 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'pc_att_channels': 8, 'feat_mat': 2048, 'output': 8, 'hidden': 16, 'lr': 0.001, 'wd': 0.0005, 'dropout': 0.5, 'gradclip': 1.0, 'n_heads': 8, 'lambda': 0.01, 'theta': 0.1, 'lr_cent': 0.01, 'loss_type': 'BCE', 'plot': False, '_wandb': {}}
+2025-11-24 09:35:25,193 INFO    MainThread:3062280 [wandb_init.py:init():888] starting backend
+2025-11-24 09:35:25,439 INFO    MainThread:3062280 [wandb_init.py:init():891] sending inform_init request
+2025-11-24 09:35:25,467 INFO    MainThread:3062280 [wandb_init.py:init():899] backend started and connected
+2025-11-24 09:35:25,473 INFO    MainThread:3062280 [wandb_init.py:init():969] updated telemetry
+2025-11-24 09:35:25,540 INFO    MainThread:3062280 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2025-11-24 09:35:26,176 INFO    MainThread:3062280 [wandb_init.py:init():1040] starting run threads in backend
+2025-11-24 09:35:26,302 INFO    MainThread:3062280 [wandb_run.py:_console_start():2504] atexit reg
+2025-11-24 09:35:26,303 INFO    MainThread:3062280 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2025-11-24 09:35:26,303 INFO    MainThread:3062280 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2025-11-24 09:35:26,304 INFO    MainThread:3062280 [wandb_run.py:_redirect():2444] Redirects installed.
+2025-11-24 09:35:26,306 INFO    MainThread:3062280 [wandb_init.py:init():1080] run started, returning control to user process
+2025-11-24 09:35:27,025 INFO    wandb-AsyncioManager-main:3062280 [service_client.py:_forward_responses():80] Reached EOF.
+2025-11-24 09:35:27,025 INFO    wandb-AsyncioManager-main:3062280 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.

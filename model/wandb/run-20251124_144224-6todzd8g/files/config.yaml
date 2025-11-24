@@ -1,0 +1,89 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            c9i3xmgnk8znw2977m53gyo6l8gq7v3p:
+                args:
+                    - --G_f
+                    - ../data/5-network/global_ggi_edgelist.txt
+                    - --ppi_dir
+                    - ../data/5-network/ggi_edgelists/
+                    - --mg_f
+                    - ../data/5-network/mg_ac_edgelist.txt
+                    - --save_prefix
+                    - ../data/6-panacea_embeds/
+                codePath: train.py
+                codePathLocal: train.py
+                cpu_count: 5
+                cpu_count_logical: 10
+                cudaVersion: "11.7"
+                disk:
+                    /:
+                        total: "105620869120"
+                        used: "100427788288"
+                email: yangziyi091100@gmail.com
+                executable: /data/anaconda3/envs/panacea/bin/python
+                gpu: Tesla T4
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "8053063680"
+                      name: Tesla T4
+                      uuid: GPU-a7ff706c-ce72-e33f-fc21-ef5075655a27
+                host: VM-217-232-tencentos
+                memory:
+                    total: "37575184384"
+                os: Linux-5.4.119-19.0009.37-x86_64-with-glibc2.28
+                program: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py
+                python: CPython 3.9.25
+                root: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model
+                startedAt: "2025-11-24T06:42:24.313281Z"
+                writerId: c9i3xmgnk8znw2977m53gyo6l8gq7v3p
+        m: []
+        python_version: 3.9.25
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 77
+            "2":
+                - 1
+                - 5
+                - 53
+                - 77
+            "3":
+                - 16
+            "4": 3.9.25
+            "5": 0.23.0
+            "12": 0.23.0
+            "13": linux-x86_64
+dropout:
+    value: 0.5
+feat_mat:
+    value: 128
+gradclip:
+    value: 1
+hidden:
+    value: 16
+lambda:
+    value: 0.01
+loss_type:
+    value: BCE
+lr:
+    value: 0.001
+lr_cent:
+    value: 0.01
+n_heads:
+    value: 8
+output:
+    value: 8
+pc_att_channels:
+    value: 8
+plot:
+    value: false
+theta:
+    value: 0.1
+wd:
+    value: 0.0005

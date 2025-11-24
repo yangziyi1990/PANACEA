@@ -1,0 +1,72 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            kf1155xhqrm76zcpcr9jq9gcs097lnx5:
+                args:
+                    - --G_f
+                    - /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/5-networks/global_ggi_edgelist.txt
+                    - --ppi_dir
+                    - /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/5-networks/ggi_edgelists/
+                    - --mg_f
+                    - /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/5-networks/mg_ac_edgelist.txt
+                    - --save_prefix
+                    - /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/6-panacea_embeds/
+                codePath: train.py
+                codePathLocal: train.py
+                email: yangziyi091100@gmail.com
+                executable: /data/anaconda3/envs/panacea/bin/python
+                host: VM-217-232-tencentos
+                os: Linux-5.4.119-19.0009.37-x86_64-with-glibc2.28
+                program: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py
+                python: CPython 3.9.25
+                root: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model
+                startedAt: "2025-11-24T06:38:05.953125Z"
+                writerId: kf1155xhqrm76zcpcr9jq9gcs097lnx5
+        m: []
+        python_version: 3.9.25
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 77
+            "2":
+                - 1
+                - 5
+                - 53
+                - 77
+            "3":
+                - 16
+            "4": 3.9.25
+            "5": 0.23.0
+            "12": 0.23.0
+            "13": linux-x86_64
+dropout:
+    value: 0.5
+feat_mat:
+    value: 128
+gradclip:
+    value: 1
+hidden:
+    value: 16
+lambda:
+    value: 0.01
+loss_type:
+    value: BCE
+lr:
+    value: 0.001
+lr_cent:
+    value: 0.01
+n_heads:
+    value: 8
+output:
+    value: 8
+pc_att_channels:
+    value: 8
+plot:
+    value: false
+theta:
+    value: 0.1
+wd:
+    value: 0.0005

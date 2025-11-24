@@ -1,0 +1,13 @@
+---------G_f/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/5-networks/global_ggi_edgelist.txt
+Traceback (most recent call last):
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py", line 73, in <module>
+    ppi_data, mg_data, edge_attr_dict, celltype_map, tissue_neighbors, ppi_layers, metagraph = read_data(args.G_f, args.ppi_dir, args.mg_f, hparams['feat_mat'])
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/generate_input.py", line 85, in read_data
+    G = nx.read_edgelist(G_f)
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/utils/decorators.py", line 770, in func
+    return argmap._lazy_compile(__wrapper)(*args, **kwargs)
+  File "<class 'networkx.utils.decorators.argmap'> compilation 5", line 3, in argmap_read_edgelist_1
+    import gzip
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/utils/decorators.py", line 193, in _open_file
+    fobj = _dispatch_dict[ext](path, mode=mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/data/5-networks/global_ggi_edgelist.txt'

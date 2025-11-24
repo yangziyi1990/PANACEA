@@ -1,0 +1,8 @@
+---------G_f../data/5-network/global_ggi_edgelist.txt
+Number of PPI layers: 2460 2460 2460 2460
+Traceback (most recent call last):
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py", line 73, in <module>
+    ppi_data, mg_data, edge_attr_dict, celltype_map, tissue_neighbors, ppi_layers, metagraph = read_data(args.G_f, args.ppi_dir, args.mg_f, hparams['feat_mat'])
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/generate_input.py", line 97, in read_data
+    assert nx.is_connected(metagraph.to_undirected())
+AssertionError

@@ -1,0 +1,23 @@
+{
+  "os": "Linux-5.4.119-19.0009.37-x86_64-with-glibc2.28",
+  "python": "CPython 3.9.25",
+  "startedAt": "2025-11-24T06:35:52.164103Z",
+  "args": [
+    "--G_f",
+    "../data/5-networks/global_ggi_edgelist.txt",
+    "--ppi_dir",
+    "../data/5-networks/ggi_edgelists/",
+    "--mg_f",
+    "../data/5-networks/mg_ac_edgelist.txt",
+    "--save_prefix",
+    "../data/6-panacea_embeds/"
+  ],
+  "program": "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model/train.py",
+  "codePath": "train.py",
+  "codePathLocal": "train.py",
+  "email": "yangziyi091100@gmail.com",
+  "root": "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/model",
+  "host": "VM-217-232-tencentos",
+  "executable": "/data/anaconda3/envs/panacea/bin/python",
+  "writerId": "gqeehgyjbgtug92hgzcsluq94b0sdbeo"
+}

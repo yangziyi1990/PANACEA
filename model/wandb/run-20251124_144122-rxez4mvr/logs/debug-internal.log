@@ -1,0 +1,11 @@
+{"time":"2025-11-24T14:41:22.770006339+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-24T14:41:23.13305503+08:00","level":"INFO","msg":"stream: created new stream","id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:23.133370089+08:00","level":"INFO","msg":"handler: started","stream_id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:23.141633249+08:00","level":"INFO","msg":"stream: started","id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:23.141658025+08:00","level":"INFO","msg":"sender: started","stream_id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:23.141665599+08:00","level":"INFO","msg":"writer: started","stream_id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:26.615979643+08:00","level":"INFO","msg":"stream: closing","id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:28.172676518+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-24T14:41:28.480307627+08:00","level":"INFO","msg":"handler: closed","stream_id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:28.480953671+08:00","level":"INFO","msg":"sender: closed","stream_id":"rxez4mvr"}
+{"time":"2025-11-24T14:41:28.481108779+08:00","level":"INFO","msg":"stream: closed","id":"rxez4mvr"}

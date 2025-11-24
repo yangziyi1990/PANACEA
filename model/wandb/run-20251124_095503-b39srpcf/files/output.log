@@ -1,0 +1,265 @@
+------ppi_dir: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/corneal_keratocyte.txt
+------content: cluster:corneal keratocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/adipocyte.txt
+------content: cluster:adipocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/double-positive,_alpha-beta_thymocyte.txt
+------content: cluster:double-positive, alpha-beta thymocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tendon_cell.txt
+------content: cluster:tendon cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myoepithelial_cell.txt
+------content: cluster:myoepithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/respiratory_mucous_cell.txt
+------content: cluster:respiratory mucous cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myeloid_progenitor.txt
+------content: cluster:myeloid progenitor
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tongue_muscle_cell.txt
+------content: cluster:tongue muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/melanocyte.txt
+------content: cluster:melanocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/plasma_cell.txt
+------content: cluster:plasma cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/kidney_epithelial_cell.txt
+------content: cluster:kidney epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/eye_photoreceptor_cell.txt
+------content: cluster:eye photoreceptor cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/stromal_cell.txt
+------content: cluster:stromal cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/conjunctival_epithelial_cell.txt
+------content: cluster:conjunctival epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/type_i_nk_t_cell.txt
+------content: cluster:type i nk t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/luminal_cell_of_prostate_epithelium.txt
+------content: cluster:luminal cell of prostate epithelium
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mesothelial_cell.txt
+------content: cluster:mesothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/lymphatic_endothelial_cell.txt
+------content: cluster:lymphatic endothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/macrophage.txt
+------content: cluster:macrophage
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/connective_tissue_cell.txt
+------content: cluster:connective tissue cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intestinal_enteroendocrine_cell.txt
+------content: cluster:intestinal enteroendocrine cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/retinal_blood_vessel_endothelial_cell.txt
+------content: cluster:retinal blood vessel endothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/skeletal_muscle_satellite_stem_cell.txt
+------content: cluster:skeletal muscle satellite stem cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mature_enterocyte.txt
+------content: cluster:mature enterocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/duct_epithelial_cell.txt
+------content: cluster:duct epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/transit_amplifying_cell_of_large_intestine.txt
+------content: cluster:transit amplifying cell of large intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myofibroblast_cell.txt
+------content: cluster:myofibroblast cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/tracheal_goblet_cell.txt
+------content: cluster:tracheal goblet cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/fibroblast_of_cardiac_tissue.txt
+------content: cluster:fibroblast of cardiac tissue
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/vascular_associated_smooth_muscle_cell.txt
+------content: cluster:vascular associated smooth muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pericyte_cell.txt
+------content: cluster:pericyte cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cardiac_muscle_cell.txt
+------content: cluster:cardiac muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/endothelial_cell_of_hepatic_sinusoid.txt
+------content: cluster:endothelial cell of hepatic sinusoid
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/club_cell.txt
+------content: cluster:club cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_ductal_cell.txt
+------content: cluster:pancreatic ductal cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/immature_enterocyte.txt
+------content: cluster:immature enterocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/hematopoietic_stem_cell.txt
+------content: cluster:hematopoietic stem cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/b_cell.txt
+------content: cluster:b cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd141-positive_myeloid_dendritic_cell.txt
+------content: cluster:cd141-positive myeloid dendritic cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/fibroblast_of_breast.txt
+------content: cluster:fibroblast of breast
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_beta_cell.txt
+------content: cluster:pancreatic beta cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/small_intestine_goblet_cell.txt
+------content: cluster:small intestine goblet cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/endothelial_cell.txt
+------content: cluster:endothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/retina_horizontal_cell.txt
+------content: cluster:retina horizontal cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intrahepatic_cholangiocyte.txt
+------content: cluster:intrahepatic cholangiocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_stellate_cell.txt
+------content: cluster:pancreatic stellate cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/langerhans_cell.txt
+------content: cluster:langerhans cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/type_i_pneumocyte.txt
+------content: cluster:type i pneumocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd24_neutrophil.txt
+------content: cluster:cd24 neutrophil
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/luminal_epithelial_cell_of_mammary_gland.txt
+------content: cluster:luminal epithelial cell of mammary gland
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/immune_cell.txt
+------content: cluster:immune cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/dn4_thymocyte.txt
+------content: cluster:dn4 thymocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mucus_secreting_cell.txt
+------content: cluster:mucus secreting cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/ciliated_cell.txt
+------content: cluster:ciliated cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/muscle_cell.txt
+------content: cluster:muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd1c-positive_myeloid_dendritic_cell.txt
+------content: cluster:cd1c-positive myeloid dendritic cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/regulatory_t_cell.txt
+------content: cluster:regulatory t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/enterocyte_of_epithelium_of_small_intestine.txt
+------content: cluster:enterocyte of epithelium of small intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/basal_cell.txt
+------content: cluster:basal cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/smooth_muscle_cell.txt
+------content: cluster:smooth muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/duodenum_glandular_cell.txt
+------content: cluster:duodenum glandular cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/lung_ciliated_cell.txt
+------content: cluster:lung ciliated cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/medullary_thymic_epithelial_cell.txt
+------content: cluster:medullary thymic epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/non-classical_monocyte.txt
+------content: cluster:non-classical monocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd4-positive,_alpha-beta_memory_t_cell.txt
+------content: cluster:cd4-positive, alpha-beta memory t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/paneth_cell_of_epithelium_of_small_intestine.txt
+------content: cluster:paneth cell of epithelium of small intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/sperm.txt
+------content: cluster:sperm
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/mesenchymal_stem_cell.txt
+------content: cluster:mesenchymal stem cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intestinal_tuft_cell.txt
+------content: cluster:intestinal tuft cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/microglial_cell.txt
+------content: cluster:microglial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/adventitial_cell.txt
+------content: cluster:adventitial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/classical_monocyte.txt
+------content: cluster:classical monocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/bladder_urothelial_cell.txt
+------content: cluster:bladder urothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/epithelial_cell_of_uterus.txt
+------content: cluster:epithelial cell of uterus
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cell_of_skeletal_muscle.txt
+------content: cluster:cell of skeletal muscle
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/endothelial_cell_of_lymphatic_vessel.txt
+------content: cluster:endothelial cell of lymphatic vessel
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intestinal_crypt_stem_cell.txt
+------content: cluster:intestinal crypt stem cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myeloid_cell.txt
+------content: cluster:myeloid cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/dn3_thymocyte.txt
+------content: cluster:dn3 thymocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/erythroid_progenitor.txt
+------content: cluster:erythroid progenitor
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/hillock_cell_of_prostate_epithelium.txt
+------content: cluster:hillock cell of prostate epithelium
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/paneth_cell_of_epithelium_of_large_intestine.txt
+------content: cluster:paneth cell of epithelium of large intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/retinal_bipolar_neuron.txt
+------content: cluster:retinal bipolar neuron
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pulmonary_ionocyte.txt
+------content: cluster:pulmonary ionocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/large_intestine_goblet_cell.txt
+------content: cluster:large intestine goblet cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/alveolar_fibroblast.txt
+------content: cluster:alveolar fibroblast
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/epithelial_cell.txt
+------content: cluster:epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/capillary_endothelial_cell.txt
+------content: cluster:capillary endothelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd4-positive_helper_t_cell.txt
+------content: cluster:cd4-positive helper t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/epithelial_cell_of_lacrimal_sac.txt
+------content: cluster:epithelial cell of lacrimal sac
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd8-positive,_alpha-beta_cytokine_secreting_effector_t_cell.txt
+------content: cluster:cd8-positive, alpha-beta cytokine secreting effector t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/fast_muscle_cell.txt
+------content: cluster:fast muscle cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_delta_cell.txt
+------content: cluster:pancreatic delta cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/type_ii_pneumocyte.txt
+------content: cluster:type ii pneumocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/liver_dendritic_cell.txt
+------content: cluster:liver dendritic cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/basal_cell_of_prostate_epithelium.txt
+------content: cluster:basal cell of prostate epithelium
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/nampt_neutrophil.txt
+------content: cluster:nampt neutrophil
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/memory_b_cell.txt
+------content: cluster:memory b cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/plasmablast.txt
+------content: cluster:plasmablast
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/naive_regulatory_t_cell.txt
+------content: cluster:naive regulatory t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/cd8-positive,_alpha-beta_cytotoxic_t_cell.txt
+------content: cluster:cd8-positive, alpha-beta cytotoxic t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/limbal_stem_cell.txt
+------content: cluster:limbal stem cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/nk_cell.txt
+------content: cluster:nk cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_pp_cell.txt
+------content: cluster:pancreatic pp cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/transit_amplifying_cell_of_small_intestine.txt
+------content: cluster:transit amplifying cell of small intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/naive_thymus-derived_cd4-positive,_alpha-beta_t_cell.txt
+------content: cluster:naive thymus-derived cd4-positive, alpha-beta t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/serous_cell_of_epithelium_of_bronchus.txt
+------content: cluster:serous cell of epithelium of bronchus
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/limbal_stromal_cell.txt
+------content: cluster:limbal stromal cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/intestinal_crypt_stem_cell_of_large_intestine.txt
+------content: cluster:intestinal crypt stem cell of large intestine
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/keratinocyte.txt
+------content: cluster:keratinocyte
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/dn1_thymic_pro-t_cell.txt
+------content: cluster:dn1 thymic pro-t cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/ciliated_epithelial_cell.txt
+------content: cluster:ciliated epithelial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/hillock-club_cell_of_prostate_epithelium.txt
+------content: cluster:hillock-club cell of prostate epithelium
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/ciliary_body.txt
+------content: cluster:ciliary body
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/immature_natural_killer_cell.txt
+------content: cluster:immature natural killer cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/myometrial_cell.txt
+------content: cluster:myometrial cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/dendritic_cell.txt
+------content: cluster:dendritic cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/acinar_cell_of_salivary_gland.txt
+------content: cluster:acinar cell of salivary gland
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/pancreatic_alpha_cell.txt
+------content: cluster:pancreatic alpha cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/plasmacytoid_dendritic_cell.txt
+------content: cluster:plasmacytoid dendritic cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/lacrimal_gland_functional_unit_cell.txt
+------content: cluster:lacrimal gland functional unit cell
+++------f: /opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/data/networks/ppi_edgelists/radial_glial_cell.txt
+------content: cluster:radial glial cell
+Traceback (most recent call last):
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/train.py", line 69, in <module>
+    ppi_data, mg_data, edge_attr_dict, celltype_map, tissue_neighbors, ppi_layers, metagraph = read_data(args.G_f, args.ppi_dir, args.mg_f, hparams['feat_mat'])
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/generate_input.py", line 97, in read_data
+    orig_ppi_layers, ppi_layers, ppi_train, ppi_val, ppi_test = read_ppi(ppi_dir)
+  File "/opt/ai4g_chriszyyang/buddy1/2_project_ongoing/4-antibio_resistance/PANACEA/PINNACLE/pinnacle/generate_input.py", line 50, in read_ppi
+    ppi_layers[context] = nx.relabel_nodes(ppi, mapping)
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/utils/backends.py", line 412, in __call__
+    return self.orig_func(*args, **kwargs)
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/relabel.py", line 123, in relabel_nodes
+    return _relabel_copy(G, m)
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/relabel.py", line 216, in _relabel_copy
+    H.add_edges_from(
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/graph.py", line 1016, in add_edges_from
+    for e in ebunch_to_add:
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/relabel.py", line 216, in <genexpr>
+    H.add_edges_from(
+  File "/data/anaconda3/envs/panacea/lib/python3.9/site-packages/networkx/classes/reportviews.py", line 848, in __iter__
+    for nbr, dd in nbrs.items():
+KeyboardInterrupt
