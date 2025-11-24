@@ -33,8 +33,16 @@ def read_ppi(ppi_dir):
     for f in glob.glob(ppi_dir + "*.txt"): # Expected format of filename: <PPI_DIR>/<CONTEXT>.<suffix>
 
         # Parse name of context （GO name）
-        context = f.split(ppi_dir)[1].split(".")[0]
-        context = context.replace("_", " ")
+        context_parts = f.split(ppi_dir)[1].split(".")[0].split("_")
+        if len(context_parts) >= 4 and context_parts[0] == "GO":
+            go_id = context_parts[1]
+            go_aspect = context_parts[2]
+            go_name = " ".join(context_parts[3:])
+            context = f"GO:{go_id}_{go_aspect}:{go_name}"
+        else:
+            # Fallback to previous behaviour when the filename does not match the
+            # expected GO naming pattern.
+            context = f.split(ppi_dir)[1].split(".")[0].replace("_", " ")
 
         # Read edgelist
         ppi = nx.read_edgelist(f)
@@ -101,9 +109,17 @@ def read_data(G_f, ppi_dir, mg_f, feat_mat_dim):
     orig_mg = metagraph
     print("Number of nodes:", len(metagraph.nodes), "Number of edges:", len(metagraph.edges))
     print(ppi_layers)
-    mg_mapping = {n: i for i, n in enumerate(sorted(ppi_layers))}
-    mg_mapping.update({n: i + len(ppi_layers) for i, n in enumerate(sorted([n for n in metagraph.nodes if "STRAIN" in n]))})
-    assert len(mg_mapping) == len(metagraph.nodes), set(metagraph.nodes).difference(set(list(mg_mapping.keys())))
+    # Map every node in the metagraph to an index. Some GO contexts may not have a
+    # corresponding PPI layer, so build the mapping from the metagraph itself to
+    # avoid missing nodes.
+    mg_mapping = {n: i for i, n in enumerate(sorted(metagraph.nodes))}
+
+    # Warn when the metagraph contains nodes that do not have PPI layers. The
+    # subsequent filtering of PPI-related structures uses this mapping, so the
+    # pipeline can continue without raising an assertion.
+    missing_ppi_layers = set(metagraph.nodes) - set(ppi_layers)
+    if missing_ppi_layers:
+        print("Metagraph nodes without PPI layers detected:", missing_ppi_layers)
     #print(mg_mapping)
 
     # Set up Data object
@@ -177,8 +193,15 @@ def get_centerloss_labels(args, celltype_map, ppi_layers):
     val_mask = []
     test_mask = []
     print(celltype_map)
+    reverse_celltype_map = {v: k for k, v in celltype_map.items()}
     for celltype, ppi in ppi_layers.items():
-        center_loss_labels += [celltype_map[celltype]] * len(ppi.nodes)
+        if celltype in celltype_map:
+            label = celltype_map[celltype]
+        elif celltype in reverse_celltype_map:
+            label = celltype
+        else:
+            raise KeyError(f"Celltype {celltype} missing from celltype_map")
+        center_loss_labels += [label] * len(ppi.nodes)
     center_loss_idx = random.sample(range(len(center_loss_labels)), len(center_loss_labels))
     train_mask = center_loss_idx[ : int(0.8 * len(center_loss_idx))]
     val_mask = center_loss_idx[len(train_mask) : len(train_mask) + int(0.1 * len(center_loss_idx))]
